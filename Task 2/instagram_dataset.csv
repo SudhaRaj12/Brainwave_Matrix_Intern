@@ -1,0 +1,2001 @@
+comment_id,username,comment,timestamp,likes,sentiment,total_comments,total_shares,post_type,topic
+1,user_8630,Could be better.,2024-09-21 19:53:00,483,Negative,765,151,Reel,Health
+2,user_6245,Decent enough.,2024-09-21 06:11:00,453,Neutral,929,316,Video,Sports
+3,user_1597,Just another day.,2024-05-20 06:42:00,342,Neutral,655,348,Image,Food
+4,user_9878,Worst experience ever!,2024-01-02 18:06:00,238,Negative,593,232,Image,Health
+5,user_4118,Best experience ever! 😊,2024-10-06 02:25:00,30,Positive,84,46,Video,Sports
+6,user_1976,Worst experience ever!,2024-03-09 17:47:00,275,Negative,621,413,Image,Technology
+7,user_6553,Highly recommend this! 👍,2024-04-11 17:35:00,380,Positive,496,38,Image,Technology
+8,user_1094,Could be better.,2024-06-15 19:27:00,32,Negative,404,114,Reel,Travel
+9,user_4905,It's alright.,2024-08-23 07:29:00,323,Neutral,635,487,Story,Education
+10,user_8430,Highly recommend this! 👍,2024-11-28 17:43:00,352,Positive,382,460,Reel,Travel
+11,user_6394,Never buying this again.,2024-03-09 06:19:00,141,Negative,544,110,Story,Health
+12,user_8705,Super excited about this! 🎉,2024-04-25 15:36:00,251,Positive,427,344,Image,Animal
+13,user_3396,Worst experience ever!,2024-12-08 09:11:00,446,Negative,422,368,Image,Technology
+14,user_6799,Highly recommend this! 👍,2024-09-11 03:41:00,382,Positive,841,499,Story,Health
+15,user_9533,Super excited about this! 🎉,2024-02-12 23:42:00,110,Positive,401,478,Reel,Travel
+16,user_7646,Just another day.,2024-06-01 17:28:00,284,Neutral,103,16,Story,Animal
+17,user_6241,Not a fan of this. 👎,2024-11-11 16:09:00,420,Negative,568,127,Reel,Animal
+18,user_2849,Not sure about this.,2024-08-15 18:42:00,206,Neutral,963,446,Image,Technology
+19,user_4682,This is amazing! 🔥,2024-04-02 03:42:00,264,Positive,761,105,Image,Travel
+20,user_3896,Not a fan of this. 👎,2024-12-12 09:49:00,167,Negative,331,277,Story,Travel
+21,user_4433,Never buying this again.,2024-07-12 06:46:00,73,Negative,130,328,Story,Food
+22,user_6364,Might try it later.,2024-03-06 01:41:00,187,Neutral,560,235,Reel,Technology
+23,user_2753,Disappointed with the service. 😡,2024-09-23 06:42:00,212,Negative,155,280,Story,Health
+24,user_3697,Never buying this again.,2024-02-01 11:19:00,364,Negative,721,201,Video,Travel
+25,user_9100,Decent enough.,2024-09-08 06:45:00,264,Neutral,175,315,Reel,Sports
+26,user_2229,Super excited about this! 🎉,2024-11-08 06:07:00,287,Positive,549,402,Story,Health
+27,user_2210,This looks okay.,2024-04-27 02:44:00,431,Neutral,571,47,Story,Technology
+28,user_4167,Decent enough.,2024-07-12 15:27:00,99,Neutral,165,242,Video,Travel
+29,user_6214,Super excited about this! 🎉,2024-06-25 18:48:00,408,Positive,388,162,Image,Sports
+30,user_8517,Love this product! ❤️,2024-05-04 16:44:00,223,Positive,276,303,Story,Technology
+31,user_2880,Not sure about this.,2024-07-11 02:16:00,125,Neutral,245,368,Video,Sports
+32,user_8326,It's alright.,2024-04-13 15:25:00,173,Neutral,867,211,Image,Food
+33,user_1052,Super excited about this! 🎉,2024-03-15 03:56:00,83,Positive,859,175,Story,Technology
+34,user_6335,This looks okay.,2024-06-02 17:17:00,334,Neutral,443,475,Story,Technology
+35,user_8387,Could be better.,2024-12-09 16:59:00,52,Negative,782,252,Video,Food
+36,user_2368,Such a beautiful place! 🌍,2024-03-20 07:14:00,448,Positive,828,142,Story,Animal
+37,user_6051,Worst experience ever!,2024-12-06 15:31:00,181,Negative,770,96,Reel,Travel
+38,user_7599,Never buying this again.,2024-01-18 10:19:00,452,Negative,488,45,Reel,Education
+39,user_5552,This is amazing! 🔥,2024-01-17 18:52:00,215,Positive,300,96,Video,Technology
+40,user_8409,Best experience ever! 😊,2024-01-17 15:00:00,397,Positive,746,138,Reel,Health
+41,user_2977,Super excited about this! 🎉,2024-10-01 01:14:00,298,Positive,72,255,Video,Education
+42,user_9620,This is amazing! 🔥,2024-03-05 06:13:00,148,Positive,72,75,Story,Fashion
+43,user_1406,Could be better.,2024-02-01 22:20:00,102,Negative,350,415,Video,Health
+44,user_8733,Not sure about this.,2024-03-12 10:19:00,65,Neutral,304,440,Image,Travel
+45,user_6093,Not sure about this.,2024-03-04 02:39:00,472,Neutral,183,297,Video,Health
+46,user_1476,Not a fan of this. 👎,2024-03-23 16:35:00,444,Negative,395,262,Video,Food
+47,user_4302,Not a fan of this. 👎,2024-04-24 16:50:00,270,Negative,873,10,Story,Food
+48,user_9229,Highly recommend this! 👍,2024-08-12 08:52:00,269,Positive,884,148,Reel,Sports
+49,user_7795,Super excited about this! 🎉,2024-08-11 23:16:00,423,Positive,498,333,Story,Technology
+50,user_4889,Super excited about this! 🎉,2024-09-18 18:21:00,65,Positive,680,125,Image,Animal
+51,user_8202,Not sure about this.,2024-12-10 15:19:00,6,Neutral,842,60,Story,Travel
+52,user_6680,Super excited about this! 🎉,2024-05-24 10:06:00,413,Positive,161,291,Image,Education
+53,user_7046,This looks okay.,2024-03-28 02:30:00,356,Neutral,357,101,Video,Animal
+54,user_9746,Not a fan of this. 👎,2024-12-08 02:31:00,237,Negative,80,128,Image,Education
+55,user_6033,Such a beautiful place! 🌍,2024-12-03 01:18:00,337,Positive,79,474,Image,Animal
+56,user_7431,Not a fan of this. 👎,2024-10-18 01:17:00,165,Negative,58,353,Image,Sports
+57,user_1271,Highly recommend this! 👍,2024-07-14 16:50:00,369,Positive,745,64,Story,Education
+58,user_1529,Such a beautiful place! 🌍,2024-12-27 07:17:00,495,Positive,555,364,Video,Sports
+59,user_8467,Worst experience ever!,2024-05-24 01:14:00,394,Negative,532,339,Story,Technology
+60,user_8670,Such a beautiful place! 🌍,2024-05-18 10:38:00,84,Positive,619,45,Reel,Fashion
+61,user_4262,This looks okay.,2024-07-12 04:59:00,487,Neutral,148,26,Reel,Fashion
+62,user_4752,Not a fan of this. 👎,2024-10-09 05:36:00,66,Negative,996,6,Video,Technology
+63,user_5041,Worst experience ever!,2024-04-06 12:44:00,122,Negative,550,383,Video,Fashion
+64,user_2229,Best experience ever! 😊,2024-03-09 03:43:00,241,Positive,990,254,Video,Education
+65,user_1895,Could be better.,2024-06-02 02:47:00,172,Negative,687,105,Video,Education
+66,user_1762,Decent enough.,2024-07-14 08:56:00,296,Neutral,225,59,Video,Fashion
+67,user_8989,Best experience ever! 😊,2024-12-08 12:30:00,104,Positive,896,481,Story,Sports
+68,user_7419,Disappointed with the service. 😡,2024-09-03 09:48:00,375,Negative,585,42,Image,Travel
+69,user_5784,This looks okay.,2024-05-15 18:32:00,357,Neutral,48,81,Reel,Health
+70,user_3729,Never buying this again.,2024-11-16 18:35:00,127,Negative,747,367,Reel,Fashion
+71,user_1996,Just another day.,2024-04-07 16:49:00,129,Neutral,352,410,Video,Travel
+72,user_6744,Never buying this again.,2024-10-19 20:19:00,33,Negative,684,280,Video,Fashion
+73,user_4330,This is amazing! 🔥,2024-05-06 09:23:00,112,Positive,171,272,Video,Travel
+74,user_8065,Never buying this again.,2024-03-24 06:05:00,337,Negative,44,190,Reel,Travel
+75,user_1884,Highly recommend this! 👍,2024-03-21 13:39:00,267,Positive,97,298,Reel,Animal
+76,user_4157,This is amazing! 🔥,2024-05-05 12:00:00,152,Positive,169,231,Video,Fashion
+77,user_6434,Disappointed with the service. 😡,2024-04-17 08:36:00,389,Negative,866,311,Video,Sports
+78,user_9332,Worst experience ever!,2024-05-11 09:24:00,390,Negative,760,264,Video,Animal
+79,user_1690,Decent enough.,2024-04-25 08:00:00,247,Neutral,29,460,Reel,Technology
+80,user_2934,Such a beautiful place! 🌍,2024-04-06 02:56:00,83,Positive,56,229,Image,Food
+81,user_7894,Decent enough.,2024-10-08 12:47:00,98,Neutral,656,108,Video,Sports
+82,user_3033,Highly recommend this! 👍,2024-09-20 03:49:00,355,Positive,769,288,Video,Health
+83,user_4875,Love this product! ❤️,2024-07-08 02:09:00,340,Positive,1000,400,Reel,Travel
+84,user_8304,It's alright.,2024-04-27 22:50:00,162,Neutral,426,196,Story,Education
+85,user_7200,Decent enough.,2024-04-12 09:11:00,487,Neutral,685,336,Image,Technology
+86,user_4396,Decent enough.,2024-01-03 16:02:00,428,Neutral,322,26,Video,Food
+87,user_3761,Worst experience ever!,2024-10-21 13:27:00,149,Negative,895,141,Story,Health
+88,user_3128,Never buying this again.,2024-02-26 12:27:00,493,Negative,825,130,Reel,Health
+89,user_1323,Not sure about this.,2024-04-18 02:18:00,226,Neutral,834,389,Reel,Animal
+90,user_7260,Best experience ever! 😊,2024-11-16 00:42:00,443,Positive,957,150,Video,Animal
+91,user_7018,Totally not worth it!,2024-02-07 22:59:00,451,Negative,394,130,Story,Technology
+92,user_6938,Love this product! ❤️,2024-11-14 22:18:00,407,Positive,117,366,Reel,Health
+93,user_5289,Worst experience ever!,2024-03-05 07:30:00,209,Negative,557,322,Video,Education
+94,user_2001,Not sure about this.,2024-08-24 05:43:00,410,Neutral,517,60,Story,Fashion
+95,user_8673,Highly recommend this! 👍,2024-04-14 15:57:00,452,Positive,386,63,Video,Health
+96,user_7618,Totally not worth it!,2024-09-17 08:57:00,133,Negative,70,455,Video,Fashion
+97,user_6181,Just another day.,2024-03-01 21:28:00,50,Neutral,919,45,Video,Animal
+98,user_2121,This looks okay.,2024-02-03 02:27:00,296,Neutral,800,281,Image,Travel
+99,user_7000,Worst experience ever!,2024-05-04 05:15:00,7,Negative,907,130,Video,Animal
+100,user_7169,Love this product! ❤️,2024-02-12 07:55:00,78,Positive,799,10,Reel,Health
+101,user_3691,Best experience ever! 😊,2024-03-07 17:18:00,386,Positive,710,39,Image,Travel
+102,user_1509,Super excited about this! 🎉,2024-11-14 15:19:00,474,Positive,360,5,Image,Animal
+103,user_3599,Best experience ever! 😊,2024-06-04 13:29:00,457,Positive,443,186,Story,Fashion
+104,user_7956,Highly recommend this! 👍,2024-05-25 21:49:00,488,Positive,793,345,Reel,Sports
+105,user_5611,Totally not worth it!,2024-07-16 05:56:00,474,Negative,48,260,Image,Food
+106,user_7267,Disappointed with the service. 😡,2024-07-15 13:17:00,360,Negative,831,389,Image,Technology
+107,user_4911,Not sure about this.,2024-05-13 13:49:00,246,Neutral,791,147,Reel,Health
+108,user_8889,Disappointed with the service. 😡,2024-03-24 05:42:00,102,Negative,755,135,Story,Fashion
+109,user_4349,It's alright.,2024-10-16 20:59:00,328,Neutral,502,69,Story,Health
+110,user_8577,Disappointed with the service. 😡,2024-10-18 22:45:00,84,Negative,619,207,Reel,Technology
+111,user_8527,Highly recommend this! 👍,2024-09-06 02:50:00,363,Positive,468,131,Image,Travel
+112,user_7688,Might try it later.,2024-12-23 11:07:00,345,Neutral,809,171,Reel,Sports
+113,user_9963,Decent enough.,2024-01-26 14:37:00,286,Neutral,352,366,Reel,Health
+114,user_2367,This is amazing! 🔥,2024-10-11 09:25:00,350,Positive,645,261,Story,Fashion
+115,user_9559,Might try it later.,2024-12-28 08:07:00,197,Neutral,443,15,Story,Sports
+116,user_3997,Super excited about this! 🎉,2024-04-21 00:07:00,73,Positive,204,7,Story,Sports
+117,user_9465,Disappointed with the service. 😡,2024-07-07 09:55:00,215,Negative,496,374,Story,Travel
+118,user_2825,Best experience ever! 😊,2024-04-10 07:08:00,331,Positive,894,174,Video,Fashion
+119,user_8024,Love this product! ❤️,2024-07-09 20:56:00,298,Positive,171,284,Image,Animal
+120,user_6461,It's alright.,2024-08-11 02:57:00,460,Neutral,37,189,Story,Animal
+121,user_2004,Worst experience ever!,2024-08-18 07:18:00,341,Negative,798,320,Story,Technology
+122,user_9925,Worst experience ever!,2024-08-11 13:20:00,50,Negative,584,67,Reel,Animal
+123,user_6512,This looks okay.,2024-10-26 19:27:00,213,Neutral,604,232,Reel,Education
+124,user_6335,This looks okay.,2024-12-24 16:52:00,387,Neutral,539,497,Image,Sports
+125,user_7838,Worst experience ever!,2024-02-25 09:57:00,32,Negative,163,325,Video,Technology
+126,user_2524,This looks okay.,2024-04-08 14:02:00,375,Neutral,283,323,Image,Health
+127,user_5679,Decent enough.,2024-03-24 00:30:00,191,Neutral,479,356,Image,Animal
+128,user_5728,Decent enough.,2024-11-27 00:03:00,399,Neutral,932,103,Story,Food
+129,user_6085,Best experience ever! 😊,2024-12-15 01:22:00,160,Positive,723,11,Image,Education
+130,user_1782,Could be better.,2024-11-06 13:33:00,497,Negative,617,126,Video,Fashion
+131,user_8678,Super excited about this! 🎉,2024-05-08 04:31:00,414,Positive,253,439,Reel,Sports
+132,user_8660,Highly recommend this! 👍,2024-05-25 04:12:00,271,Positive,580,456,Image,Health
+133,user_4759,Just another day.,2024-10-24 09:53:00,221,Neutral,207,444,Reel,Sports
+134,user_4761,Not a fan of this. 👎,2024-06-06 04:26:00,67,Negative,733,71,Image,Fashion
+135,user_2568,Just another day.,2024-05-10 21:09:00,162,Neutral,362,458,Reel,Sports
+136,user_5533,It's alright.,2024-03-06 10:43:00,475,Neutral,128,142,Story,Health
+137,user_2016,Disappointed with the service. 😡,2024-11-11 11:45:00,345,Negative,505,461,Reel,Health
+138,user_5542,Decent enough.,2024-09-17 15:28:00,257,Neutral,560,52,Image,Animal
+139,user_2544,Could be better.,2024-08-24 17:16:00,251,Negative,276,49,Image,Animal
+140,user_3816,Such a beautiful place! 🌍,2024-07-24 04:39:00,75,Positive,401,381,Image,Fashion
+141,user_1296,Just another day.,2024-07-27 10:21:00,253,Neutral,660,41,Image,Food
+142,user_2275,Might try it later.,2024-05-18 11:01:00,96,Neutral,813,378,Reel,Food
+143,user_8786,Might try it later.,2024-05-05 07:18:00,116,Neutral,88,144,Reel,Fashion
+144,user_9312,Super excited about this! 🎉,2024-02-14 00:28:00,142,Positive,116,468,Image,Health
+145,user_6635,Totally not worth it!,2024-02-26 19:29:00,66,Negative,657,339,Video,Technology
+146,user_5410,Best experience ever! 😊,2024-10-12 11:35:00,367,Positive,135,226,Image,Animal
+147,user_7350,Super excited about this! 🎉,2024-08-03 07:01:00,91,Positive,700,242,Image,Fashion
+148,user_1671,Totally not worth it!,2024-04-18 13:19:00,301,Negative,838,216,Image,Education
+149,user_4894,Just another day.,2024-09-22 14:36:00,102,Neutral,277,237,Reel,Health
+150,user_3266,Totally not worth it!,2024-06-07 14:55:00,27,Negative,331,371,Video,Education
+151,user_5186,Totally not worth it!,2024-10-16 22:53:00,309,Negative,735,170,Reel,Health
+152,user_1045,Super excited about this! 🎉,2024-01-18 00:18:00,336,Positive,518,289,Image,Sports
+153,user_6643,Super excited about this! 🎉,2024-10-26 17:58:00,495,Positive,327,500,Story,Food
+154,user_1557,Worst experience ever!,2024-02-17 13:28:00,191,Negative,558,165,Image,Education
+155,user_3844,Decent enough.,2024-01-13 13:04:00,66,Neutral,451,385,Story,Health
+156,user_2305,Such a beautiful place! 🌍,2024-08-20 17:59:00,282,Positive,295,65,Image,Fashion
+157,user_1771,This looks okay.,2024-03-03 02:46:00,492,Neutral,81,22,Video,Technology
+158,user_8950,It's alright.,2024-10-21 20:54:00,328,Neutral,329,74,Image,Sports
+159,user_4903,This looks okay.,2024-07-21 12:15:00,327,Neutral,877,162,Video,Health
+160,user_1947,Not sure about this.,2024-03-21 08:37:00,155,Neutral,401,147,Story,Fashion
+161,user_4357,Could be better.,2024-03-09 23:07:00,163,Negative,150,284,Video,Food
+162,user_3865,Not a fan of this. 👎,2024-03-11 17:40:00,167,Negative,947,232,Video,Animal
+163,user_7865,This looks okay.,2024-11-02 09:49:00,76,Neutral,392,380,Video,Education
+164,user_9952,It's alright.,2024-12-02 04:25:00,357,Neutral,764,443,Image,Sports
+165,user_7211,Totally not worth it!,2024-02-15 09:34:00,286,Negative,344,37,Story,Sports
+166,user_2403,Might try it later.,2024-08-26 12:05:00,415,Neutral,975,226,Video,Technology
+167,user_9150,Disappointed with the service. 😡,2024-08-11 00:32:00,93,Negative,555,186,Video,Sports
+168,user_2991,Totally not worth it!,2024-09-12 17:26:00,385,Negative,409,331,Reel,Health
+169,user_3452,It's alright.,2024-07-02 14:17:00,411,Neutral,128,291,Reel,Fashion
+170,user_6567,Highly recommend this! 👍,2024-03-12 16:06:00,468,Positive,288,59,Story,Food
+171,user_7875,Might try it later.,2024-07-20 08:19:00,106,Neutral,823,493,Reel,Sports
+172,user_5092,This looks okay.,2024-06-21 07:48:00,291,Neutral,151,180,Video,Health
+173,user_5003,Worst experience ever!,2024-01-09 14:20:00,194,Negative,195,363,Video,Education
+174,user_5178,Totally not worth it!,2024-09-09 19:57:00,26,Negative,607,170,Story,Health
+175,user_8457,Love this product! ❤️,2024-07-05 12:11:00,61,Positive,301,349,Story,Food
+176,user_9711,Not sure about this.,2024-10-14 19:48:00,130,Neutral,747,463,Reel,Fashion
+177,user_1035,Disappointed with the service. 😡,2024-10-01 09:19:00,228,Negative,708,7,Reel,Health
+178,user_7237,Might try it later.,2024-03-26 02:05:00,99,Neutral,375,456,Reel,Education
+179,user_3701,Never buying this again.,2024-09-21 01:01:00,164,Negative,613,60,Story,Sports
+180,user_5119,Not sure about this.,2024-01-05 13:55:00,326,Neutral,986,113,Story,Animal
+181,user_4354,Not a fan of this. 👎,2024-05-10 00:30:00,135,Negative,307,171,Story,Sports
+182,user_8385,Decent enough.,2024-09-07 17:30:00,309,Neutral,896,332,Story,Sports
+183,user_6247,Worst experience ever!,2024-01-18 17:05:00,289,Negative,956,230,Story,Travel
+184,user_6940,Best experience ever! 😊,2024-07-02 14:03:00,472,Positive,952,227,Video,Fashion
+185,user_6491,Decent enough.,2024-08-08 19:43:00,467,Neutral,510,489,Image,Technology
+186,user_3484,Disappointed with the service. 😡,2024-12-06 23:37:00,336,Negative,990,273,Video,Travel
+187,user_2967,Worst experience ever!,2024-12-14 12:58:00,128,Negative,184,116,Story,Travel
+188,user_9924,Totally not worth it!,2024-11-05 12:11:00,382,Negative,126,249,Reel,Travel
+189,user_5680,Not sure about this.,2024-06-22 09:16:00,162,Neutral,241,31,Image,Food
+190,user_3462,Best experience ever! 😊,2024-12-15 12:18:00,398,Positive,524,13,Image,Education
+191,user_4769,Not a fan of this. 👎,2024-08-25 22:14:00,82,Negative,94,220,Story,Travel
+192,user_8386,Totally not worth it!,2024-03-28 08:16:00,223,Negative,774,207,Story,Technology
+193,user_6695,Disappointed with the service. 😡,2024-07-18 16:22:00,320,Negative,790,86,Video,Fashion
+194,user_2424,Not sure about this.,2024-03-14 11:22:00,341,Neutral,156,401,Image,Animal
+195,user_4107,It's alright.,2024-09-07 14:47:00,139,Neutral,911,459,Image,Animal
+196,user_5813,This looks okay.,2024-03-12 20:42:00,380,Neutral,614,387,Reel,Fashion
+197,user_2897,Worst experience ever!,2024-03-13 01:08:00,316,Negative,914,219,Reel,Education
+198,user_8489,Love this product! ❤️,2024-02-25 18:35:00,300,Positive,476,122,Image,Food
+199,user_7718,Such a beautiful place! 🌍,2024-12-08 00:03:00,229,Positive,397,120,Image,Sports
+200,user_3421,Love this product! ❤️,2024-04-12 05:56:00,188,Positive,92,256,Story,Sports
+201,user_9112,This looks okay.,2024-01-18 21:47:00,282,Neutral,431,18,Story,Education
+202,user_3265,Never buying this again.,2024-07-16 16:45:00,224,Negative,573,415,Video,Fashion
+203,user_9364,This is amazing! 🔥,2024-05-07 00:07:00,75,Positive,264,377,Reel,Food
+204,user_4495,Might try it later.,2024-07-25 15:21:00,233,Neutral,643,450,Story,Technology
+205,user_1159,Super excited about this! 🎉,2024-03-18 11:16:00,325,Positive,810,440,Story,Education
+206,user_5204,Super excited about this! 🎉,2024-09-18 20:06:00,18,Positive,783,320,Video,Sports
+207,user_4616,This looks okay.,2024-03-07 21:46:00,251,Neutral,954,71,Reel,Education
+208,user_6513,Decent enough.,2024-04-19 23:15:00,400,Neutral,787,223,Image,Sports
+209,user_3700,It's alright.,2024-06-01 03:25:00,135,Neutral,37,135,Reel,Food
+210,user_7821,Not sure about this.,2024-12-09 11:31:00,457,Neutral,134,290,Image,Food
+211,user_9502,Not sure about this.,2024-06-14 12:06:00,241,Neutral,499,20,Reel,Education
+212,user_1970,Best experience ever! 😊,2024-05-10 12:58:00,4,Positive,366,386,Story,Travel
+213,user_9171,Highly recommend this! 👍,2024-06-11 17:21:00,141,Positive,327,201,Reel,Food
+214,user_8743,This looks okay.,2024-09-02 22:22:00,128,Neutral,815,87,Story,Technology
+215,user_4232,Disappointed with the service. 😡,2024-12-07 22:16:00,367,Negative,865,27,Video,Technology
+216,user_5888,Just another day.,2024-02-03 14:53:00,62,Neutral,495,12,Reel,Travel
+217,user_5533,Just another day.,2024-02-09 04:22:00,76,Neutral,941,265,Video,Food
+218,user_9897,Best experience ever! 😊,2024-09-08 23:29:00,96,Positive,748,51,Story,Education
+219,user_9341,Super excited about this! 🎉,2024-05-20 03:33:00,405,Positive,735,131,Video,Fashion
+220,user_9874,Might try it later.,2024-08-21 20:06:00,318,Neutral,402,269,Story,Animal
+221,user_5708,Might try it later.,2024-11-10 17:21:00,192,Neutral,951,202,Reel,Technology
+222,user_8774,Could be better.,2024-08-08 04:58:00,295,Negative,142,335,Image,Travel
+223,user_8156,Not sure about this.,2024-03-15 16:20:00,451,Neutral,251,147,Reel,Food
+224,user_7717,Never buying this again.,2024-02-16 14:03:00,72,Negative,12,454,Video,Animal
+225,user_5479,Worst experience ever!,2024-04-04 16:59:00,495,Negative,728,192,Image,Animal
+226,user_6660,Worst experience ever!,2024-12-01 12:30:00,315,Negative,760,155,Image,Technology
+227,user_1255,Super excited about this! 🎉,2024-07-12 08:01:00,369,Positive,899,446,Story,Sports
+228,user_9970,It's alright.,2024-11-24 00:07:00,73,Neutral,210,424,Image,Sports
+229,user_2433,Disappointed with the service. 😡,2024-06-22 01:54:00,461,Negative,303,102,Reel,Animal
+230,user_2812,This looks okay.,2024-11-09 22:16:00,87,Neutral,673,113,Story,Education
+231,user_9387,Decent enough.,2024-08-21 07:38:00,132,Neutral,425,41,Reel,Health
+232,user_5741,Super excited about this! 🎉,2024-12-01 21:04:00,317,Positive,644,484,Reel,Fashion
+233,user_4538,Decent enough.,2024-12-22 01:49:00,353,Neutral,762,322,Story,Technology
+234,user_7859,This is amazing! 🔥,2024-04-19 00:52:00,481,Positive,301,260,Reel,Food
+235,user_4282,Not sure about this.,2024-10-26 14:55:00,262,Neutral,176,72,Reel,Health
+236,user_8031,Highly recommend this! 👍,2024-07-11 00:06:00,438,Positive,685,328,Video,Education
+237,user_4063,Super excited about this! 🎉,2024-11-03 17:50:00,436,Positive,376,419,Reel,Sports
+238,user_4214,Never buying this again.,2024-01-06 19:46:00,261,Negative,537,413,Video,Technology
+239,user_3432,Worst experience ever!,2024-07-28 13:04:00,470,Negative,955,19,Story,Technology
+240,user_9146,Not a fan of this. 👎,2024-03-27 23:54:00,40,Negative,177,326,Video,Health
+241,user_2437,Might try it later.,2024-07-09 18:48:00,156,Neutral,848,432,Image,Travel
+242,user_1060,Disappointed with the service. 😡,2024-11-14 22:44:00,117,Negative,520,95,Reel,Technology
+243,user_6867,Decent enough.,2024-03-09 11:09:00,356,Neutral,392,496,Story,Technology
+244,user_1351,Love this product! ❤️,2024-01-14 07:32:00,209,Positive,379,311,Video,Food
+245,user_9188,Never buying this again.,2024-06-09 19:39:00,488,Negative,63,445,Story,Health
+246,user_9075,This is amazing! 🔥,2024-07-04 06:03:00,179,Positive,210,199,Story,Sports
+247,user_7044,Super excited about this! 🎉,2024-04-25 20:04:00,102,Positive,101,265,Story,Animal
+248,user_7199,Love this product! ❤️,2024-10-21 06:14:00,271,Positive,766,190,Reel,Technology
+249,user_1724,It's alright.,2024-12-04 03:39:00,203,Neutral,130,482,Reel,Sports
+250,user_4228,Love this product! ❤️,2024-04-02 10:48:00,122,Positive,117,214,Video,Health
+251,user_1729,Love this product! ❤️,2024-07-16 22:37:00,18,Positive,837,389,Story,Technology
+252,user_5110,This looks okay.,2024-02-19 13:21:00,70,Neutral,374,321,Story,Travel
+253,user_4811,This looks okay.,2024-11-24 02:19:00,267,Neutral,438,455,Image,Health
+254,user_6612,Love this product! ❤️,2024-10-14 01:35:00,85,Positive,659,382,Image,Education
+255,user_6288,Not sure about this.,2024-03-22 18:08:00,48,Neutral,728,87,Reel,Health
+256,user_8892,It's alright.,2024-10-10 02:39:00,420,Neutral,433,292,Story,Travel
+257,user_1589,Could be better.,2024-09-28 13:38:00,415,Negative,429,160,Reel,Animal
+258,user_7928,Worst experience ever!,2024-12-21 00:46:00,326,Negative,597,187,Reel,Fashion
+259,user_2777,Just another day.,2024-02-13 03:10:00,94,Neutral,874,145,Image,Health
+260,user_5354,Might try it later.,2024-02-14 15:02:00,209,Neutral,609,262,Video,Animal
+261,user_6785,Such a beautiful place! 🌍,2024-11-25 23:37:00,458,Positive,949,466,Video,Animal
+262,user_9160,Totally not worth it!,2024-03-15 19:16:00,479,Negative,70,386,Story,Animal
+263,user_4157,Just another day.,2024-03-28 09:42:00,234,Neutral,310,137,Story,Sports
+264,user_6336,It's alright.,2024-05-14 04:21:00,284,Neutral,482,27,Story,Food
+265,user_8875,Such a beautiful place! 🌍,2024-07-23 13:31:00,67,Positive,516,70,Image,Health
+266,user_8650,Could be better.,2024-01-24 17:03:00,205,Negative,232,81,Story,Technology
+267,user_9203,Disappointed with the service. 😡,2024-06-22 19:00:00,456,Negative,700,157,Story,Education
+268,user_8394,It's alright.,2024-04-05 00:02:00,313,Neutral,979,321,Story,Technology
+269,user_4601,Could be better.,2024-12-20 09:41:00,138,Negative,610,325,Video,Animal
+270,user_3040,Never buying this again.,2024-04-07 19:45:00,176,Negative,489,268,Video,Education
+271,user_3011,It's alright.,2024-08-12 00:47:00,265,Neutral,808,165,Image,Animal
+272,user_3634,Might try it later.,2024-10-17 05:25:00,447,Neutral,10,147,Video,Animal
+273,user_5363,It's alright.,2024-10-25 03:26:00,442,Neutral,227,117,Reel,Fashion
+274,user_9808,Might try it later.,2024-03-10 07:57:00,116,Neutral,64,101,Reel,Health
+275,user_8109,Never buying this again.,2024-05-02 05:18:00,147,Negative,482,99,Story,Technology
+276,user_9418,Decent enough.,2024-04-28 11:59:00,109,Neutral,323,42,Reel,Sports
+277,user_5832,Worst experience ever!,2024-12-15 12:29:00,290,Negative,465,375,Video,Travel
+278,user_1467,Could be better.,2024-06-17 09:35:00,37,Negative,641,498,Video,Technology
+279,user_3595,Such a beautiful place! 🌍,2024-10-14 21:13:00,285,Positive,787,129,Story,Health
+280,user_7044,Not a fan of this. 👎,2024-12-16 08:54:00,414,Negative,113,474,Image,Technology
+281,user_4103,Highly recommend this! 👍,2024-01-21 17:22:00,287,Positive,826,330,Image,Education
+282,user_2188,Disappointed with the service. 😡,2024-01-26 01:43:00,43,Negative,795,65,Story,Education
+283,user_3192,Could be better.,2024-02-12 15:36:00,328,Negative,973,91,Video,Food
+284,user_8975,Worst experience ever!,2024-03-14 14:59:00,246,Negative,631,100,Image,Sports
+285,user_5393,Totally not worth it!,2024-01-23 14:59:00,271,Negative,33,95,Story,Sports
+286,user_3207,Just another day.,2024-05-05 16:54:00,102,Neutral,530,389,Story,Sports
+287,user_8830,Not a fan of this. 👎,2024-04-01 16:47:00,471,Negative,616,359,Video,Travel
+288,user_4196,Highly recommend this! 👍,2024-08-02 10:18:00,425,Positive,769,264,Reel,Animal
+289,user_1649,Disappointed with the service. 😡,2024-04-20 04:57:00,419,Negative,532,99,Story,Food
+290,user_7939,It's alright.,2024-10-20 05:01:00,391,Neutral,343,164,Story,Technology
+291,user_7903,Just another day.,2024-01-02 05:58:00,361,Neutral,845,133,Reel,Fashion
+292,user_2303,Such a beautiful place! 🌍,2024-09-24 21:39:00,249,Positive,584,156,Video,Health
+293,user_4565,Not sure about this.,2024-02-05 16:08:00,437,Neutral,435,433,Video,Travel
+294,user_4459,Highly recommend this! 👍,2024-08-19 11:03:00,78,Positive,660,81,Video,Sports
+295,user_3685,Totally not worth it!,2024-01-14 14:36:00,188,Negative,959,28,Story,Travel
+296,user_9122,This looks okay.,2024-01-05 10:34:00,400,Neutral,609,491,Reel,Fashion
+297,user_8293,Worst experience ever!,2024-09-15 10:00:00,209,Negative,609,280,Image,Health
+298,user_3528,Disappointed with the service. 😡,2024-07-20 17:17:00,201,Negative,912,56,Video,Animal
+299,user_6417,Such a beautiful place! 🌍,2024-05-17 10:44:00,387,Positive,106,273,Story,Fashion
+300,user_9650,Might try it later.,2024-02-08 14:40:00,38,Neutral,626,497,Image,Sports
+301,user_9239,Highly recommend this! 👍,2024-04-11 11:55:00,427,Positive,165,435,Video,Technology
+302,user_6881,Could be better.,2024-12-21 16:04:00,392,Negative,789,157,Image,Food
+303,user_6651,Not a fan of this. 👎,2024-02-03 12:44:00,354,Negative,857,252,Reel,Fashion
+304,user_3119,Such a beautiful place! 🌍,2024-04-19 06:06:00,430,Positive,592,56,Reel,Education
+305,user_4109,It's alright.,2024-12-14 12:02:00,247,Neutral,658,478,Video,Health
+306,user_8786,Worst experience ever!,2024-04-25 09:25:00,347,Negative,333,150,Story,Travel
+307,user_7714,Decent enough.,2024-09-04 06:06:00,213,Neutral,706,345,Image,Fashion
+308,user_9088,This looks okay.,2024-10-06 11:28:00,73,Neutral,985,454,Video,Food
+309,user_3570,Love this product! ❤️,2024-05-07 15:27:00,468,Positive,725,175,Reel,Fashion
+310,user_4997,Might try it later.,2024-03-28 05:47:00,223,Neutral,624,374,Video,Food
+311,user_8149,Best experience ever! 😊,2024-05-19 16:52:00,123,Positive,259,152,Story,Fashion
+312,user_1789,Love this product! ❤️,2024-07-19 20:44:00,107,Positive,910,90,Reel,Fashion
+313,user_6212,Love this product! ❤️,2024-02-10 07:12:00,154,Positive,324,496,Story,Fashion
+314,user_7648,Never buying this again.,2024-08-14 15:55:00,471,Negative,203,92,Story,Fashion
+315,user_7427,This looks okay.,2024-08-16 01:36:00,160,Neutral,956,200,Story,Education
+316,user_2498,Totally not worth it!,2024-12-20 17:41:00,331,Negative,668,281,Story,Travel
+317,user_4453,Such a beautiful place! 🌍,2024-05-15 10:00:00,41,Positive,650,54,Reel,Technology
+318,user_4243,Never buying this again.,2024-05-23 19:45:00,31,Negative,258,380,Reel,Fashion
+319,user_7123,Super excited about this! 🎉,2024-05-13 12:35:00,188,Positive,815,119,Story,Sports
+320,user_6593,Could be better.,2024-07-13 04:50:00,402,Negative,727,404,Image,Technology
+321,user_3446,Disappointed with the service. 😡,2024-11-18 17:09:00,374,Negative,227,132,Reel,Travel
+322,user_9748,Decent enough.,2024-02-04 00:52:00,183,Neutral,553,499,Reel,Food
+323,user_1088,Not sure about this.,2024-02-03 04:13:00,314,Neutral,373,411,Image,Food
+324,user_2102,Never buying this again.,2024-01-15 07:26:00,391,Negative,514,5,Image,Food
+325,user_3099,This is amazing! 🔥,2024-11-12 07:45:00,253,Positive,572,299,Video,Animal
+326,user_1481,Highly recommend this! 👍,2024-07-19 09:54:00,479,Positive,988,452,Reel,Food
+327,user_7889,Such a beautiful place! 🌍,2024-03-04 06:26:00,136,Positive,621,76,Video,Sports
+328,user_8769,Love this product! ❤️,2024-08-20 07:01:00,193,Positive,783,480,Reel,Education
+329,user_2687,Not a fan of this. 👎,2024-04-19 19:01:00,30,Negative,88,289,Reel,Sports
+330,user_4074,Best experience ever! 😊,2024-03-14 18:52:00,421,Positive,546,336,Image,Sports
+331,user_5664,Not sure about this.,2024-12-13 22:08:00,454,Neutral,673,461,Story,Animal
+332,user_7544,Could be better.,2024-03-04 16:32:00,345,Negative,192,487,Image,Fashion
+333,user_7767,It's alright.,2024-11-02 16:41:00,419,Neutral,855,243,Story,Food
+334,user_1454,It's alright.,2024-11-23 12:32:00,232,Neutral,972,233,Video,Technology
+335,user_1983,Best experience ever! 😊,2024-08-10 10:13:00,286,Positive,572,320,Image,Travel
+336,user_8662,Could be better.,2024-11-15 16:30:00,87,Negative,917,500,Reel,Food
+337,user_3055,Totally not worth it!,2024-04-12 02:31:00,377,Negative,245,392,Reel,Animal
+338,user_5691,Worst experience ever!,2024-05-14 17:29:00,482,Negative,392,55,Image,Travel
+339,user_1166,Never buying this again.,2024-12-07 05:29:00,393,Negative,268,164,Image,Health
+340,user_2410,Worst experience ever!,2024-05-18 01:14:00,106,Negative,178,448,Story,Travel
+341,user_4699,Not sure about this.,2024-02-20 22:53:00,426,Neutral,956,481,Story,Fashion
+342,user_8407,Best experience ever! 😊,2024-12-16 23:33:00,444,Positive,33,427,Video,Fashion
+343,user_6837,Best experience ever! 😊,2024-02-02 07:19:00,467,Positive,576,62,Image,Health
+344,user_3056,It's alright.,2024-04-18 09:42:00,414,Neutral,217,78,Story,Fashion
+345,user_8353,Just another day.,2024-03-12 15:09:00,87,Neutral,374,126,Story,Education
+346,user_7635,Love this product! ❤️,2024-12-27 23:06:00,367,Positive,340,450,Reel,Food
+347,user_2923,Super excited about this! 🎉,2024-08-22 02:47:00,305,Positive,476,485,Video,Health
+348,user_1890,Highly recommend this! 👍,2024-02-22 17:00:00,57,Positive,621,462,Story,Animal
+349,user_2508,Highly recommend this! 👍,2024-05-17 00:20:00,83,Positive,683,269,Story,Health
+350,user_6404,Worst experience ever!,2024-09-26 19:49:00,434,Negative,370,318,Video,Animal
+351,user_3304,Such a beautiful place! 🌍,2024-03-27 08:40:00,318,Positive,926,398,Video,Technology
+352,user_5607,Totally not worth it!,2024-02-14 11:27:00,151,Negative,900,276,Video,Education
+353,user_2296,Decent enough.,2024-06-24 18:46:00,498,Neutral,884,229,Reel,Technology
+354,user_4649,This looks okay.,2024-04-01 19:06:00,142,Neutral,778,356,Image,Education
+355,user_5058,This looks okay.,2024-04-22 19:49:00,381,Neutral,388,396,Video,Travel
+356,user_9592,This is amazing! 🔥,2024-11-03 07:30:00,387,Positive,108,148,Video,Technology
+357,user_5890,Not a fan of this. 👎,2024-02-21 08:13:00,123,Negative,241,95,Story,Sports
+358,user_8322,Just another day.,2024-03-20 14:55:00,453,Neutral,161,342,Video,Health
+359,user_2457,Worst experience ever!,2024-12-10 23:47:00,416,Negative,596,328,Reel,Animal
+360,user_8217,This looks okay.,2024-10-09 04:47:00,67,Neutral,94,15,Image,Health
+361,user_6759,Not sure about this.,2024-01-04 05:26:00,174,Neutral,737,272,Video,Travel
+362,user_2128,Such a beautiful place! 🌍,2024-01-23 15:19:00,422,Positive,169,245,Video,Education
+363,user_3210,Just another day.,2024-04-22 04:20:00,3,Neutral,772,192,Reel,Education
+364,user_5424,Just another day.,2024-04-07 16:01:00,291,Neutral,550,346,Reel,Sports
+365,user_6896,Just another day.,2024-10-16 07:11:00,422,Neutral,295,312,Image,Health
+366,user_1004,Best experience ever! 😊,2024-11-22 10:45:00,27,Positive,920,411,Story,Health
+367,user_9985,Highly recommend this! 👍,2024-01-12 22:25:00,432,Positive,328,296,Video,Animal
+368,user_6376,Not a fan of this. 👎,2024-07-19 15:54:00,464,Negative,269,366,Story,Food
+369,user_1751,Just another day.,2024-04-02 23:28:00,473,Neutral,994,15,Reel,Education
+370,user_9331,Might try it later.,2024-05-13 10:25:00,370,Neutral,341,87,Image,Sports
+371,user_4536,This is amazing! 🔥,2024-06-02 11:08:00,304,Positive,884,73,Reel,Food
+372,user_5122,Super excited about this! 🎉,2024-06-02 12:01:00,219,Positive,650,209,Video,Education
+373,user_8392,Best experience ever! 😊,2024-11-20 06:28:00,210,Positive,369,245,Video,Fashion
+374,user_4458,Highly recommend this! 👍,2024-12-11 22:32:00,468,Positive,932,437,Video,Animal
+375,user_4923,Such a beautiful place! 🌍,2024-07-25 06:04:00,355,Positive,737,157,Story,Health
+376,user_6548,Such a beautiful place! 🌍,2024-11-25 08:15:00,102,Positive,651,141,Image,Food
+377,user_8653,Just another day.,2024-02-15 23:55:00,366,Neutral,495,241,Reel,Travel
+378,user_7307,This looks okay.,2024-12-09 10:22:00,240,Neutral,573,372,Video,Travel
+379,user_9727,This is amazing! 🔥,2024-12-13 18:11:00,386,Positive,442,90,Reel,Technology
+380,user_1571,Not a fan of this. 👎,2024-12-05 12:52:00,94,Negative,251,107,Reel,Technology
+381,user_3648,Worst experience ever!,2024-12-25 22:01:00,370,Negative,250,355,Video,Sports
+382,user_6510,It's alright.,2024-11-21 09:33:00,283,Neutral,333,257,Story,Health
+383,user_6655,Never buying this again.,2024-03-04 19:53:00,158,Negative,713,9,Story,Education
+384,user_2704,Might try it later.,2024-01-25 02:18:00,387,Neutral,72,231,Image,Animal
+385,user_2680,This looks okay.,2024-10-06 06:32:00,435,Neutral,540,473,Story,Education
+386,user_5165,Disappointed with the service. 😡,2024-06-03 19:34:00,51,Negative,675,352,Image,Sports
+387,user_1524,Decent enough.,2024-02-13 17:08:00,317,Neutral,368,160,Image,Technology
+388,user_9952,Decent enough.,2024-06-10 08:44:00,233,Neutral,965,374,Video,Travel
+389,user_5067,This is amazing! 🔥,2024-12-15 11:53:00,208,Positive,791,476,Video,Fashion
+390,user_7033,Might try it later.,2024-04-27 00:58:00,179,Neutral,435,7,Story,Animal
+391,user_1385,Might try it later.,2024-11-24 00:45:00,261,Neutral,761,391,Image,Food
+392,user_8924,Such a beautiful place! 🌍,2024-12-04 04:06:00,214,Positive,562,432,Story,Fashion
+393,user_8799,Decent enough.,2024-08-25 10:25:00,168,Neutral,511,449,Image,Food
+394,user_7484,Might try it later.,2024-02-18 17:29:00,376,Neutral,880,333,Image,Travel
+395,user_4612,Totally not worth it!,2024-10-20 21:23:00,46,Negative,480,311,Reel,Education
+396,user_2126,Love this product! ❤️,2024-08-27 17:17:00,371,Positive,552,27,Reel,Food
+397,user_1656,Such a beautiful place! 🌍,2024-07-24 14:02:00,357,Positive,673,100,Image,Technology
+398,user_7096,Highly recommend this! 👍,2024-04-01 18:51:00,19,Positive,278,310,Reel,Animal
+399,user_6065,Never buying this again.,2024-07-11 10:56:00,164,Negative,373,107,Video,Food
+400,user_3766,This is amazing! 🔥,2024-12-07 23:58:00,456,Positive,183,235,Story,Animal
+401,user_4292,Not a fan of this. 👎,2024-11-09 21:37:00,137,Negative,675,289,Reel,Travel
+402,user_9500,Could be better.,2024-08-07 03:57:00,440,Negative,298,242,Image,Health
+403,user_3401,This is amazing! 🔥,2024-01-28 19:06:00,187,Positive,297,489,Reel,Sports
+404,user_7007,Best experience ever! 😊,2024-04-22 14:18:00,100,Positive,351,50,Video,Fashion
+405,user_5888,Super excited about this! 🎉,2024-09-12 07:31:00,23,Positive,712,199,Image,Fashion
+406,user_9362,This is amazing! 🔥,2024-09-24 15:34:00,123,Positive,583,168,Image,Animal
+407,user_6463,Disappointed with the service. 😡,2024-09-13 23:39:00,275,Negative,511,163,Video,Health
+408,user_1773,Never buying this again.,2024-05-15 05:50:00,461,Negative,796,101,Image,Technology
+409,user_1423,Not a fan of this. 👎,2024-09-17 13:33:00,138,Negative,48,7,Image,Animal
+410,user_1621,Highly recommend this! 👍,2024-01-21 16:45:00,437,Positive,538,368,Image,Health
+411,user_4170,Could be better.,2024-11-11 23:57:00,137,Negative,134,170,Story,Health
+412,user_4431,Best experience ever! 😊,2024-03-15 13:30:00,127,Positive,457,352,Video,Fashion
+413,user_6906,Totally not worth it!,2024-06-20 05:18:00,185,Negative,750,215,Story,Sports
+414,user_5393,This looks okay.,2024-01-23 20:19:00,175,Neutral,242,406,Video,Health
+415,user_8905,Decent enough.,2024-04-01 18:43:00,457,Neutral,212,347,Image,Education
+416,user_5914,Might try it later.,2024-06-15 04:41:00,195,Neutral,827,134,Video,Health
+417,user_9606,Best experience ever! 😊,2024-11-17 17:44:00,139,Positive,409,466,Reel,Education
+418,user_7482,Not sure about this.,2024-09-14 10:00:00,146,Neutral,833,460,Story,Fashion
+419,user_8519,Best experience ever! 😊,2024-08-28 04:02:00,112,Positive,453,327,Reel,Health
+420,user_7288,It's alright.,2024-12-16 12:44:00,482,Neutral,259,411,Video,Food
+421,user_5058,Best experience ever! 😊,2024-02-17 17:06:00,411,Positive,152,445,Video,Food
+422,user_8150,Worst experience ever!,2024-06-13 09:58:00,344,Negative,59,362,Reel,Sports
+423,user_2934,Highly recommend this! 👍,2024-08-20 01:51:00,151,Positive,114,299,Image,Health
+424,user_6354,This looks okay.,2024-10-12 20:37:00,121,Neutral,858,419,Video,Fashion
+425,user_1618,Might try it later.,2024-11-11 06:48:00,247,Neutral,649,191,Story,Animal
+426,user_3656,Not sure about this.,2024-07-26 18:18:00,178,Neutral,660,125,Video,Fashion
+427,user_7711,Such a beautiful place! 🌍,2024-12-15 21:15:00,466,Positive,145,404,Video,Fashion
+428,user_6297,It's alright.,2024-08-25 01:43:00,268,Neutral,415,353,Video,Technology
+429,user_5325,Totally not worth it!,2024-08-18 10:40:00,212,Negative,742,372,Story,Health
+430,user_2996,Highly recommend this! 👍,2024-12-15 05:47:00,90,Positive,339,442,Image,Health
+431,user_3737,Love this product! ❤️,2024-09-15 11:09:00,74,Positive,305,37,Story,Animal
+432,user_7674,Totally not worth it!,2024-09-08 16:53:00,445,Negative,727,26,Image,Animal
+433,user_9759,Not sure about this.,2024-06-04 07:47:00,280,Neutral,343,32,Image,Technology
+434,user_6122,Just another day.,2024-08-16 09:28:00,39,Neutral,740,93,Reel,Health
+435,user_5035,Love this product! ❤️,2024-03-19 13:03:00,254,Positive,88,88,Reel,Sports
+436,user_1283,Such a beautiful place! 🌍,2024-08-16 05:36:00,142,Positive,462,110,Reel,Fashion
+437,user_7962,Never buying this again.,2024-08-03 08:44:00,288,Negative,354,209,Reel,Travel
+438,user_6441,Not sure about this.,2024-08-08 19:47:00,45,Neutral,129,283,Story,Travel
+439,user_9133,Such a beautiful place! 🌍,2024-02-18 21:13:00,497,Positive,974,420,Story,Food
+440,user_3162,This looks okay.,2024-01-14 13:29:00,405,Neutral,930,192,Reel,Health
+441,user_1422,Best experience ever! 😊,2024-03-09 15:17:00,38,Positive,229,310,Image,Food
+442,user_3141,Love this product! ❤️,2024-04-25 11:57:00,392,Positive,163,485,Video,Fashion
+443,user_7001,Might try it later.,2024-06-15 15:12:00,52,Neutral,934,473,Story,Fashion
+444,user_9036,This looks okay.,2024-06-19 19:29:00,299,Neutral,473,198,Image,Sports
+445,user_8977,Not sure about this.,2024-07-09 01:09:00,202,Neutral,183,164,Story,Sports
+446,user_7647,Highly recommend this! 👍,2024-11-12 01:09:00,347,Positive,273,207,Story,Travel
+447,user_7327,Super excited about this! 🎉,2024-07-26 23:41:00,2,Positive,918,319,Reel,Sports
+448,user_7785,Might try it later.,2024-10-05 03:42:00,435,Neutral,342,166,Reel,Fashion
+449,user_4396,Might try it later.,2024-05-11 16:10:00,340,Neutral,466,433,Image,Animal
+450,user_1279,Could be better.,2024-04-10 05:20:00,66,Negative,414,367,Video,Travel
+451,user_4201,Just another day.,2024-07-09 18:50:00,96,Neutral,202,230,Image,Technology
+452,user_1838,Decent enough.,2024-05-11 08:27:00,47,Neutral,212,422,Story,Animal
+453,user_9955,Totally not worth it!,2024-10-03 07:32:00,354,Negative,50,487,Story,Travel
+454,user_5262,Might try it later.,2024-10-13 13:18:00,322,Neutral,373,121,Reel,Sports
+455,user_2308,Such a beautiful place! 🌍,2024-05-14 22:07:00,18,Positive,274,458,Story,Sports
+456,user_9996,Worst experience ever!,2024-03-07 23:34:00,133,Negative,562,246,Video,Animal
+457,user_8551,This is amazing! 🔥,2024-07-12 07:17:00,378,Positive,738,390,Video,Food
+458,user_3585,Not sure about this.,2024-04-13 17:48:00,33,Neutral,623,333,Image,Food
+459,user_6384,Disappointed with the service. 😡,2024-02-02 14:09:00,149,Negative,838,278,Story,Fashion
+460,user_4061,Love this product! ❤️,2024-01-04 21:32:00,324,Positive,694,249,Video,Fashion
+461,user_2941,Such a beautiful place! 🌍,2024-03-28 23:17:00,455,Positive,810,265,Reel,Animal
+462,user_5297,Best experience ever! 😊,2024-10-02 13:30:00,51,Positive,302,442,Image,Food
+463,user_7934,Worst experience ever!,2024-06-21 10:39:00,56,Negative,201,334,Reel,Fashion
+464,user_2856,This looks okay.,2024-07-08 08:22:00,184,Neutral,669,197,Story,Animal
+465,user_8729,Best experience ever! 😊,2024-02-26 21:29:00,475,Positive,961,58,Video,Sports
+466,user_3577,Totally not worth it!,2024-12-08 21:34:00,480,Negative,606,73,Reel,Education
+467,user_5652,Best experience ever! 😊,2024-07-24 16:34:00,398,Positive,963,430,Video,Animal
+468,user_9837,Super excited about this! 🎉,2024-09-17 16:29:00,295,Positive,364,366,Reel,Travel
+469,user_9128,Disappointed with the service. 😡,2024-12-05 04:15:00,97,Negative,835,431,Story,Food
+470,user_6876,Such a beautiful place! 🌍,2024-12-28 07:37:00,357,Positive,695,103,Story,Technology
+471,user_1048,This is amazing! 🔥,2024-09-10 00:25:00,378,Positive,544,130,Reel,Food
+472,user_8408,Not a fan of this. 👎,2024-08-17 21:04:00,26,Negative,915,328,Reel,Fashion
+473,user_7493,Not sure about this.,2024-11-18 08:41:00,43,Neutral,833,323,Image,Fashion
+474,user_5927,Totally not worth it!,2024-10-27 12:46:00,311,Negative,178,245,Video,Health
+475,user_4768,Decent enough.,2024-10-22 11:06:00,222,Neutral,708,366,Video,Food
+476,user_7419,Such a beautiful place! 🌍,2024-06-25 19:38:00,41,Positive,621,57,Video,Sports
+477,user_3963,Never buying this again.,2024-04-09 20:06:00,469,Negative,983,71,Reel,Travel
+478,user_5834,Decent enough.,2024-09-17 02:50:00,454,Neutral,466,492,Story,Fashion
+479,user_9630,Highly recommend this! 👍,2024-12-28 01:47:00,361,Positive,564,497,Story,Technology
+480,user_5977,Best experience ever! 😊,2024-02-18 01:36:00,152,Positive,355,376,Reel,Education
+481,user_8674,Just another day.,2024-11-05 14:51:00,297,Neutral,71,331,Video,Health
+482,user_7538,This looks okay.,2024-01-27 09:26:00,366,Neutral,966,213,Reel,Sports
+483,user_8097,Super excited about this! 🎉,2024-09-15 04:45:00,279,Positive,911,130,Story,Fashion
+484,user_2499,Worst experience ever!,2024-08-06 21:13:00,290,Negative,468,348,Image,Sports
+485,user_6322,This looks okay.,2024-03-25 01:27:00,475,Neutral,348,108,Video,Animal
+486,user_5619,Just another day.,2024-02-15 09:30:00,209,Neutral,531,250,Video,Travel
+487,user_5591,It's alright.,2024-03-03 17:46:00,467,Neutral,279,230,Reel,Sports
+488,user_8394,Love this product! ❤️,2024-10-05 15:14:00,245,Positive,709,11,Image,Food
+489,user_6255,Love this product! ❤️,2024-05-07 11:51:00,451,Positive,27,37,Image,Animal
+490,user_9716,Just another day.,2024-10-07 14:05:00,406,Neutral,246,218,Video,Food
+491,user_2808,This looks okay.,2024-05-16 04:43:00,318,Neutral,736,241,Video,Sports
+492,user_5761,Totally not worth it!,2024-09-08 23:32:00,71,Negative,576,480,Video,Fashion
+493,user_1222,Totally not worth it!,2024-04-10 08:44:00,179,Negative,90,248,Story,Health
+494,user_6554,Super excited about this! 🎉,2024-04-14 01:47:00,212,Positive,492,125,Video,Food
+495,user_1008,It's alright.,2024-05-05 06:13:00,33,Neutral,150,277,Image,Health
+496,user_7728,Just another day.,2024-03-22 05:53:00,148,Neutral,723,368,Reel,Fashion
+497,user_9378,Super excited about this! 🎉,2024-07-14 11:25:00,365,Positive,692,392,Story,Travel
+498,user_4526,Such a beautiful place! 🌍,2024-10-25 18:48:00,61,Positive,535,32,Story,Fashion
+499,user_4656,Could be better.,2024-01-02 15:18:00,428,Negative,126,485,Video,Education
+500,user_1742,This is amazing! 🔥,2024-08-19 06:39:00,386,Positive,204,268,Image,Fashion
+501,user_1385,Not a fan of this. 👎,2024-07-13 18:52:00,456,Negative,485,109,Reel,Sports
+502,user_5906,Might try it later.,2024-01-03 21:57:00,250,Neutral,842,73,Image,Sports
+503,user_2676,Super excited about this! 🎉,2024-10-19 23:11:00,197,Positive,376,238,Image,Education
+504,user_6958,Not a fan of this. 👎,2024-06-03 08:02:00,444,Negative,223,25,Image,Health
+505,user_5019,Decent enough.,2024-02-23 16:56:00,401,Neutral,767,453,Story,Education
+506,user_9349,Highly recommend this! 👍,2024-05-25 00:01:00,40,Positive,839,496,Story,Food
+507,user_5327,Totally not worth it!,2024-10-16 17:29:00,47,Negative,854,210,Story,Education
+508,user_1860,Just another day.,2024-11-27 07:33:00,225,Neutral,269,223,Image,Food
+509,user_2301,Such a beautiful place! 🌍,2024-11-06 12:00:00,63,Positive,472,435,Reel,Travel
+510,user_7284,It's alright.,2024-06-07 15:40:00,363,Neutral,247,77,Image,Technology
+511,user_1862,Decent enough.,2024-08-16 05:07:00,169,Neutral,167,458,Video,Sports
+512,user_9060,Not a fan of this. 👎,2024-05-01 06:16:00,241,Negative,829,140,Video,Travel
+513,user_8155,Such a beautiful place! 🌍,2024-02-22 15:24:00,449,Positive,798,262,Video,Food
+514,user_2751,Never buying this again.,2024-09-25 10:40:00,394,Negative,738,309,Story,Fashion
+515,user_4379,Such a beautiful place! 🌍,2024-07-26 21:39:00,124,Positive,218,173,Video,Health
+516,user_1719,Not sure about this.,2024-02-17 07:52:00,412,Neutral,123,113,Image,Health
+517,user_9032,Could be better.,2024-02-05 17:14:00,326,Negative,834,268,Story,Health
+518,user_8905,This is amazing! 🔥,2024-05-25 03:37:00,326,Positive,163,389,Reel,Sports
+519,user_2691,This looks okay.,2024-07-05 16:10:00,128,Neutral,28,136,Reel,Technology
+520,user_7665,This is amazing! 🔥,2024-08-09 18:02:00,32,Positive,545,41,Image,Technology
+521,user_6753,Could be better.,2024-04-09 03:19:00,249,Negative,64,141,Video,Health
+522,user_8671,Love this product! ❤️,2024-03-21 22:18:00,297,Positive,354,254,Image,Health
+523,user_9577,Just another day.,2024-08-08 11:33:00,39,Neutral,690,481,Story,Health
+524,user_2332,This looks okay.,2024-11-25 23:03:00,51,Neutral,844,410,Image,Animal
+525,user_9754,It's alright.,2024-11-05 06:28:00,15,Neutral,977,406,Reel,Health
+526,user_4259,Highly recommend this! 👍,2024-12-03 06:11:00,108,Positive,47,348,Reel,Sports
+527,user_4687,Love this product! ❤️,2024-06-26 08:34:00,78,Positive,117,373,Reel,Education
+528,user_8294,Such a beautiful place! 🌍,2024-08-02 13:20:00,335,Positive,758,500,Video,Sports
+529,user_9084,Could be better.,2024-10-22 12:47:00,14,Negative,748,452,Image,Food
+530,user_1252,Not sure about this.,2024-06-27 09:51:00,27,Neutral,810,10,Video,Fashion
+531,user_2461,It's alright.,2024-10-07 17:25:00,356,Neutral,394,456,Video,Animal
+532,user_4601,Worst experience ever!,2024-02-04 07:58:00,254,Negative,833,7,Video,Education
+533,user_3503,Worst experience ever!,2024-09-18 22:29:00,163,Negative,481,175,Video,Education
+534,user_3746,Not a fan of this. 👎,2024-06-12 19:03:00,447,Negative,583,202,Story,Technology
+535,user_6102,Never buying this again.,2024-07-28 09:16:00,451,Negative,81,144,Image,Food
+536,user_7295,Best experience ever! 😊,2024-03-17 06:45:00,432,Positive,613,299,Video,Fashion
+537,user_2917,Just another day.,2024-10-14 16:06:00,366,Neutral,283,178,Story,Fashion
+538,user_6383,Not a fan of this. 👎,2024-05-13 12:37:00,407,Negative,501,131,Image,Technology
+539,user_2120,This looks okay.,2024-05-03 01:09:00,403,Neutral,552,438,Reel,Food
+540,user_1158,Best experience ever! 😊,2024-09-06 02:32:00,75,Positive,882,83,Reel,Fashion
+541,user_9327,Disappointed with the service. 😡,2024-06-20 12:31:00,245,Negative,997,400,Reel,Animal
+542,user_5874,Such a beautiful place! 🌍,2024-07-19 06:27:00,166,Positive,42,162,Video,Fashion
+543,user_4324,Never buying this again.,2024-06-15 23:04:00,89,Negative,527,375,Story,Food
+544,user_8184,This looks okay.,2024-03-20 12:05:00,237,Neutral,164,330,Reel,Education
+545,user_6772,Super excited about this! 🎉,2024-03-11 15:44:00,130,Positive,837,431,Reel,Health
+546,user_8072,Could be better.,2024-08-20 07:28:00,320,Negative,795,16,Image,Animal
+547,user_9341,Not sure about this.,2024-04-23 00:23:00,220,Neutral,702,17,Reel,Sports
+548,user_4623,Just another day.,2024-05-01 08:24:00,33,Neutral,212,277,Image,Education
+549,user_1816,Worst experience ever!,2024-03-04 20:09:00,331,Negative,753,231,Image,Food
+550,user_1409,Just another day.,2024-03-07 16:24:00,137,Neutral,826,177,Image,Education
+551,user_2749,Not a fan of this. 👎,2024-08-06 14:30:00,6,Negative,433,276,Reel,Education
+552,user_9030,Highly recommend this! 👍,2024-12-16 16:38:00,7,Positive,780,152,Reel,Education
+553,user_4983,Such a beautiful place! 🌍,2024-09-25 16:46:00,235,Positive,476,418,Video,Food
+554,user_3855,Could be better.,2024-06-10 02:38:00,284,Negative,102,184,Image,Health
+555,user_4839,Highly recommend this! 👍,2024-10-15 10:39:00,27,Positive,480,438,Story,Sports
+556,user_6318,This looks okay.,2024-10-15 21:49:00,362,Neutral,230,440,Story,Education
+557,user_4370,This is amazing! 🔥,2024-10-20 03:22:00,351,Positive,479,9,Reel,Travel
+558,user_7256,Best experience ever! 😊,2024-07-06 06:49:00,72,Positive,775,152,Image,Travel
+559,user_5500,Could be better.,2024-08-19 11:01:00,245,Negative,121,233,Reel,Health
+560,user_3896,Not sure about this.,2024-12-21 13:16:00,373,Neutral,520,114,Story,Fashion
+561,user_1986,Love this product! ❤️,2024-10-10 19:06:00,484,Positive,348,364,Reel,Sports
+562,user_9978,Never buying this again.,2024-07-19 12:59:00,410,Negative,535,498,Video,Food
+563,user_8260,Love this product! ❤️,2024-11-14 22:04:00,431,Positive,555,309,Image,Food
+564,user_2103,Love this product! ❤️,2024-02-10 09:26:00,381,Positive,440,231,Reel,Fashion
+565,user_5301,Might try it later.,2024-06-27 10:53:00,311,Neutral,502,216,Video,Food
+566,user_5080,Super excited about this! 🎉,2024-08-01 05:37:00,424,Positive,117,256,Reel,Travel
+567,user_2876,Could be better.,2024-10-24 13:12:00,371,Negative,216,353,Video,Animal
+568,user_4717,This looks okay.,2024-08-22 16:00:00,208,Neutral,379,452,Reel,Health
+569,user_1497,Not a fan of this. 👎,2024-08-09 03:15:00,75,Negative,788,489,Story,Education
+570,user_2793,Highly recommend this! 👍,2024-07-24 00:59:00,463,Positive,370,213,Video,Food
+571,user_5112,Worst experience ever!,2024-03-18 04:21:00,373,Negative,34,488,Image,Travel
+572,user_7598,This is amazing! 🔥,2024-05-10 08:23:00,333,Positive,621,498,Image,Travel
+573,user_4532,Worst experience ever!,2024-07-23 03:07:00,378,Negative,276,124,Video,Sports
+574,user_8173,Totally not worth it!,2024-08-18 03:06:00,278,Negative,800,18,Story,Fashion
+575,user_4139,Not sure about this.,2024-01-13 12:56:00,277,Neutral,174,26,Reel,Sports
+576,user_6531,Not a fan of this. 👎,2024-01-19 01:22:00,440,Negative,293,210,Image,Education
+577,user_4464,Never buying this again.,2024-08-18 11:44:00,402,Negative,885,427,Video,Health
+578,user_3704,Love this product! ❤️,2024-07-08 05:36:00,494,Positive,104,75,Reel,Sports
+579,user_9573,Totally not worth it!,2024-10-11 06:54:00,3,Negative,606,60,Story,Travel
+580,user_2072,Such a beautiful place! 🌍,2024-01-20 17:09:00,278,Positive,349,32,Reel,Animal
+581,user_2541,Highly recommend this! 👍,2024-03-24 19:58:00,281,Positive,768,394,Reel,Education
+582,user_5414,Disappointed with the service. 😡,2024-04-26 21:09:00,358,Negative,487,441,Video,Travel
+583,user_5419,It's alright.,2024-07-06 12:18:00,448,Neutral,519,154,Story,Education
+584,user_2366,Highly recommend this! 👍,2024-08-09 04:16:00,365,Positive,568,271,Reel,Education
+585,user_1412,Could be better.,2024-06-07 21:28:00,151,Negative,733,22,Story,Food
+586,user_7211,Such a beautiful place! 🌍,2024-02-18 16:32:00,74,Positive,291,6,Image,Travel
+587,user_4450,Not sure about this.,2024-01-16 10:14:00,443,Neutral,811,323,Video,Animal
+588,user_1327,Never buying this again.,2024-07-17 08:53:00,11,Negative,532,198,Video,Animal
+589,user_2350,Highly recommend this! 👍,2024-03-08 19:42:00,17,Positive,599,109,Video,Fashion
+590,user_7006,Decent enough.,2024-07-17 08:53:00,415,Neutral,556,156,Video,Health
+591,user_6508,It's alright.,2024-09-27 05:59:00,240,Neutral,759,25,Reel,Education
+592,user_5647,Never buying this again.,2024-11-12 14:16:00,492,Negative,330,7,Video,Technology
+593,user_9723,Super excited about this! 🎉,2024-01-17 20:19:00,116,Positive,197,278,Image,Health
+594,user_8667,Such a beautiful place! 🌍,2024-03-16 11:53:00,311,Positive,49,386,Image,Fashion
+595,user_7699,Not sure about this.,2024-05-06 01:45:00,119,Neutral,377,116,Video,Sports
+596,user_9966,This looks okay.,2024-03-04 19:01:00,229,Neutral,57,366,Story,Sports
+597,user_9913,Worst experience ever!,2024-12-28 20:30:00,494,Negative,891,162,Story,Food
+598,user_3580,Highly recommend this! 👍,2024-05-25 17:44:00,295,Positive,120,10,Image,Travel
+599,user_8537,This looks okay.,2024-06-05 22:34:00,116,Neutral,863,496,Image,Education
+600,user_3956,This is amazing! 🔥,2024-12-27 17:54:00,132,Positive,366,487,Image,Food
+601,user_1805,This looks okay.,2024-01-20 13:30:00,156,Neutral,890,9,Reel,Fashion
+602,user_5222,This is amazing! 🔥,2024-08-10 20:56:00,301,Positive,425,125,Video,Health
+603,user_1952,Might try it later.,2024-02-10 07:00:00,146,Neutral,571,391,Video,Travel
+604,user_2031,Just another day.,2024-04-02 20:59:00,93,Neutral,663,172,Image,Fashion
+605,user_8411,Could be better.,2024-12-11 19:51:00,248,Negative,533,316,Image,Technology
+606,user_1510,Love this product! ❤️,2024-08-05 21:58:00,464,Positive,879,484,Video,Travel
+607,user_9809,Not sure about this.,2024-01-08 12:00:00,458,Neutral,676,359,Image,Fashion
+608,user_7226,Decent enough.,2024-06-25 06:31:00,195,Neutral,419,253,Reel,Technology
+609,user_1568,Not sure about this.,2024-11-09 17:58:00,373,Neutral,267,93,Video,Technology
+610,user_4873,Decent enough.,2024-01-01 14:43:00,236,Neutral,810,211,Video,Animal
+611,user_1253,Best experience ever! 😊,2024-03-13 14:06:00,45,Positive,275,484,Video,Sports
+612,user_9604,It's alright.,2024-11-18 21:50:00,239,Neutral,98,169,Reel,Travel
+613,user_6191,Decent enough.,2024-08-04 23:39:00,329,Neutral,804,275,Story,Technology
+614,user_9093,Disappointed with the service. 😡,2024-02-08 04:29:00,135,Negative,128,74,Reel,Education
+615,user_3637,Just another day.,2024-10-12 01:28:00,78,Neutral,704,212,Reel,Education
+616,user_2193,This is amazing! 🔥,2024-08-10 21:08:00,261,Positive,204,47,Story,Sports
+617,user_2069,Such a beautiful place! 🌍,2024-06-05 03:41:00,381,Positive,741,23,Image,Travel
+618,user_5246,Decent enough.,2024-08-04 23:10:00,63,Neutral,41,400,Video,Animal
+619,user_3552,Highly recommend this! 👍,2024-12-23 21:13:00,49,Positive,438,248,Reel,Technology
+620,user_7481,Not a fan of this. 👎,2024-03-03 18:43:00,203,Negative,321,57,Story,Fashion
+621,user_7593,Totally not worth it!,2024-06-13 12:01:00,265,Negative,23,177,Image,Travel
+622,user_2805,Worst experience ever!,2024-04-25 04:29:00,282,Negative,534,161,Reel,Food
+623,user_3576,Just another day.,2024-09-12 05:49:00,324,Neutral,658,206,Video,Health
+624,user_4286,Such a beautiful place! 🌍,2024-05-12 17:51:00,384,Positive,646,370,Reel,Travel
+625,user_5814,Never buying this again.,2024-04-24 10:17:00,59,Negative,642,54,Story,Fashion
+626,user_7299,It's alright.,2024-03-15 18:40:00,223,Neutral,841,287,Reel,Sports
+627,user_3801,Could be better.,2024-04-08 15:39:00,467,Negative,383,106,Image,Travel
+628,user_2392,Worst experience ever!,2024-07-24 13:53:00,274,Negative,874,35,Story,Technology
+629,user_7736,Just another day.,2024-02-09 23:35:00,471,Neutral,768,123,Image,Travel
+630,user_4710,Not sure about this.,2024-07-09 07:21:00,408,Neutral,920,138,Video,Health
+631,user_2882,Disappointed with the service. 😡,2024-04-09 17:36:00,229,Negative,730,327,Image,Food
+632,user_3518,Not sure about this.,2024-06-07 12:35:00,367,Neutral,521,91,Video,Technology
+633,user_9606,Totally not worth it!,2024-06-08 11:10:00,364,Negative,822,211,Video,Health
+634,user_6848,Totally not worth it!,2024-09-24 06:41:00,316,Negative,112,189,Reel,Food
+635,user_2231,Not sure about this.,2024-10-22 03:11:00,53,Neutral,436,496,Story,Animal
+636,user_5250,Worst experience ever!,2024-09-05 13:14:00,303,Negative,299,172,Video,Fashion
+637,user_8976,Could be better.,2024-01-19 10:49:00,400,Negative,310,78,Video,Animal
+638,user_7971,Worst experience ever!,2024-07-13 08:41:00,446,Negative,912,408,Reel,Animal
+639,user_8344,Love this product! ❤️,2024-07-17 00:05:00,284,Positive,507,384,Story,Education
+640,user_8086,Such a beautiful place! 🌍,2024-04-24 12:00:00,114,Positive,593,37,Reel,Travel
+641,user_6487,Just another day.,2024-08-11 00:45:00,154,Neutral,240,237,Story,Travel
+642,user_4974,Not a fan of this. 👎,2024-08-02 19:32:00,218,Negative,277,361,Story,Fashion
+643,user_2350,Might try it later.,2024-03-28 03:22:00,301,Neutral,932,181,Image,Sports
+644,user_2544,Totally not worth it!,2024-12-09 20:29:00,478,Negative,417,241,Reel,Fashion
+645,user_2794,Not sure about this.,2024-12-04 02:17:00,486,Neutral,143,119,Story,Fashion
+646,user_6550,Not sure about this.,2024-07-08 20:35:00,252,Neutral,587,112,Reel,Animal
+647,user_4571,Decent enough.,2024-09-14 00:16:00,17,Neutral,168,480,Story,Animal
+648,user_8892,Super excited about this! 🎉,2024-02-23 11:20:00,434,Positive,602,79,Reel,Travel
+649,user_2402,Disappointed with the service. 😡,2024-07-01 14:30:00,82,Negative,694,339,Image,Food
+650,user_9740,Best experience ever! 😊,2024-12-28 10:30:00,450,Positive,965,470,Image,Fashion
+651,user_3077,Just another day.,2024-09-04 17:54:00,466,Neutral,481,310,Video,Sports
+652,user_7401,Just another day.,2024-03-07 04:40:00,422,Neutral,558,133,Video,Sports
+653,user_1454,Super excited about this! 🎉,2024-05-24 13:32:00,26,Positive,270,7,Reel,Health
+654,user_1072,Not sure about this.,2024-10-04 17:01:00,288,Neutral,561,12,Image,Health
+655,user_3432,Super excited about this! 🎉,2024-08-13 11:25:00,473,Positive,295,135,Story,Travel
+656,user_5282,Love this product! ❤️,2024-08-11 14:39:00,222,Positive,567,77,Video,Technology
+657,user_9741,It's alright.,2024-03-05 01:03:00,73,Neutral,843,252,Reel,Food
+658,user_9809,Such a beautiful place! 🌍,2024-03-18 12:14:00,226,Positive,642,393,Video,Sports
+659,user_1933,Love this product! ❤️,2024-01-04 11:07:00,206,Positive,589,38,Video,Animal
+660,user_8662,Highly recommend this! 👍,2024-06-26 14:20:00,66,Positive,733,200,Story,Health
+661,user_8601,Not sure about this.,2024-11-17 12:52:00,17,Neutral,432,382,Story,Food
+662,user_4139,Worst experience ever!,2024-03-18 08:14:00,232,Negative,818,30,Image,Education
+663,user_3578,Decent enough.,2024-09-10 23:38:00,226,Neutral,436,153,Video,Technology
+664,user_8001,Highly recommend this! 👍,2024-11-10 16:23:00,96,Positive,784,321,Story,Technology
+665,user_8655,Decent enough.,2024-10-15 04:29:00,404,Neutral,540,425,Video,Food
+666,user_8093,This is amazing! 🔥,2024-08-10 18:58:00,439,Positive,68,129,Story,Food
+667,user_4744,Decent enough.,2024-04-13 04:30:00,123,Neutral,123,495,Video,Animal
+668,user_6626,Love this product! ❤️,2024-02-18 03:19:00,71,Positive,898,67,Story,Health
+669,user_5150,Best experience ever! 😊,2024-03-12 07:51:00,259,Positive,307,281,Reel,Fashion
+670,user_4466,Could be better.,2024-05-02 09:38:00,223,Negative,126,166,Reel,Technology
+671,user_7582,It's alright.,2024-10-06 16:33:00,148,Neutral,132,345,Reel,Health
+672,user_5442,Not sure about this.,2024-06-03 01:14:00,244,Neutral,462,25,Image,Food
+673,user_2905,Such a beautiful place! 🌍,2024-10-19 00:11:00,413,Positive,109,437,Video,Sports
+674,user_5493,Worst experience ever!,2024-08-01 04:54:00,164,Negative,777,463,Image,Sports
+675,user_6316,Might try it later.,2024-04-07 02:41:00,255,Neutral,93,417,Image,Technology
+676,user_8603,Not a fan of this. 👎,2024-06-06 11:53:00,214,Negative,281,465,Reel,Food
+677,user_8889,Disappointed with the service. 😡,2024-06-12 15:11:00,449,Negative,882,31,Reel,Food
+678,user_1067,Disappointed with the service. 😡,2024-12-05 04:28:00,24,Negative,873,331,Story,Education
+679,user_8425,Might try it later.,2024-02-27 02:11:00,313,Neutral,573,473,Video,Technology
+680,user_6096,Super excited about this! 🎉,2024-03-26 13:45:00,63,Positive,241,305,Video,Animal
+681,user_9669,Not sure about this.,2024-10-13 13:57:00,235,Neutral,724,416,Video,Fashion
+682,user_4835,This looks okay.,2024-01-01 13:56:00,33,Neutral,179,406,Video,Animal
+683,user_6342,Worst experience ever!,2024-11-11 20:00:00,272,Negative,419,13,Story,Sports
+684,user_9743,Such a beautiful place! 🌍,2024-01-21 16:08:00,79,Positive,107,126,Video,Animal
+685,user_1394,Worst experience ever!,2024-11-25 18:34:00,307,Negative,632,429,Reel,Health
+686,user_7862,Could be better.,2024-08-24 18:46:00,418,Negative,752,475,Image,Health
+687,user_4732,Decent enough.,2024-08-22 18:38:00,163,Neutral,99,134,Reel,Animal
+688,user_4590,Super excited about this! 🎉,2024-03-01 02:51:00,222,Positive,572,424,Reel,Health
+689,user_9965,Not sure about this.,2024-01-28 01:01:00,441,Neutral,497,20,Story,Fashion
+690,user_7580,Such a beautiful place! 🌍,2024-04-17 09:54:00,275,Positive,693,480,Reel,Technology
+691,user_7061,This looks okay.,2024-07-25 11:51:00,7,Neutral,254,493,Story,Education
+692,user_8978,Never buying this again.,2024-09-28 20:31:00,253,Negative,347,324,Reel,Fashion
+693,user_4663,Disappointed with the service. 😡,2024-07-26 02:37:00,32,Negative,88,246,Video,Travel
+694,user_9435,Such a beautiful place! 🌍,2024-09-26 08:37:00,201,Positive,528,348,Story,Fashion
+695,user_8481,Worst experience ever!,2024-10-23 20:57:00,90,Negative,154,40,Video,Animal
+696,user_4731,Disappointed with the service. 😡,2024-02-04 08:19:00,330,Negative,663,145,Story,Technology
+697,user_3083,Such a beautiful place! 🌍,2024-06-23 05:38:00,197,Positive,916,370,Reel,Health
+698,user_7130,Best experience ever! 😊,2024-06-08 13:11:00,304,Positive,25,309,Video,Food
+699,user_9049,Not sure about this.,2024-02-15 20:04:00,5,Neutral,580,113,Video,Fashion
+700,user_9966,Could be better.,2024-09-22 02:04:00,171,Negative,697,477,Image,Animal
+701,user_4258,Decent enough.,2024-01-19 10:53:00,277,Neutral,72,238,Story,Animal
+702,user_6692,It's alright.,2024-08-15 23:41:00,228,Neutral,928,85,Video,Health
+703,user_9581,This is amazing! 🔥,2024-02-28 13:39:00,488,Positive,328,83,Video,Animal
+704,user_3916,Love this product! ❤️,2024-05-01 05:30:00,152,Positive,240,99,Reel,Health
+705,user_5343,This looks okay.,2024-12-24 10:59:00,439,Neutral,453,297,Reel,Technology
+706,user_7707,This looks okay.,2024-11-22 21:25:00,69,Neutral,740,32,Video,Education
+707,user_3891,Might try it later.,2024-09-13 15:51:00,32,Neutral,843,126,Video,Health
+708,user_9650,This looks okay.,2024-11-11 15:00:00,357,Neutral,808,69,Video,Fashion
+709,user_3802,Disappointed with the service. 😡,2024-01-03 10:38:00,28,Negative,775,464,Video,Technology
+710,user_7450,Might try it later.,2024-03-16 01:51:00,187,Neutral,986,62,Story,Animal
+711,user_5723,Decent enough.,2024-01-04 04:48:00,20,Neutral,657,446,Image,Food
+712,user_5848,Totally not worth it!,2024-04-13 10:13:00,239,Negative,683,225,Story,Fashion
+713,user_6152,Never buying this again.,2024-01-14 19:46:00,143,Negative,178,464,Reel,Education
+714,user_8438,Might try it later.,2024-01-13 05:16:00,125,Neutral,594,146,Video,Food
+715,user_4162,Highly recommend this! 👍,2024-07-28 01:52:00,222,Positive,818,338,Reel,Technology
+716,user_2217,Could be better.,2024-11-15 00:12:00,408,Negative,197,129,Story,Sports
+717,user_2081,Disappointed with the service. 😡,2024-12-03 07:09:00,246,Negative,836,379,Story,Health
+718,user_8927,Such a beautiful place! 🌍,2024-10-11 00:42:00,35,Positive,15,74,Image,Education
+719,user_6342,Could be better.,2024-11-23 12:16:00,77,Negative,126,31,Image,Animal
+720,user_1316,Might try it later.,2024-12-11 20:39:00,493,Neutral,672,313,Image,Animal
+721,user_2836,Not a fan of this. 👎,2024-12-11 04:41:00,195,Negative,222,79,Image,Animal
+722,user_1329,Decent enough.,2024-06-28 17:58:00,32,Neutral,764,326,Video,Technology
+723,user_4476,Totally not worth it!,2024-10-19 18:30:00,324,Negative,31,18,Image,Travel
+724,user_7739,This is amazing! 🔥,2024-06-08 22:55:00,188,Positive,635,303,Story,Health
+725,user_2029,Might try it later.,2024-02-08 09:55:00,16,Neutral,450,335,Story,Animal
+726,user_5941,Such a beautiful place! 🌍,2024-07-12 02:36:00,461,Positive,57,276,Video,Food
+727,user_7992,Super excited about this! 🎉,2024-10-07 01:25:00,412,Positive,771,6,Video,Sports
+728,user_7128,It's alright.,2024-06-18 23:09:00,292,Neutral,838,58,Video,Technology
+729,user_1624,This looks okay.,2024-12-05 06:13:00,134,Neutral,885,280,Reel,Technology
+730,user_8580,Never buying this again.,2024-11-09 22:53:00,8,Negative,498,221,Story,Technology
+731,user_1294,Love this product! ❤️,2024-08-14 19:35:00,447,Positive,417,204,Video,Food
+732,user_9001,Love this product! ❤️,2024-02-24 04:28:00,280,Positive,952,438,Reel,Animal
+733,user_8302,Not a fan of this. 👎,2024-11-23 05:45:00,177,Negative,836,227,Reel,Sports
+734,user_8868,Totally not worth it!,2024-12-20 01:45:00,260,Negative,37,295,Reel,Education
+735,user_9487,Love this product! ❤️,2024-03-02 20:09:00,129,Positive,547,478,Image,Animal
+736,user_2535,Such a beautiful place! 🌍,2024-02-04 16:17:00,90,Positive,441,264,Video,Fashion
+737,user_2925,This looks okay.,2024-04-28 17:21:00,263,Neutral,41,456,Image,Fashion
+738,user_2588,Worst experience ever!,2024-03-15 11:02:00,359,Negative,968,68,Reel,Travel
+739,user_7049,Might try it later.,2024-06-12 13:53:00,270,Neutral,237,355,Story,Travel
+740,user_9209,It's alright.,2024-01-21 14:53:00,221,Neutral,890,231,Reel,Animal
+741,user_3102,This looks okay.,2024-06-02 23:55:00,252,Neutral,337,67,Video,Sports
+742,user_8438,Highly recommend this! 👍,2024-04-13 13:40:00,225,Positive,629,466,Image,Animal
+743,user_1669,Super excited about this! 🎉,2024-06-06 18:46:00,128,Positive,670,498,Reel,Animal
+744,user_1799,Not sure about this.,2024-02-13 11:35:00,78,Neutral,308,425,Reel,Food
+745,user_8733,Decent enough.,2024-04-06 20:00:00,306,Neutral,353,339,Image,Fashion
+746,user_4120,Such a beautiful place! 🌍,2024-10-04 23:51:00,411,Positive,147,45,Story,Animal
+747,user_7711,Never buying this again.,2024-07-03 06:46:00,55,Negative,708,439,Video,Technology
+748,user_1495,Never buying this again.,2024-08-22 15:53:00,105,Negative,924,381,Story,Technology
+749,user_7194,Such a beautiful place! 🌍,2024-12-01 09:57:00,136,Positive,298,277,Reel,Animal
+750,user_7224,Just another day.,2024-03-12 18:14:00,10,Neutral,888,58,Story,Sports
+751,user_9476,Not a fan of this. 👎,2024-06-24 10:41:00,288,Negative,109,213,Video,Education
+752,user_4363,This looks okay.,2024-10-23 12:19:00,486,Neutral,873,125,Story,Fashion
+753,user_4178,Never buying this again.,2024-08-18 23:33:00,217,Negative,468,331,Image,Health
+754,user_1455,This looks okay.,2024-11-26 14:17:00,384,Neutral,760,229,Image,Education
+755,user_8679,Just another day.,2024-02-04 18:58:00,295,Neutral,226,180,Reel,Technology
+756,user_6395,Not a fan of this. 👎,2024-10-18 02:50:00,177,Negative,212,211,Image,Education
+757,user_6941,Super excited about this! 🎉,2024-08-22 23:18:00,100,Positive,254,123,Reel,Sports
+758,user_8296,Decent enough.,2024-07-22 18:19:00,98,Neutral,339,244,Story,Health
+759,user_3550,Decent enough.,2024-06-03 20:26:00,483,Neutral,294,248,Reel,Technology
+760,user_9145,This is amazing! 🔥,2024-03-20 01:55:00,211,Positive,303,293,Image,Technology
+761,user_4474,Not sure about this.,2024-02-21 14:58:00,206,Neutral,572,408,Image,Education
+762,user_5666,Such a beautiful place! 🌍,2024-04-12 22:10:00,371,Positive,413,214,Story,Food
+763,user_1856,Decent enough.,2024-05-23 18:04:00,100,Neutral,745,344,Image,Animal
+764,user_5195,Not a fan of this. 👎,2024-02-23 01:52:00,229,Negative,109,96,Image,Animal
+765,user_7222,Not sure about this.,2024-10-05 23:42:00,252,Neutral,49,364,Image,Fashion
+766,user_5329,This is amazing! 🔥,2024-08-18 08:00:00,322,Positive,710,180,Reel,Food
+767,user_4709,Might try it later.,2024-06-12 21:33:00,304,Neutral,478,118,Reel,Health
+768,user_7394,Just another day.,2024-09-06 13:25:00,123,Neutral,615,131,Video,Food
+769,user_3076,Love this product! ❤️,2024-11-02 08:21:00,184,Positive,378,201,Story,Sports
+770,user_2875,This is amazing! 🔥,2024-09-28 13:23:00,150,Positive,249,217,Reel,Education
+771,user_6182,Worst experience ever!,2024-10-04 16:09:00,80,Negative,947,212,Video,Food
+772,user_8110,Disappointed with the service. 😡,2024-03-09 17:35:00,494,Negative,406,150,Reel,Animal
+773,user_4831,Not a fan of this. 👎,2024-03-06 18:45:00,185,Negative,230,15,Story,Health
+774,user_1728,Highly recommend this! 👍,2024-12-14 08:53:00,442,Positive,274,360,Video,Health
+775,user_1580,Might try it later.,2024-03-14 10:52:00,265,Neutral,879,408,Reel,Sports
+776,user_7275,Not a fan of this. 👎,2024-09-21 12:03:00,180,Negative,157,240,Reel,Travel
+777,user_8928,Best experience ever! 😊,2024-06-15 20:20:00,485,Positive,157,302,Story,Travel
+778,user_2808,Decent enough.,2024-02-13 01:35:00,186,Neutral,261,30,Video,Travel
+779,user_2352,Disappointed with the service. 😡,2024-02-05 18:52:00,60,Negative,676,375,Reel,Technology
+780,user_6577,Not sure about this.,2024-11-01 04:21:00,135,Neutral,505,69,Story,Technology
+781,user_7862,Disappointed with the service. 😡,2024-03-18 06:29:00,448,Negative,802,34,Story,Health
+782,user_2706,Not a fan of this. 👎,2024-02-23 12:01:00,190,Negative,609,474,Image,Sports
+783,user_7054,Disappointed with the service. 😡,2024-07-18 08:13:00,346,Negative,336,57,Image,Technology
+784,user_9419,Decent enough.,2024-06-19 08:48:00,153,Neutral,209,51,Reel,Food
+785,user_3498,Decent enough.,2024-11-03 00:44:00,474,Neutral,474,293,Story,Technology
+786,user_1831,Just another day.,2024-07-05 20:48:00,308,Neutral,294,139,Image,Travel
+787,user_8444,Just another day.,2024-07-17 16:27:00,296,Neutral,272,499,Reel,Animal
+788,user_3095,Best experience ever! 😊,2024-01-17 05:26:00,110,Positive,231,165,Image,Travel
+789,user_2032,Such a beautiful place! 🌍,2024-09-09 04:58:00,346,Positive,638,100,Story,Technology
+790,user_7452,Not a fan of this. 👎,2024-11-04 18:58:00,189,Negative,963,487,Video,Technology
+791,user_9520,This is amazing! 🔥,2024-05-12 05:57:00,190,Positive,525,237,Image,Animal
+792,user_8826,Such a beautiful place! 🌍,2024-09-15 13:29:00,240,Positive,832,122,Reel,Travel
+793,user_4273,Love this product! ❤️,2024-11-05 16:18:00,343,Positive,239,442,Reel,Food
+794,user_5091,Best experience ever! 😊,2024-02-24 18:01:00,264,Positive,376,324,Image,Travel
+795,user_8141,Best experience ever! 😊,2024-08-23 04:51:00,35,Positive,890,190,Video,Fashion
+796,user_1307,Just another day.,2024-12-23 06:27:00,223,Neutral,474,29,Reel,Sports
+797,user_7567,Love this product! ❤️,2024-06-20 03:37:00,485,Positive,196,230,Video,Travel
+798,user_2935,Super excited about this! 🎉,2024-09-01 18:02:00,444,Positive,55,175,Image,Fashion
+799,user_7086,Love this product! ❤️,2024-03-17 23:15:00,94,Positive,68,262,Image,Sports
+800,user_6322,Best experience ever! 😊,2024-09-12 17:37:00,88,Positive,275,413,Story,Animal
+801,user_2645,Worst experience ever!,2024-07-12 20:16:00,351,Negative,858,42,Story,Sports
+802,user_7182,Might try it later.,2024-06-20 02:57:00,215,Neutral,410,398,Story,Animal
+803,user_5831,This looks okay.,2024-03-10 23:13:00,492,Neutral,156,123,Video,Technology
+804,user_2648,Not sure about this.,2024-11-12 03:24:00,265,Neutral,425,344,Video,Technology
+805,user_8711,Decent enough.,2024-07-10 11:24:00,351,Neutral,243,347,Video,Food
+806,user_4615,Just another day.,2024-05-07 19:08:00,213,Neutral,202,160,Story,Fashion
+807,user_8581,It's alright.,2024-05-17 08:20:00,280,Neutral,465,122,Image,Animal
+808,user_1522,Love this product! ❤️,2024-03-07 18:29:00,456,Positive,203,397,Image,Health
+809,user_7966,Might try it later.,2024-11-03 19:36:00,18,Neutral,257,159,Story,Fashion
+810,user_5080,Love this product! ❤️,2024-05-01 14:03:00,330,Positive,958,147,Reel,Health
+811,user_1251,Best experience ever! 😊,2024-01-13 20:00:00,85,Positive,294,125,Story,Technology
+812,user_8443,Not a fan of this. 👎,2024-05-12 01:06:00,494,Negative,567,319,Video,Animal
+813,user_5533,Might try it later.,2024-04-20 00:57:00,68,Neutral,682,407,Image,Food
+814,user_2848,Totally not worth it!,2024-11-08 15:45:00,253,Negative,513,322,Image,Travel
+815,user_2043,Worst experience ever!,2024-05-23 11:02:00,386,Negative,658,328,Story,Fashion
+816,user_1131,Totally not worth it!,2024-05-21 04:13:00,208,Negative,258,245,Reel,Health
+817,user_1936,Never buying this again.,2024-09-28 06:11:00,368,Negative,715,207,Reel,Animal
+818,user_6686,Love this product! ❤️,2024-03-12 11:27:00,214,Positive,473,464,Video,Sports
+819,user_3886,Super excited about this! 🎉,2024-04-02 15:47:00,228,Positive,421,21,Video,Food
+820,user_4638,This looks okay.,2024-10-05 11:14:00,324,Neutral,295,137,Story,Travel
+821,user_7098,Totally not worth it!,2024-08-02 22:15:00,137,Negative,293,25,Video,Food
+822,user_7502,Super excited about this! 🎉,2024-06-27 04:27:00,405,Positive,953,385,Video,Health
+823,user_3403,This is amazing! 🔥,2024-09-13 17:35:00,243,Positive,174,257,Video,Food
+824,user_6933,This is amazing! 🔥,2024-06-04 07:21:00,128,Positive,556,155,Image,Sports
+825,user_9339,Worst experience ever!,2024-08-03 15:42:00,240,Negative,482,473,Story,Health
+826,user_2577,Might try it later.,2024-01-20 00:36:00,319,Neutral,384,267,Image,Travel
+827,user_4311,Highly recommend this! 👍,2024-12-09 06:47:00,424,Positive,50,187,Video,Animal
+828,user_7533,This looks okay.,2024-05-23 18:33:00,161,Neutral,284,25,Image,Animal
+829,user_6390,Worst experience ever!,2024-08-18 01:09:00,287,Negative,185,446,Reel,Fashion
+830,user_9827,Not sure about this.,2024-09-28 09:53:00,126,Neutral,523,299,Image,Animal
+831,user_7569,Worst experience ever!,2024-09-07 03:25:00,269,Negative,939,373,Image,Technology
+832,user_9015,Love this product! ❤️,2024-09-20 13:48:00,479,Positive,912,38,Image,Health
+833,user_2984,Totally not worth it!,2024-08-05 14:37:00,198,Negative,58,426,Reel,Fashion
+834,user_9393,Super excited about this! 🎉,2024-09-12 20:42:00,61,Positive,720,195,Video,Technology
+835,user_5314,Super excited about this! 🎉,2024-03-05 13:44:00,164,Positive,497,23,Video,Food
+836,user_1218,Not sure about this.,2024-02-21 10:05:00,25,Neutral,427,178,Video,Fashion
+837,user_2447,Best experience ever! 😊,2024-07-17 01:28:00,360,Positive,276,389,Image,Food
+838,user_6973,Disappointed with the service. 😡,2024-01-03 02:50:00,135,Negative,733,186,Video,Sports
+839,user_7241,Decent enough.,2024-05-14 16:47:00,261,Neutral,973,113,Reel,Animal
+840,user_2560,Just another day.,2024-10-23 00:17:00,0,Neutral,175,178,Story,Food
+841,user_4655,This looks okay.,2024-07-23 15:25:00,371,Neutral,984,153,Image,Travel
+842,user_8452,Could be better.,2024-05-28 08:45:00,457,Negative,618,54,Image,Health
+843,user_2968,Best experience ever! 😊,2024-09-21 08:11:00,46,Positive,593,232,Video,Sports
+844,user_6782,Totally not worth it!,2024-08-09 04:59:00,226,Negative,405,377,Video,Animal
+845,user_6888,Disappointed with the service. 😡,2024-11-09 21:51:00,16,Negative,398,494,Story,Education
+846,user_1126,Highly recommend this! 👍,2024-04-06 05:52:00,57,Positive,902,186,Story,Health
+847,user_8573,Love this product! ❤️,2024-01-11 09:32:00,442,Positive,138,149,Video,Technology
+848,user_4936,Never buying this again.,2024-11-19 05:29:00,80,Negative,690,256,Image,Sports
+849,user_8789,Worst experience ever!,2024-12-06 04:00:00,105,Negative,435,34,Story,Food
+850,user_2370,Worst experience ever!,2024-11-12 03:57:00,103,Negative,844,314,Story,Education
+851,user_5481,Disappointed with the service. 😡,2024-01-19 15:38:00,316,Negative,931,98,Video,Technology
+852,user_8978,Best experience ever! 😊,2024-01-22 07:26:00,282,Positive,503,146,Image,Education
+853,user_2547,Just another day.,2024-03-24 17:31:00,139,Neutral,148,26,Story,Fashion
+854,user_3268,Not a fan of this. 👎,2024-03-27 09:14:00,86,Negative,508,159,Story,Food
+855,user_4458,Could be better.,2024-12-12 21:30:00,202,Negative,748,292,Story,Travel
+856,user_5767,Not sure about this.,2024-08-13 02:08:00,440,Neutral,552,186,Story,Education
+857,user_8140,Not a fan of this. 👎,2024-10-20 22:13:00,43,Negative,807,152,Image,Animal
+858,user_2452,Just another day.,2024-02-16 22:45:00,372,Neutral,849,278,Image,Food
+859,user_8908,Best experience ever! 😊,2024-02-26 01:40:00,305,Positive,800,110,Video,Food
+860,user_6483,This is amazing! 🔥,2024-11-24 07:35:00,121,Positive,436,377,Image,Travel
+861,user_3832,Disappointed with the service. 😡,2024-12-07 17:01:00,311,Negative,235,425,Reel,Animal
+862,user_6908,It's alright.,2024-02-21 07:41:00,361,Neutral,647,183,Reel,Technology
+863,user_6344,Decent enough.,2024-11-26 15:37:00,295,Neutral,74,279,Story,Health
+864,user_1758,Decent enough.,2024-06-23 10:00:00,237,Neutral,632,456,Story,Food
+865,user_1087,Disappointed with the service. 😡,2024-10-09 00:00:00,31,Negative,406,486,Image,Animal
+866,user_9433,Such a beautiful place! 🌍,2024-10-27 12:00:00,462,Positive,486,475,Image,Technology
+867,user_1351,Highly recommend this! 👍,2024-12-09 09:54:00,310,Positive,11,481,Reel,Fashion
+868,user_6381,Super excited about this! 🎉,2024-02-26 19:12:00,40,Positive,525,111,Story,Fashion
+869,user_7891,Never buying this again.,2024-08-12 23:35:00,164,Negative,957,10,Story,Health
+870,user_6270,Super excited about this! 🎉,2024-03-13 21:23:00,285,Positive,335,247,Reel,Fashion
+871,user_6608,Not sure about this.,2024-09-12 07:18:00,382,Neutral,649,499,Reel,Animal
+872,user_5175,Disappointed with the service. 😡,2024-09-15 17:47:00,218,Negative,549,100,Story,Fashion
+873,user_8301,Totally not worth it!,2024-04-06 08:14:00,150,Negative,355,44,Reel,Education
+874,user_6523,Never buying this again.,2024-05-12 19:02:00,312,Negative,121,337,Reel,Health
+875,user_2209,Love this product! ❤️,2024-10-23 07:19:00,66,Positive,544,57,Reel,Travel
+876,user_6415,Could be better.,2024-05-01 00:03:00,325,Negative,876,235,Story,Travel
+877,user_1984,Just another day.,2024-07-20 06:51:00,7,Neutral,930,39,Reel,Sports
+878,user_9035,Totally not worth it!,2024-05-14 06:17:00,241,Negative,47,276,Reel,Technology
+879,user_1145,Decent enough.,2024-09-04 17:29:00,152,Neutral,576,294,Reel,Sports
+880,user_8189,Disappointed with the service. 😡,2024-08-19 04:12:00,195,Negative,793,294,Video,Health
+881,user_4198,Not sure about this.,2024-07-06 17:34:00,235,Neutral,207,339,Video,Travel
+882,user_9752,Best experience ever! 😊,2024-03-24 17:54:00,243,Positive,741,85,Video,Travel
+883,user_8250,It's alright.,2024-10-14 22:45:00,65,Neutral,554,468,Image,Fashion
+884,user_2600,Best experience ever! 😊,2024-11-28 11:29:00,17,Positive,495,36,Story,Animal
+885,user_9082,Might try it later.,2024-01-23 08:42:00,73,Neutral,125,455,Image,Fashion
+886,user_5586,Highly recommend this! 👍,2024-11-15 21:06:00,490,Positive,226,245,Story,Education
+887,user_5708,Worst experience ever!,2024-03-16 00:19:00,285,Negative,667,15,Video,Education
+888,user_1549,It's alright.,2024-12-12 15:15:00,83,Neutral,588,221,Reel,Health
+889,user_4944,Such a beautiful place! 🌍,2024-03-04 02:55:00,468,Positive,66,196,Image,Travel
+890,user_6396,Disappointed with the service. 😡,2024-11-12 18:56:00,384,Negative,159,327,Image,Travel
+891,user_8465,Love this product! ❤️,2024-01-20 01:24:00,32,Positive,187,429,Story,Sports
+892,user_4007,Such a beautiful place! 🌍,2024-12-05 03:57:00,339,Positive,533,202,Video,Technology
+893,user_8064,Love this product! ❤️,2024-01-21 20:11:00,481,Positive,315,236,Story,Sports
+894,user_2799,Not a fan of this. 👎,2024-05-11 01:10:00,179,Negative,156,286,Story,Technology
+895,user_7208,Totally not worth it!,2024-05-02 05:12:00,21,Negative,316,104,Story,Sports
+896,user_3271,Super excited about this! 🎉,2024-03-16 23:53:00,295,Positive,863,208,Image,Health
+897,user_1672,Totally not worth it!,2024-09-16 03:15:00,485,Negative,444,128,Video,Education
+898,user_6724,Not sure about this.,2024-03-17 01:04:00,17,Neutral,965,214,Story,Education
+899,user_1057,Best experience ever! 😊,2024-08-11 03:08:00,445,Positive,853,69,Image,Sports
+900,user_3052,Love this product! ❤️,2024-08-19 19:20:00,429,Positive,580,98,Story,Travel
+901,user_4562,It's alright.,2024-10-11 04:58:00,86,Neutral,287,229,Story,Health
+902,user_6930,Just another day.,2024-12-18 00:54:00,237,Neutral,431,51,Image,Animal
+903,user_4728,Never buying this again.,2024-10-13 12:10:00,77,Negative,521,370,Reel,Food
+904,user_3524,Not a fan of this. 👎,2024-09-11 01:17:00,231,Negative,641,179,Image,Food
+905,user_7634,Highly recommend this! 👍,2024-10-16 03:08:00,85,Positive,962,248,Story,Animal
+906,user_9902,Love this product! ❤️,2024-12-04 20:25:00,187,Positive,810,273,Reel,Animal
+907,user_5185,Highly recommend this! 👍,2024-05-14 13:03:00,42,Positive,718,403,Video,Fashion
+908,user_8591,Such a beautiful place! 🌍,2024-01-01 03:33:00,318,Positive,327,257,Video,Education
+909,user_1938,Not a fan of this. 👎,2024-10-10 04:35:00,181,Negative,214,413,Image,Education
+910,user_1714,Love this product! ❤️,2024-06-13 13:58:00,239,Positive,945,214,Video,Travel
+911,user_7720,Super excited about this! 🎉,2024-07-27 03:01:00,387,Positive,106,128,Image,Food
+912,user_6866,It's alright.,2024-07-25 01:15:00,322,Neutral,960,220,Image,Health
+913,user_4277,Could be better.,2024-12-25 17:55:00,41,Negative,934,417,Reel,Health
+914,user_6506,This is amazing! 🔥,2024-03-10 06:17:00,448,Positive,270,360,Reel,Health
+915,user_2098,Best experience ever! 😊,2024-11-26 19:37:00,64,Positive,111,440,Story,Health
+916,user_4702,Disappointed with the service. 😡,2024-07-17 03:22:00,223,Negative,552,239,Reel,Technology
+917,user_3976,Love this product! ❤️,2024-11-26 01:41:00,337,Positive,135,143,Video,Technology
+918,user_2135,It's alright.,2024-04-06 23:33:00,90,Neutral,73,151,Story,Health
+919,user_7876,Decent enough.,2024-03-22 03:05:00,418,Neutral,374,430,Reel,Technology
+920,user_2720,Best experience ever! 😊,2024-09-09 12:27:00,65,Positive,770,319,Video,Travel
+921,user_1736,Super excited about this! 🎉,2024-10-19 16:02:00,160,Positive,490,57,Reel,Education
+922,user_8089,Not a fan of this. 👎,2024-08-28 13:40:00,229,Negative,539,344,Video,Travel
+923,user_1680,Not sure about this.,2024-04-21 00:27:00,165,Neutral,500,344,Video,Sports
+924,user_2318,Could be better.,2024-06-05 18:11:00,188,Negative,433,122,Reel,Sports
+925,user_8112,Just another day.,2024-09-10 06:10:00,31,Neutral,982,139,Video,Education
+926,user_3042,Super excited about this! 🎉,2024-08-27 10:48:00,4,Positive,919,234,Reel,Travel
+927,user_9469,Such a beautiful place! 🌍,2024-12-20 01:31:00,262,Positive,585,197,Image,Fashion
+928,user_1259,Totally not worth it!,2024-04-16 11:51:00,32,Negative,43,131,Image,Travel
+929,user_1003,Might try it later.,2024-10-04 01:02:00,168,Neutral,387,293,Video,Animal
+930,user_3823,Best experience ever! 😊,2024-06-07 09:52:00,80,Positive,395,289,Video,Education
+931,user_7119,Not sure about this.,2024-10-10 01:46:00,446,Neutral,70,381,Image,Fashion
+932,user_9644,Totally not worth it!,2024-03-18 18:18:00,381,Negative,827,324,Story,Sports
+933,user_9781,Super excited about this! 🎉,2024-06-02 13:18:00,37,Positive,408,231,Video,Technology
+934,user_3211,Love this product! ❤️,2024-05-11 22:24:00,182,Positive,30,369,Reel,Health
+935,user_6434,Love this product! ❤️,2024-12-12 06:32:00,287,Positive,420,336,Reel,Fashion
+936,user_8365,Totally not worth it!,2024-07-22 09:42:00,78,Negative,890,194,Story,Animal
+937,user_9297,Love this product! ❤️,2024-06-12 06:48:00,392,Positive,944,426,Video,Travel
+938,user_6531,Best experience ever! 😊,2024-03-04 11:23:00,245,Positive,805,222,Reel,Food
+939,user_2529,Best experience ever! 😊,2024-04-24 00:00:00,54,Positive,536,90,Image,Fashion
+940,user_5580,Worst experience ever!,2024-02-14 01:54:00,396,Negative,458,7,Image,Travel
+941,user_4642,Never buying this again.,2024-02-02 12:31:00,255,Negative,454,29,Story,Health
+942,user_8684,This looks okay.,2024-01-11 20:04:00,210,Neutral,406,26,Video,Education
+943,user_8270,It's alright.,2024-02-14 10:29:00,285,Neutral,669,463,Story,Sports
+944,user_3511,Totally not worth it!,2024-07-23 08:54:00,215,Negative,876,243,Image,Fashion
+945,user_1943,Not a fan of this. 👎,2024-07-07 19:45:00,251,Negative,842,72,Image,Animal
+946,user_4311,Best experience ever! 😊,2024-09-25 02:45:00,1,Positive,477,107,Image,Education
+947,user_8174,Could be better.,2024-09-27 15:07:00,134,Negative,990,172,Image,Health
+948,user_9545,Could be better.,2024-10-12 13:22:00,293,Negative,765,88,Image,Technology
+949,user_9598,This looks okay.,2024-01-10 15:09:00,248,Neutral,678,315,Story,Technology
+950,user_5926,It's alright.,2024-07-21 09:20:00,12,Neutral,215,193,Reel,Education
+951,user_3916,Super excited about this! 🎉,2024-11-27 02:43:00,188,Positive,198,473,Video,Travel
+952,user_6741,Not sure about this.,2024-07-25 09:51:00,24,Neutral,435,377,Story,Fashion
+953,user_7499,Love this product! ❤️,2024-06-09 10:51:00,301,Positive,678,173,Story,Education
+954,user_4717,Just another day.,2024-12-21 00:54:00,294,Neutral,572,44,Reel,Food
+955,user_7107,Just another day.,2024-04-16 19:12:00,275,Neutral,411,83,Image,Fashion
+956,user_2268,Not sure about this.,2024-08-20 22:03:00,17,Neutral,721,402,Reel,Fashion
+957,user_6515,Worst experience ever!,2024-04-07 07:45:00,160,Negative,780,198,Video,Fashion
+958,user_5669,Could be better.,2024-11-01 19:12:00,278,Negative,32,266,Image,Fashion
+959,user_1465,Love this product! ❤️,2024-09-27 15:45:00,32,Positive,212,243,Image,Health
+960,user_2562,Highly recommend this! 👍,2024-11-25 08:37:00,31,Positive,918,117,Story,Fashion
+961,user_6431,Totally not worth it!,2024-08-08 05:44:00,59,Negative,337,232,Video,Animal
+962,user_7138,Best experience ever! 😊,2024-07-16 21:30:00,436,Positive,452,413,Video,Animal
+963,user_7408,Might try it later.,2024-06-04 05:38:00,87,Neutral,779,23,Reel,Health
+964,user_3300,Might try it later.,2024-02-15 08:45:00,261,Neutral,47,292,Reel,Fashion
+965,user_2719,Worst experience ever!,2024-09-04 10:17:00,486,Negative,522,207,Story,Fashion
+966,user_9416,Super excited about this! 🎉,2024-06-01 15:52:00,367,Positive,168,216,Reel,Animal
+967,user_3195,Best experience ever! 😊,2024-08-05 12:50:00,275,Positive,703,304,Image,Food
+968,user_2249,Totally not worth it!,2024-02-17 13:18:00,336,Negative,521,366,Reel,Education
+969,user_9527,It's alright.,2024-05-04 11:58:00,483,Neutral,732,188,Video,Sports
+970,user_9571,Disappointed with the service. 😡,2024-06-18 04:20:00,265,Negative,489,93,Story,Travel
+971,user_4406,Might try it later.,2024-04-13 23:31:00,380,Neutral,772,8,Story,Sports
+972,user_5216,Worst experience ever!,2024-02-01 17:19:00,330,Negative,83,39,Video,Education
+973,user_2623,It's alright.,2024-04-02 14:05:00,381,Neutral,485,221,Story,Sports
+974,user_3882,Super excited about this! 🎉,2024-06-06 23:13:00,16,Positive,143,122,Video,Health
+975,user_8681,Highly recommend this! 👍,2024-02-24 11:38:00,16,Positive,161,490,Story,Technology
+976,user_5156,Best experience ever! 😊,2024-06-18 06:22:00,342,Positive,527,374,Image,Travel
+977,user_9854,Super excited about this! 🎉,2024-12-13 10:07:00,14,Positive,424,448,Video,Education
+978,user_3013,Such a beautiful place! 🌍,2024-05-20 03:02:00,397,Positive,859,17,Story,Fashion
+979,user_7211,Love this product! ❤️,2024-05-27 10:26:00,465,Positive,605,377,Reel,Education
+980,user_6437,Super excited about this! 🎉,2024-02-04 02:04:00,353,Positive,752,56,Reel,Sports
+981,user_9798,Totally not worth it!,2024-10-24 14:08:00,32,Negative,215,153,Video,Food
+982,user_5312,Not sure about this.,2024-08-04 21:57:00,420,Neutral,577,199,Reel,Travel
+983,user_9640,This is amazing! 🔥,2024-09-24 20:40:00,421,Positive,341,265,Video,Technology
+984,user_1825,Best experience ever! 😊,2024-08-03 00:13:00,77,Positive,400,491,Reel,Travel
+985,user_4602,Love this product! ❤️,2024-04-24 21:49:00,88,Positive,427,365,Video,Education
+986,user_3352,Totally not worth it!,2024-12-12 20:00:00,490,Negative,404,105,Story,Food
+987,user_5054,Not sure about this.,2024-11-03 19:13:00,89,Neutral,254,158,Image,Animal
+988,user_6912,Never buying this again.,2024-09-06 04:07:00,362,Negative,974,222,Video,Health
+989,user_3675,Best experience ever! 😊,2024-03-21 19:50:00,447,Positive,939,128,Story,Sports
+990,user_9886,Worst experience ever!,2024-03-23 20:18:00,154,Negative,70,52,Story,Travel
+991,user_6042,Highly recommend this! 👍,2024-08-04 17:09:00,475,Positive,655,177,Video,Education
+992,user_4083,Totally not worth it!,2024-06-07 06:25:00,11,Negative,39,334,Story,Health
+993,user_8432,Might try it later.,2024-08-02 19:32:00,401,Neutral,425,366,Reel,Health
+994,user_4662,Might try it later.,2024-10-22 23:13:00,370,Neutral,661,465,Story,Health
+995,user_7680,Decent enough.,2024-02-11 03:28:00,460,Neutral,889,476,Video,Travel
+996,user_5249,It's alright.,2024-11-11 13:06:00,446,Neutral,563,452,Reel,Food
+997,user_9280,Might try it later.,2024-04-18 23:56:00,315,Neutral,420,255,Image,Fashion
+998,user_7197,Could be better.,2024-06-27 08:04:00,170,Negative,896,247,Image,Sports
+999,user_1914,Might try it later.,2024-06-25 19:55:00,484,Neutral,355,28,Image,Technology
+1000,user_6961,Such a beautiful place! 🌍,2024-02-16 16:30:00,62,Positive,45,435,Story,Food
+1001,user_1727,This is amazing! 🔥,2024-03-25 02:56:00,243,Positive,879,196,Image,Food
+1002,user_4287,Best experience ever! 😊,2024-07-25 00:40:00,173,Positive,166,275,Story,Food
+1003,user_5533,This looks okay.,2024-06-02 22:51:00,307,Neutral,817,112,Video,Fashion
+1004,user_4195,Worst experience ever!,2024-01-12 20:06:00,425,Negative,236,345,Story,Animal
+1005,user_6253,Not a fan of this. 👎,2024-02-13 17:02:00,137,Negative,236,443,Video,Animal
+1006,user_1458,Such a beautiful place! 🌍,2024-02-26 04:00:00,339,Positive,570,372,Reel,Travel
+1007,user_1021,Just another day.,2024-08-01 02:08:00,341,Neutral,51,314,Story,Education
+1008,user_5372,Just another day.,2024-05-10 17:55:00,231,Neutral,238,173,Image,Fashion
+1009,user_4567,Decent enough.,2024-04-28 17:31:00,396,Neutral,507,407,Reel,Animal
+1010,user_5334,Highly recommend this! 👍,2024-06-22 06:01:00,197,Positive,185,189,Story,Animal
+1011,user_1630,Could be better.,2024-10-20 03:30:00,165,Negative,517,479,Story,Animal
+1012,user_3871,Decent enough.,2024-09-07 13:11:00,279,Neutral,114,54,Reel,Education
+1013,user_7044,Best experience ever! 😊,2024-12-26 21:30:00,423,Positive,175,120,Image,Technology
+1014,user_7412,Love this product! ❤️,2024-11-27 08:22:00,287,Positive,689,295,Story,Health
+1015,user_8421,Not sure about this.,2024-09-28 03:41:00,350,Neutral,494,101,Image,Food
+1016,user_1590,It's alright.,2024-05-11 10:36:00,338,Neutral,660,360,Video,Travel
+1017,user_9269,It's alright.,2024-04-23 09:33:00,78,Neutral,784,277,Video,Education
+1018,user_5915,Totally not worth it!,2024-09-06 08:47:00,494,Negative,895,185,Reel,Fashion
+1019,user_6413,Just another day.,2024-12-21 19:22:00,477,Neutral,386,195,Video,Food
+1020,user_4418,Best experience ever! 😊,2024-09-03 01:58:00,153,Positive,518,104,Story,Education
+1021,user_7787,It's alright.,2024-07-27 06:36:00,65,Neutral,314,60,Story,Sports
+1022,user_7457,This looks okay.,2024-04-11 21:26:00,16,Neutral,584,401,Video,Travel
+1023,user_5116,Might try it later.,2024-10-12 16:13:00,458,Neutral,530,204,Reel,Sports
+1024,user_4001,Not a fan of this. 👎,2024-09-24 01:20:00,91,Negative,380,291,Image,Health
+1025,user_6462,This looks okay.,2024-08-23 07:19:00,41,Neutral,15,432,Image,Food
+1026,user_3049,Could be better.,2024-02-25 23:00:00,185,Negative,566,205,Reel,Animal
+1027,user_1784,Never buying this again.,2024-03-18 09:39:00,393,Negative,825,205,Image,Travel
+1028,user_8112,Decent enough.,2024-12-08 20:57:00,433,Neutral,376,234,Reel,Animal
+1029,user_6149,Highly recommend this! 👍,2024-06-27 16:53:00,382,Positive,804,372,Story,Animal
+1030,user_1934,Love this product! ❤️,2024-01-01 19:34:00,80,Positive,903,101,Reel,Food
+1031,user_1417,Might try it later.,2024-05-02 06:42:00,117,Neutral,566,434,Image,Animal
+1032,user_3820,Such a beautiful place! 🌍,2024-11-18 17:57:00,391,Positive,826,379,Story,Education
+1033,user_9496,Love this product! ❤️,2024-11-26 10:29:00,186,Positive,227,419,Image,Sports
+1034,user_3583,Worst experience ever!,2024-01-14 21:47:00,365,Negative,858,313,Reel,Health
+1035,user_8040,Highly recommend this! 👍,2024-09-25 10:41:00,245,Positive,25,61,Story,Technology
+1036,user_3910,Not a fan of this. 👎,2024-12-18 23:57:00,291,Negative,655,251,Story,Education
+1037,user_1449,Might try it later.,2024-09-07 19:03:00,118,Neutral,816,160,Story,Fashion
+1038,user_7708,It's alright.,2024-07-19 04:49:00,268,Neutral,404,329,Image,Health
+1039,user_9417,Never buying this again.,2024-04-13 03:22:00,263,Negative,537,283,Image,Health
+1040,user_4759,Best experience ever! 😊,2024-11-15 06:15:00,421,Positive,470,277,Image,Food
+1041,user_3739,Totally not worth it!,2024-04-09 22:46:00,441,Negative,46,438,Video,Health
+1042,user_1242,Just another day.,2024-07-17 16:44:00,224,Neutral,706,409,Image,Education
+1043,user_2824,Never buying this again.,2024-09-11 11:37:00,403,Negative,184,205,Video,Animal
+1044,user_8684,Just another day.,2024-11-04 17:11:00,364,Neutral,76,58,Story,Education
+1045,user_8113,It's alright.,2024-10-11 16:54:00,132,Neutral,278,141,Video,Travel
+1046,user_5846,Super excited about this! 🎉,2024-03-04 01:57:00,135,Positive,695,395,Story,Sports
+1047,user_9543,Super excited about this! 🎉,2024-06-08 06:04:00,489,Positive,121,498,Reel,Fashion
+1048,user_6481,Might try it later.,2024-08-27 03:50:00,416,Neutral,499,347,Story,Education
+1049,user_9712,Disappointed with the service. 😡,2024-08-07 13:21:00,23,Negative,427,384,Reel,Travel
+1050,user_2986,Highly recommend this! 👍,2024-06-26 03:14:00,454,Positive,912,285,Story,Animal
+1051,user_8653,Best experience ever! 😊,2024-12-13 04:15:00,65,Positive,15,117,Video,Fashion
+1052,user_1021,It's alright.,2024-07-21 21:33:00,313,Neutral,294,166,Video,Animal
+1053,user_3671,Super excited about this! 🎉,2024-08-17 21:27:00,389,Positive,412,271,Story,Food
+1054,user_9892,Such a beautiful place! 🌍,2024-04-27 02:23:00,113,Positive,960,384,Image,Fashion
+1055,user_5259,Not sure about this.,2024-10-27 11:25:00,40,Neutral,941,200,Video,Animal
+1056,user_6081,Never buying this again.,2024-06-19 12:29:00,414,Negative,968,326,Image,Fashion
+1057,user_6335,Worst experience ever!,2024-01-28 12:40:00,26,Negative,999,123,Story,Technology
+1058,user_8553,Worst experience ever!,2024-11-09 02:17:00,429,Negative,279,372,Story,Sports
+1059,user_9736,Not a fan of this. 👎,2024-08-11 21:03:00,29,Negative,427,374,Video,Travel
+1060,user_3563,Best experience ever! 😊,2024-11-16 17:04:00,257,Positive,542,481,Image,Fashion
+1061,user_9572,Not sure about this.,2024-06-23 01:09:00,253,Neutral,812,256,Reel,Education
+1062,user_3131,This is amazing! 🔥,2024-08-27 07:26:00,189,Positive,185,291,Image,Education
+1063,user_5555,It's alright.,2024-09-01 09:29:00,136,Neutral,721,333,Story,Travel
+1064,user_4023,Love this product! ❤️,2024-02-19 02:32:00,486,Positive,927,172,Image,Sports
+1065,user_3809,Just another day.,2024-04-20 12:30:00,117,Neutral,232,238,Video,Health
+1066,user_7524,Best experience ever! 😊,2024-06-03 15:03:00,240,Positive,350,347,Video,Education
+1067,user_9325,Not a fan of this. 👎,2024-09-03 21:17:00,298,Negative,945,65,Story,Sports
+1068,user_7058,Highly recommend this! 👍,2024-07-08 11:05:00,388,Positive,256,139,Reel,Food
+1069,user_5284,Never buying this again.,2024-09-16 21:41:00,329,Negative,938,162,Video,Technology
+1070,user_3744,It's alright.,2024-11-01 02:10:00,59,Neutral,938,136,Reel,Health
+1071,user_7461,Not sure about this.,2024-12-01 19:33:00,71,Neutral,206,200,Image,Technology
+1072,user_5380,Might try it later.,2024-07-03 05:44:00,38,Neutral,609,486,Video,Travel
+1073,user_3281,Just another day.,2024-11-26 04:19:00,309,Neutral,193,355,Video,Animal
+1074,user_2667,Never buying this again.,2024-11-14 15:24:00,444,Negative,285,314,Video,Sports
+1075,user_4382,Highly recommend this! 👍,2024-06-17 16:03:00,424,Positive,924,118,Video,Food
+1076,user_9020,It's alright.,2024-02-19 00:42:00,364,Neutral,255,23,Video,Fashion
+1077,user_2074,Super excited about this! 🎉,2024-09-16 10:22:00,70,Positive,974,445,Reel,Fashion
+1078,user_5126,Might try it later.,2024-12-21 18:17:00,16,Neutral,897,48,Image,Animal
+1079,user_6251,Decent enough.,2024-05-18 23:13:00,262,Neutral,977,483,Image,Fashion
+1080,user_7146,Totally not worth it!,2024-07-28 13:24:00,446,Negative,928,219,Story,Travel
+1081,user_6430,This is amazing! 🔥,2024-06-04 14:48:00,340,Positive,502,190,Image,Health
+1082,user_7643,Disappointed with the service. 😡,2024-05-03 14:18:00,293,Negative,924,479,Video,Sports
+1083,user_7768,Love this product! ❤️,2024-05-06 11:11:00,345,Positive,479,159,Reel,Fashion
+1084,user_5272,Not sure about this.,2024-11-19 11:36:00,91,Neutral,329,41,Image,Sports
+1085,user_7336,Not sure about this.,2024-11-28 20:59:00,164,Neutral,726,381,Story,Food
+1086,user_2765,Love this product! ❤️,2024-09-02 00:21:00,497,Positive,173,402,Reel,Sports
+1087,user_3863,Super excited about this! 🎉,2024-05-08 23:22:00,403,Positive,631,243,Video,Fashion
+1088,user_9711,This looks okay.,2024-07-11 05:52:00,333,Neutral,480,133,Story,Health
+1089,user_7979,Disappointed with the service. 😡,2024-02-05 12:17:00,216,Negative,746,430,Image,Technology
+1090,user_8550,Best experience ever! 😊,2024-09-19 05:01:00,483,Positive,516,499,Image,Technology
+1091,user_7781,This is amazing! 🔥,2024-12-21 03:48:00,480,Positive,730,479,Story,Technology
+1092,user_6292,Such a beautiful place! 🌍,2024-09-19 15:23:00,137,Positive,20,487,Image,Food
+1093,user_2186,Not sure about this.,2024-04-26 07:00:00,323,Neutral,68,282,Story,Technology
+1094,user_9694,Never buying this again.,2024-10-07 17:52:00,442,Negative,221,148,Video,Fashion
+1095,user_2885,Never buying this again.,2024-04-12 20:56:00,396,Negative,908,305,Story,Education
+1096,user_3211,Not a fan of this. 👎,2024-07-08 07:31:00,355,Negative,490,67,Image,Technology
+1097,user_9801,Not a fan of this. 👎,2024-02-03 23:53:00,155,Negative,437,12,Image,Fashion
+1098,user_9013,Totally not worth it!,2024-05-27 11:53:00,81,Negative,426,322,Image,Education
+1099,user_5488,Worst experience ever!,2024-07-24 21:06:00,85,Negative,44,413,Story,Fashion
+1100,user_9651,This looks okay.,2024-04-12 11:15:00,401,Neutral,327,403,Video,Education
+1101,user_7200,Best experience ever! 😊,2024-05-26 01:26:00,392,Positive,174,402,Video,Travel
+1102,user_1168,This looks okay.,2024-08-08 19:56:00,318,Neutral,354,136,Story,Fashion
+1103,user_3090,Love this product! ❤️,2024-05-23 05:23:00,372,Positive,678,250,Story,Travel
+1104,user_3625,Disappointed with the service. 😡,2024-04-01 14:46:00,131,Negative,975,198,Reel,Education
+1105,user_8975,Best experience ever! 😊,2024-08-05 21:17:00,56,Positive,690,21,Story,Fashion
+1106,user_5506,Not a fan of this. 👎,2024-02-05 07:31:00,400,Negative,570,316,Video,Technology
+1107,user_6181,Never buying this again.,2024-10-27 11:39:00,372,Negative,680,150,Video,Education
+1108,user_4805,Super excited about this! 🎉,2024-04-28 14:38:00,167,Positive,814,9,Story,Fashion
+1109,user_4374,This is amazing! 🔥,2024-10-23 08:46:00,38,Positive,823,407,Story,Food
+1110,user_4310,Love this product! ❤️,2024-11-13 15:28:00,441,Positive,577,309,Story,Animal
+1111,user_4443,Could be better.,2024-09-12 02:06:00,124,Negative,275,203,Video,Fashion
+1112,user_9071,Worst experience ever!,2024-10-15 00:01:00,187,Negative,168,145,Video,Education
+1113,user_5722,Not a fan of this. 👎,2024-01-08 23:22:00,46,Negative,921,187,Story,Travel
+1114,user_9216,Not sure about this.,2024-05-28 15:32:00,129,Neutral,491,223,Image,Animal
+1115,user_2306,Love this product! ❤️,2024-09-15 18:09:00,480,Positive,807,417,Reel,Fashion
+1116,user_3447,Decent enough.,2024-10-10 19:04:00,499,Neutral,556,254,Video,Fashion
+1117,user_9298,Could be better.,2024-05-27 05:02:00,40,Negative,256,368,Reel,Fashion
+1118,user_1629,Such a beautiful place! 🌍,2024-08-07 22:39:00,171,Positive,702,221,Reel,Health
+1119,user_9078,It's alright.,2024-07-14 08:22:00,188,Neutral,333,473,Story,Travel
+1120,user_9990,Worst experience ever!,2024-03-03 05:23:00,314,Negative,476,255,Image,Technology
+1121,user_6287,Might try it later.,2024-01-20 17:18:00,388,Neutral,530,126,Image,Technology
+1122,user_6180,Totally not worth it!,2024-01-19 10:34:00,207,Negative,854,81,Story,Travel
+1123,user_8382,Such a beautiful place! 🌍,2024-11-02 23:48:00,7,Positive,369,129,Video,Technology
+1124,user_2142,Love this product! ❤️,2024-02-17 07:31:00,24,Positive,937,469,Video,Animal
+1125,user_3211,Might try it later.,2024-07-24 02:18:00,469,Neutral,910,26,Image,Health
+1126,user_4540,Such a beautiful place! 🌍,2024-04-28 07:35:00,174,Positive,542,442,Video,Food
+1127,user_3469,Not sure about this.,2024-08-02 23:43:00,429,Neutral,655,230,Image,Travel
+1128,user_6180,This looks okay.,2024-11-19 04:50:00,25,Neutral,13,217,Image,Sports
+1129,user_8813,Could be better.,2024-10-14 18:16:00,285,Negative,507,119,Reel,Travel
+1130,user_5308,Decent enough.,2024-07-06 19:19:00,292,Neutral,337,110,Video,Health
+1131,user_3334,Not a fan of this. 👎,2024-10-21 07:41:00,20,Negative,272,119,Reel,Fashion
+1132,user_1415,Not sure about this.,2024-07-05 22:46:00,265,Neutral,94,352,Video,Education
+1133,user_8393,Worst experience ever!,2024-06-06 21:51:00,137,Negative,566,136,Image,Education
+1134,user_1881,Love this product! ❤️,2024-01-14 04:24:00,477,Positive,921,14,Reel,Technology
+1135,user_1444,Highly recommend this! 👍,2024-09-10 20:04:00,133,Positive,731,250,Story,Technology
+1136,user_6149,It's alright.,2024-07-25 07:21:00,25,Neutral,836,457,Reel,Food
+1137,user_3767,Not a fan of this. 👎,2024-01-25 15:53:00,378,Negative,927,499,Reel,Education
+1138,user_1030,Worst experience ever!,2024-11-02 17:28:00,27,Negative,239,357,Story,Travel
+1139,user_4111,This looks okay.,2024-07-01 06:17:00,428,Neutral,256,259,Video,Fashion
+1140,user_6123,Disappointed with the service. 😡,2024-09-10 18:23:00,192,Negative,962,303,Reel,Health
+1141,user_6653,Never buying this again.,2024-08-04 02:47:00,144,Negative,797,392,Story,Animal
+1142,user_9889,Not a fan of this. 👎,2024-09-11 09:26:00,409,Negative,816,29,Image,Animal
+1143,user_7091,Not sure about this.,2024-11-20 07:38:00,481,Neutral,436,217,Image,Animal
+1144,user_5705,Never buying this again.,2024-11-27 09:13:00,296,Negative,731,118,Story,Food
+1145,user_8627,Could be better.,2024-07-05 00:26:00,374,Negative,434,91,Story,Animal
+1146,user_8187,Super excited about this! 🎉,2024-09-19 01:11:00,385,Positive,801,409,Video,Technology
+1147,user_2306,Highly recommend this! 👍,2024-11-23 00:07:00,72,Positive,265,11,Video,Sports
+1148,user_2839,Super excited about this! 🎉,2024-12-16 13:18:00,60,Positive,564,28,Video,Technology
+1149,user_9839,Totally not worth it!,2024-04-27 06:00:00,83,Negative,751,466,Video,Education
+1150,user_1866,Could be better.,2024-08-27 11:03:00,309,Negative,700,218,Video,Fashion
+1151,user_1176,Disappointed with the service. 😡,2024-09-02 12:29:00,241,Negative,565,388,Video,Education
+1152,user_3254,Totally not worth it!,2024-09-22 18:08:00,390,Negative,93,207,Image,Food
+1153,user_6755,Disappointed with the service. 😡,2024-09-02 23:43:00,213,Negative,720,354,Image,Sports
+1154,user_9126,Super excited about this! 🎉,2024-11-14 00:47:00,203,Positive,398,135,Story,Travel
+1155,user_2953,Could be better.,2024-11-26 06:45:00,247,Negative,781,49,Reel,Sports
+1156,user_6356,Disappointed with the service. 😡,2024-12-28 14:17:00,137,Negative,628,148,Image,Health
+1157,user_7433,Highly recommend this! 👍,2024-10-05 04:08:00,238,Positive,624,285,Image,Food
+1158,user_4959,It's alright.,2024-03-24 16:33:00,252,Neutral,937,394,Video,Animal
+1159,user_9643,Highly recommend this! 👍,2024-04-09 17:28:00,372,Positive,136,167,Reel,Technology
+1160,user_3936,Not sure about this.,2024-03-18 15:06:00,348,Neutral,537,249,Story,Technology
+1161,user_4247,Such a beautiful place! 🌍,2024-09-25 20:21:00,315,Positive,904,213,Reel,Food
+1162,user_1092,Not a fan of this. 👎,2024-05-14 23:25:00,324,Negative,418,276,Image,Animal
+1163,user_8778,Might try it later.,2024-12-25 18:41:00,54,Neutral,895,260,Image,Sports
+1164,user_6323,This is amazing! 🔥,2024-12-24 10:00:00,250,Positive,275,261,Reel,Food
+1165,user_9240,Highly recommend this! 👍,2024-10-16 16:42:00,187,Positive,128,346,Reel,Sports
+1166,user_9379,Might try it later.,2024-01-19 22:16:00,220,Neutral,762,26,Image,Travel
+1167,user_3909,This looks okay.,2024-06-11 07:24:00,125,Neutral,516,154,Story,Education
+1168,user_4485,Might try it later.,2024-02-22 22:30:00,126,Neutral,26,253,Story,Sports
+1169,user_9395,Decent enough.,2024-08-20 07:54:00,354,Neutral,489,221,Video,Technology
+1170,user_3428,This is amazing! 🔥,2024-12-14 13:44:00,150,Positive,357,396,Video,Education
+1171,user_3250,Worst experience ever!,2024-05-11 09:34:00,164,Negative,633,144,Image,Health
+1172,user_3428,Best experience ever! 😊,2024-02-25 15:13:00,342,Positive,367,76,Video,Education
+1173,user_8746,Decent enough.,2024-07-23 23:53:00,74,Neutral,506,115,Image,Sports
+1174,user_2271,Disappointed with the service. 😡,2024-04-25 22:29:00,228,Negative,266,358,Story,Animal
+1175,user_8995,Could be better.,2024-08-13 20:02:00,50,Negative,348,125,Reel,Food
+1176,user_5322,Just another day.,2024-04-05 17:39:00,455,Neutral,707,245,Reel,Food
+1177,user_1615,Such a beautiful place! 🌍,2024-08-27 13:47:00,398,Positive,292,467,Image,Travel
+1178,user_9538,Not a fan of this. 👎,2024-01-06 14:30:00,402,Negative,930,14,Story,Food
+1179,user_2190,Never buying this again.,2024-04-17 05:13:00,120,Negative,748,261,Image,Health
+1180,user_8520,Disappointed with the service. 😡,2024-12-07 22:15:00,231,Negative,382,180,Story,Sports
+1181,user_8775,Best experience ever! 😊,2024-12-08 05:59:00,265,Positive,850,427,Story,Animal
+1182,user_2001,This looks okay.,2024-03-19 17:32:00,379,Neutral,590,92,Image,Health
+1183,user_3142,Not sure about this.,2024-08-20 12:27:00,138,Neutral,902,266,Story,Education
+1184,user_3051,Best experience ever! 😊,2024-08-15 17:25:00,226,Positive,749,38,Reel,Fashion
+1185,user_2949,Just another day.,2024-04-10 18:06:00,117,Neutral,449,378,Image,Education
+1186,user_2951,Highly recommend this! 👍,2024-05-25 15:20:00,269,Positive,168,231,Story,Food
+1187,user_5669,Not sure about this.,2024-08-05 16:01:00,37,Neutral,834,401,Story,Fashion
+1188,user_5600,Highly recommend this! 👍,2024-03-19 04:06:00,114,Positive,249,366,Story,Animal
+1189,user_3198,Just another day.,2024-09-19 08:51:00,8,Neutral,561,255,Image,Technology
+1190,user_2768,It's alright.,2024-02-12 13:28:00,152,Neutral,262,267,Video,Food
+1191,user_7431,Not sure about this.,2024-11-10 17:31:00,15,Neutral,480,203,Video,Food
+1192,user_5332,This looks okay.,2024-05-26 02:12:00,20,Neutral,217,125,Video,Sports
+1193,user_6923,Best experience ever! 😊,2024-12-19 23:13:00,196,Positive,495,112,Image,Food
+1194,user_6572,Super excited about this! 🎉,2024-11-17 14:18:00,326,Positive,687,274,Video,Food
+1195,user_2539,Totally not worth it!,2024-12-08 16:56:00,203,Negative,444,185,Image,Food
+1196,user_8141,Such a beautiful place! 🌍,2024-11-23 14:29:00,390,Positive,757,407,Story,Education
+1197,user_9414,Best experience ever! 😊,2024-11-06 11:11:00,441,Positive,515,423,Image,Technology
+1198,user_6571,Never buying this again.,2024-12-24 09:14:00,320,Negative,585,385,Image,Technology
+1199,user_4418,Totally not worth it!,2024-05-13 11:10:00,464,Negative,881,209,Image,Food
+1200,user_1436,Totally not worth it!,2024-12-20 00:30:00,488,Negative,945,440,Image,Fashion
+1201,user_7438,Highly recommend this! 👍,2024-01-13 12:13:00,130,Positive,303,169,Reel,Animal
+1202,user_5099,Never buying this again.,2024-05-07 02:33:00,9,Negative,347,300,Video,Health
+1203,user_7494,Might try it later.,2024-05-07 17:23:00,88,Neutral,545,400,Story,Food
+1204,user_8783,Highly recommend this! 👍,2024-07-13 06:48:00,434,Positive,292,351,Image,Travel
+1205,user_5499,Totally not worth it!,2024-04-28 09:17:00,250,Negative,864,392,Image,Sports
+1206,user_3711,This is amazing! 🔥,2024-08-08 15:16:00,268,Positive,693,183,Image,Fashion
+1207,user_9074,Not sure about this.,2024-11-24 21:57:00,206,Neutral,973,416,Story,Travel
+1208,user_2393,Highly recommend this! 👍,2024-09-10 02:53:00,54,Positive,674,165,Story,Sports
+1209,user_4573,Totally not worth it!,2024-01-18 04:23:00,410,Negative,420,193,Reel,Sports
+1210,user_3906,This is amazing! 🔥,2024-10-09 02:24:00,487,Positive,901,199,Story,Health
+1211,user_8191,Super excited about this! 🎉,2024-11-12 15:09:00,255,Positive,245,145,Video,Health
+1212,user_5679,Never buying this again.,2024-06-09 14:41:00,460,Negative,625,436,Story,Travel
+1213,user_9074,Could be better.,2024-11-05 22:26:00,241,Negative,176,369,Story,Education
+1214,user_4085,Decent enough.,2024-04-07 12:52:00,217,Neutral,176,136,Reel,Fashion
+1215,user_7808,Such a beautiful place! 🌍,2024-05-12 11:32:00,436,Positive,496,320,Video,Food
+1216,user_9180,Not a fan of this. 👎,2024-06-02 18:53:00,61,Negative,149,331,Image,Education
+1217,user_4285,Worst experience ever!,2024-02-12 18:06:00,176,Negative,378,108,Story,Health
+1218,user_6483,Disappointed with the service. 😡,2024-10-06 10:37:00,141,Negative,447,493,Reel,Sports
+1219,user_8646,This looks okay.,2024-04-09 09:13:00,457,Neutral,255,378,Image,Health
+1220,user_3814,Might try it later.,2024-03-27 11:29:00,299,Neutral,268,253,Reel,Sports
+1221,user_3737,Best experience ever! 😊,2024-05-24 10:52:00,201,Positive,242,261,Story,Travel
+1222,user_3692,Such a beautiful place! 🌍,2024-09-21 09:41:00,296,Positive,696,479,Story,Animal
+1223,user_4823,Worst experience ever!,2024-04-20 10:22:00,355,Negative,137,92,Story,Technology
+1224,user_6086,Super excited about this! 🎉,2024-07-19 02:00:00,396,Positive,391,498,Story,Travel
+1225,user_1564,Totally not worth it!,2024-06-10 13:31:00,460,Negative,627,411,Video,Food
+1226,user_9263,Just another day.,2024-03-24 04:20:00,198,Neutral,722,418,Video,Fashion
+1227,user_4967,Not sure about this.,2024-09-06 18:17:00,344,Neutral,444,458,Video,Technology
+1228,user_3683,Might try it later.,2024-10-08 16:34:00,301,Neutral,329,151,Video,Technology
+1229,user_3272,Such a beautiful place! 🌍,2024-07-13 22:24:00,457,Positive,380,36,Image,Food
+1230,user_4628,Could be better.,2024-09-21 22:52:00,238,Negative,440,279,Image,Food
+1231,user_6130,Such a beautiful place! 🌍,2024-05-23 08:44:00,3,Positive,921,159,Video,Technology
+1232,user_7563,Not a fan of this. 👎,2024-08-18 06:12:00,53,Negative,778,319,Video,Technology
+1233,user_6411,Such a beautiful place! 🌍,2024-08-26 15:35:00,34,Positive,910,112,Image,Food
+1234,user_1154,Just another day.,2024-07-12 20:08:00,215,Neutral,982,67,Image,Travel
+1235,user_6290,It's alright.,2024-10-27 12:23:00,438,Neutral,864,388,Reel,Fashion
+1236,user_4065,Might try it later.,2024-10-05 05:13:00,175,Neutral,671,120,Story,Fashion
+1237,user_6213,Might try it later.,2024-04-16 17:14:00,316,Neutral,815,125,Reel,Health
+1238,user_8441,Highly recommend this! 👍,2024-08-01 00:43:00,270,Positive,815,419,Video,Health
+1239,user_8551,Never buying this again.,2024-08-11 16:53:00,136,Negative,886,183,Video,Health
+1240,user_1821,Worst experience ever!,2024-06-13 14:31:00,126,Negative,34,226,Reel,Sports
+1241,user_6164,Best experience ever! 😊,2024-03-27 03:54:00,358,Positive,853,296,Story,Technology
+1242,user_1768,Could be better.,2024-11-14 10:25:00,41,Negative,145,108,Reel,Sports
+1243,user_9735,Not a fan of this. 👎,2024-01-13 13:28:00,436,Negative,105,218,Video,Technology
+1244,user_6411,Worst experience ever!,2024-07-26 01:42:00,108,Negative,949,429,Story,Sports
+1245,user_1896,Totally not worth it!,2024-12-24 06:25:00,90,Negative,141,169,Image,Education
+1246,user_8896,Just another day.,2024-04-28 18:28:00,467,Neutral,416,8,Video,Food
+1247,user_6728,Not a fan of this. 👎,2024-01-24 04:54:00,217,Negative,584,86,Story,Sports
+1248,user_3556,Might try it later.,2024-11-04 00:44:00,258,Neutral,550,258,Reel,Health
+1249,user_8088,Might try it later.,2024-08-19 11:02:00,95,Neutral,90,215,Video,Education
+1250,user_7752,Worst experience ever!,2024-02-09 01:51:00,443,Negative,183,220,Reel,Sports
+1251,user_4679,Decent enough.,2024-10-17 23:11:00,77,Neutral,432,347,Story,Animal
+1252,user_1894,Love this product! ❤️,2024-11-17 12:55:00,63,Positive,218,461,Story,Food
+1253,user_9369,Best experience ever! 😊,2024-01-06 01:51:00,72,Positive,679,132,Story,Fashion
+1254,user_7066,This looks okay.,2024-10-07 09:28:00,153,Neutral,732,318,Reel,Food
+1255,user_7386,Might try it later.,2024-11-12 15:53:00,271,Neutral,36,169,Video,Animal
+1256,user_2301,Super excited about this! 🎉,2024-07-07 19:45:00,282,Positive,547,396,Story,Technology
+1257,user_8532,Super excited about this! 🎉,2024-08-08 10:36:00,323,Positive,254,206,Story,Animal
+1258,user_8942,Disappointed with the service. 😡,2024-11-20 15:49:00,166,Negative,846,216,Image,Education
+1259,user_2137,Love this product! ❤️,2024-04-09 11:25:00,247,Positive,613,214,Story,Food
+1260,user_6176,Just another day.,2024-02-18 13:39:00,187,Neutral,567,341,Story,Health
+1261,user_5941,Could be better.,2024-10-25 13:07:00,230,Negative,259,483,Story,Health
+1262,user_3583,Love this product! ❤️,2024-02-03 16:04:00,387,Positive,142,433,Video,Animal
+1263,user_8469,Just another day.,2024-02-07 16:44:00,53,Neutral,153,285,Story,Technology
+1264,user_8439,Not sure about this.,2024-02-17 08:26:00,338,Neutral,307,256,Image,Animal
+1265,user_2993,Not sure about this.,2024-08-22 05:43:00,489,Neutral,625,383,Video,Health
+1266,user_6672,Decent enough.,2024-12-11 07:35:00,247,Neutral,949,494,Image,Fashion
+1267,user_2970,Totally not worth it!,2024-03-12 13:14:00,324,Negative,20,454,Story,Travel
+1268,user_6956,Not sure about this.,2024-05-06 07:56:00,203,Neutral,212,129,Video,Sports
+1269,user_5799,Might try it later.,2024-01-11 08:32:00,441,Neutral,614,252,Reel,Food
+1270,user_5005,Super excited about this! 🎉,2024-10-07 16:03:00,189,Positive,114,188,Reel,Technology
+1271,user_8345,Never buying this again.,2024-05-12 06:27:00,329,Negative,843,292,Video,Health
+1272,user_1330,This looks okay.,2024-12-18 13:41:00,306,Neutral,241,352,Video,Health
+1273,user_4964,This looks okay.,2024-03-08 11:00:00,379,Neutral,748,84,Reel,Food
+1274,user_9622,Best experience ever! 😊,2024-03-25 12:31:00,201,Positive,213,117,Story,Animal
+1275,user_4503,Highly recommend this! 👍,2024-07-06 01:44:00,101,Positive,930,221,Story,Food
+1276,user_5825,Worst experience ever!,2024-04-13 16:52:00,100,Negative,480,415,Story,Animal
+1277,user_4355,Not sure about this.,2024-11-09 10:55:00,373,Neutral,744,77,Video,Travel
+1278,user_9744,It's alright.,2024-04-14 16:05:00,268,Neutral,308,401,Image,Food
+1279,user_6262,Highly recommend this! 👍,2024-04-18 01:27:00,462,Positive,916,191,Reel,Fashion
+1280,user_6784,Never buying this again.,2024-10-03 19:58:00,373,Negative,758,64,Story,Animal
+1281,user_5281,Never buying this again.,2024-09-04 13:27:00,302,Negative,471,166,Video,Travel
+1282,user_6760,Could be better.,2024-07-11 02:54:00,221,Negative,899,54,Video,Sports
+1283,user_6761,This looks okay.,2024-10-11 06:00:00,291,Neutral,166,429,Image,Health
+1284,user_8056,Might try it later.,2024-04-27 02:08:00,469,Neutral,667,164,Video,Animal
+1285,user_4644,Worst experience ever!,2024-02-11 03:31:00,274,Negative,867,181,Story,Sports
+1286,user_2252,Super excited about this! 🎉,2024-10-24 16:35:00,230,Positive,156,326,Video,Education
+1287,user_1596,Super excited about this! 🎉,2024-05-13 03:19:00,497,Positive,226,126,Image,Sports
+1288,user_1602,Highly recommend this! 👍,2024-09-08 04:01:00,148,Positive,89,193,Reel,Fashion
+1289,user_2206,This is amazing! 🔥,2024-11-06 20:34:00,9,Positive,964,275,Image,Education
+1290,user_9232,Decent enough.,2024-04-16 02:40:00,316,Neutral,709,245,Reel,Sports
+1291,user_5502,Just another day.,2024-12-17 05:54:00,50,Neutral,552,478,Video,Fashion
+1292,user_6304,Could be better.,2024-03-12 05:05:00,161,Negative,915,478,Video,Health
+1293,user_9889,Could be better.,2024-11-27 22:44:00,146,Negative,469,177,Reel,Travel
+1294,user_9405,Not a fan of this. 👎,2024-04-06 02:59:00,2,Negative,48,500,Video,Health
+1295,user_5643,Might try it later.,2024-06-21 01:52:00,406,Neutral,12,254,Story,Animal
+1296,user_6496,It's alright.,2024-11-19 16:43:00,263,Neutral,39,32,Reel,Technology
+1297,user_1601,Never buying this again.,2024-09-12 21:49:00,425,Negative,812,379,Reel,Fashion
+1298,user_6723,Highly recommend this! 👍,2024-07-11 04:33:00,403,Positive,352,254,Story,Fashion
+1299,user_4811,Totally not worth it!,2024-05-02 09:49:00,379,Negative,257,44,Story,Education
+1300,user_2651,Such a beautiful place! 🌍,2024-10-18 18:38:00,140,Positive,652,225,Story,Animal
+1301,user_7319,Such a beautiful place! 🌍,2024-10-22 05:47:00,353,Positive,374,296,Reel,Health
+1302,user_8290,Just another day.,2024-03-04 00:33:00,439,Neutral,26,240,Image,Fashion
+1303,user_3929,Worst experience ever!,2024-09-21 21:49:00,174,Negative,661,500,Image,Fashion
+1304,user_5922,Disappointed with the service. 😡,2024-07-27 01:03:00,60,Negative,132,473,Reel,Sports
+1305,user_5607,Could be better.,2024-04-12 11:08:00,69,Negative,868,111,Video,Technology
+1306,user_4038,Never buying this again.,2024-06-25 02:20:00,310,Negative,936,262,Story,Education
+1307,user_7173,This looks okay.,2024-12-26 19:30:00,232,Neutral,633,184,Reel,Fashion
+1308,user_1177,It's alright.,2024-01-15 19:38:00,439,Neutral,242,125,Reel,Animal
+1309,user_3373,Best experience ever! 😊,2024-12-28 15:45:00,10,Positive,516,88,Video,Technology
+1310,user_1502,Could be better.,2024-05-08 03:59:00,149,Negative,958,450,Image,Food
+1311,user_8679,Never buying this again.,2024-02-02 20:30:00,324,Negative,731,197,Story,Sports
+1312,user_8216,It's alright.,2024-02-13 04:01:00,205,Neutral,828,275,Video,Fashion
+1313,user_7262,Could be better.,2024-09-03 18:16:00,309,Negative,468,343,Story,Animal
+1314,user_6590,Highly recommend this! 👍,2024-06-10 21:52:00,368,Positive,129,417,Story,Health
+1315,user_4025,Not sure about this.,2024-12-13 09:30:00,176,Neutral,128,289,Story,Travel
+1316,user_1376,Love this product! ❤️,2024-12-06 07:39:00,350,Positive,776,232,Reel,Animal
+1317,user_6996,Best experience ever! 😊,2024-08-22 17:31:00,225,Positive,599,52,Reel,Technology
+1318,user_8209,Disappointed with the service. 😡,2024-06-19 00:49:00,333,Negative,978,455,Reel,Technology
+1319,user_7917,It's alright.,2024-02-03 12:46:00,168,Neutral,132,317,Reel,Education
+1320,user_7807,Never buying this again.,2024-03-04 18:43:00,292,Negative,972,394,Story,Food
+1321,user_4234,Could be better.,2024-07-05 17:08:00,156,Negative,400,113,Story,Education
+1322,user_3214,Never buying this again.,2024-10-24 19:17:00,370,Negative,306,454,Image,Travel
+1323,user_1202,Not sure about this.,2024-01-19 18:56:00,94,Neutral,105,468,Reel,Health
+1324,user_5822,Worst experience ever!,2024-06-06 01:51:00,446,Negative,498,271,Reel,Fashion
+1325,user_2948,Totally not worth it!,2024-01-18 21:51:00,430,Negative,222,307,Reel,Animal
+1326,user_2052,Not sure about this.,2024-05-01 17:40:00,362,Neutral,947,90,Story,Fashion
+1327,user_6949,This is amazing! 🔥,2024-02-09 23:23:00,375,Positive,984,406,Reel,Travel
+1328,user_3568,Disappointed with the service. 😡,2024-04-07 05:55:00,349,Negative,67,416,Reel,Food
+1329,user_3616,Just another day.,2024-06-15 08:11:00,205,Neutral,233,440,Image,Health
+1330,user_6816,Worst experience ever!,2024-05-27 17:31:00,324,Negative,345,321,Reel,Health
+1331,user_5924,Decent enough.,2024-02-28 07:55:00,305,Neutral,934,152,Reel,Technology
+1332,user_5882,Best experience ever! 😊,2024-08-03 16:01:00,112,Positive,105,21,Image,Education
+1333,user_7776,Not sure about this.,2024-11-10 01:35:00,113,Neutral,287,175,Story,Food
+1334,user_6623,Never buying this again.,2024-12-07 16:43:00,171,Negative,91,235,Reel,Sports
+1335,user_1607,Worst experience ever!,2024-04-05 16:22:00,306,Negative,883,278,Story,Travel
+1336,user_6745,Never buying this again.,2024-08-01 10:16:00,314,Negative,556,167,Story,Food
+1337,user_6224,Best experience ever! 😊,2024-07-13 10:13:00,174,Positive,166,266,Image,Health
+1338,user_3954,Could be better.,2024-11-16 14:48:00,173,Negative,61,133,Image,Food
+1339,user_7354,Decent enough.,2024-06-09 06:42:00,11,Neutral,411,377,Story,Travel
+1340,user_5087,Highly recommend this! 👍,2024-08-02 02:42:00,405,Positive,371,73,Story,Fashion
+1341,user_8576,It's alright.,2024-01-01 15:12:00,282,Neutral,193,371,Reel,Travel
+1342,user_5193,Best experience ever! 😊,2024-03-16 08:01:00,420,Positive,962,23,Story,Travel
+1343,user_6234,Super excited about this! 🎉,2024-08-25 09:17:00,254,Positive,648,28,Reel,Health
+1344,user_5557,Might try it later.,2024-12-13 15:53:00,61,Neutral,264,318,Story,Food
+1345,user_9640,Never buying this again.,2024-11-09 05:28:00,289,Negative,265,99,Reel,Education
+1346,user_5863,Disappointed with the service. 😡,2024-10-21 11:21:00,485,Negative,914,252,Video,Education
+1347,user_9122,Disappointed with the service. 😡,2024-07-14 16:31:00,244,Negative,121,381,Story,Travel
+1348,user_2866,Highly recommend this! 👍,2024-05-18 16:19:00,255,Positive,925,244,Story,Animal
+1349,user_8625,Worst experience ever!,2024-05-14 02:59:00,444,Negative,795,132,Image,Technology
+1350,user_7471,Not sure about this.,2024-08-09 01:10:00,472,Neutral,459,168,Video,Fashion
+1351,user_8928,Not a fan of this. 👎,2024-06-22 11:51:00,465,Negative,24,397,Reel,Fashion
+1352,user_9546,Not a fan of this. 👎,2024-05-03 00:16:00,229,Negative,740,357,Reel,Animal
+1353,user_7883,Could be better.,2024-06-23 19:45:00,172,Negative,741,202,Reel,Health
+1354,user_6891,Not sure about this.,2024-09-07 18:25:00,326,Neutral,576,221,Reel,Animal
+1355,user_7607,This is amazing! 🔥,2024-01-22 19:42:00,319,Positive,339,413,Reel,Fashion
+1356,user_3852,Not a fan of this. 👎,2024-12-09 03:28:00,259,Negative,733,252,Image,Fashion
+1357,user_3802,Highly recommend this! 👍,2024-10-21 15:47:00,189,Positive,261,17,Video,Technology
+1358,user_5235,This is amazing! 🔥,2024-11-01 10:53:00,285,Positive,167,217,Image,Education
+1359,user_5980,It's alright.,2024-03-05 19:46:00,176,Neutral,30,374,Reel,Animal
+1360,user_4819,Super excited about this! 🎉,2024-10-06 16:36:00,454,Positive,286,392,Story,Technology
+1361,user_6063,Disappointed with the service. 😡,2024-09-02 06:40:00,251,Negative,696,397,Video,Animal
+1362,user_6989,Never buying this again.,2024-05-10 17:38:00,65,Negative,822,383,Image,Food
+1363,user_6211,Never buying this again.,2024-07-24 00:12:00,4,Negative,220,270,Image,Health
+1364,user_9300,Best experience ever! 😊,2024-10-01 00:07:00,147,Positive,116,5,Video,Animal
+1365,user_6563,Totally not worth it!,2024-12-26 03:51:00,208,Negative,210,320,Reel,Food
+1366,user_6795,Decent enough.,2024-07-08 05:53:00,56,Neutral,936,143,Story,Health
+1367,user_4507,Could be better.,2024-01-08 23:45:00,35,Negative,218,249,Reel,Animal
+1368,user_3601,Could be better.,2024-07-22 05:48:00,213,Negative,563,163,Story,Education
+1369,user_7992,Might try it later.,2024-11-13 03:53:00,286,Neutral,894,475,Reel,Education
+1370,user_5128,Never buying this again.,2024-08-01 20:28:00,152,Negative,703,24,Story,Animal
+1371,user_3290,Highly recommend this! 👍,2024-05-18 19:59:00,373,Positive,520,490,Story,Food
+1372,user_9100,Such a beautiful place! 🌍,2024-01-25 08:38:00,420,Positive,658,355,Story,Travel
+1373,user_9909,Totally not worth it!,2024-05-08 07:54:00,54,Negative,358,63,Image,Travel
+1374,user_3518,This looks okay.,2024-09-18 14:52:00,274,Neutral,236,245,Story,Food
+1375,user_4819,Best experience ever! 😊,2024-01-04 10:12:00,485,Positive,202,342,Reel,Education
+1376,user_8297,Never buying this again.,2024-08-09 18:02:00,484,Negative,735,31,Video,Health
+1377,user_4211,Disappointed with the service. 😡,2024-10-23 21:28:00,44,Negative,113,53,Reel,Food
+1378,user_9836,Love this product! ❤️,2024-08-28 16:59:00,291,Positive,180,286,Image,Travel
+1379,user_3695,Highly recommend this! 👍,2024-04-08 06:51:00,298,Positive,115,34,Image,Health
+1380,user_5285,Not a fan of this. 👎,2024-07-03 21:16:00,477,Negative,946,264,Video,Food
+1381,user_8827,Such a beautiful place! 🌍,2024-03-11 19:03:00,186,Positive,503,276,Video,Food
+1382,user_4548,It's alright.,2024-03-10 10:17:00,403,Neutral,171,317,Story,Technology
+1383,user_7276,This looks okay.,2024-10-27 12:02:00,198,Neutral,744,46,Image,Food
+1384,user_8157,Highly recommend this! 👍,2024-12-14 05:01:00,323,Positive,284,166,Story,Education
+1385,user_2849,Highly recommend this! 👍,2024-11-22 20:50:00,319,Positive,157,19,Reel,Sports
+1386,user_9519,This is amazing! 🔥,2024-01-04 22:12:00,442,Positive,868,297,Image,Sports
+1387,user_2846,Worst experience ever!,2024-09-11 18:14:00,13,Negative,422,223,Story,Food
+1388,user_9342,Totally not worth it!,2024-01-21 22:35:00,175,Negative,516,426,Reel,Food
+1389,user_7216,This looks okay.,2024-06-28 19:36:00,441,Neutral,349,347,Image,Health
+1390,user_1664,Never buying this again.,2024-11-21 13:54:00,292,Negative,876,275,Story,Fashion
+1391,user_8244,Highly recommend this! 👍,2024-04-16 22:55:00,423,Positive,805,197,Reel,Travel
+1392,user_8166,Decent enough.,2024-09-01 23:35:00,346,Neutral,108,428,Reel,Food
+1393,user_7947,Decent enough.,2024-03-03 19:56:00,173,Neutral,352,462,Reel,Fashion
+1394,user_1741,Not a fan of this. 👎,2024-01-25 09:44:00,28,Negative,968,444,Image,Education
+1395,user_9340,Love this product! ❤️,2024-01-27 18:16:00,358,Positive,381,184,Image,Sports
+1396,user_3697,Decent enough.,2024-01-12 05:55:00,94,Neutral,54,140,Video,Health
+1397,user_5250,Love this product! ❤️,2024-01-26 01:43:00,23,Positive,876,267,Video,Fashion
+1398,user_2609,Never buying this again.,2024-03-24 03:43:00,193,Negative,148,428,Image,Education
+1399,user_4480,Highly recommend this! 👍,2024-10-02 15:19:00,393,Positive,436,257,Story,Animal
+1400,user_4528,It's alright.,2024-06-12 17:11:00,92,Neutral,898,171,Image,Travel
+1401,user_9341,Could be better.,2024-08-19 12:34:00,241,Negative,410,481,Video,Health
+1402,user_5468,Just another day.,2024-11-15 04:13:00,316,Neutral,775,436,Reel,Technology
+1403,user_7826,Not sure about this.,2024-11-27 17:07:00,181,Neutral,440,376,Story,Technology
+1404,user_1566,Could be better.,2024-09-11 17:07:00,11,Negative,366,82,Story,Travel
+1405,user_6302,This is amazing! 🔥,2024-07-01 18:58:00,194,Positive,598,414,Video,Education
+1406,user_9994,It's alright.,2024-03-14 22:35:00,449,Neutral,462,69,Image,Fashion
+1407,user_9454,Decent enough.,2024-04-06 00:17:00,90,Neutral,695,213,Image,Sports
+1408,user_7296,It's alright.,2024-07-13 14:24:00,415,Neutral,429,169,Image,Sports
+1409,user_5330,This looks okay.,2024-11-07 14:01:00,305,Neutral,674,262,Video,Technology
+1410,user_5941,This looks okay.,2024-02-14 16:52:00,161,Neutral,896,413,Story,Travel
+1411,user_5596,Worst experience ever!,2024-02-21 18:11:00,47,Negative,21,229,Image,Sports
+1412,user_8192,Never buying this again.,2024-10-06 17:34:00,180,Negative,805,498,Story,Education
+1413,user_1156,It's alright.,2024-11-21 14:54:00,491,Neutral,572,38,Reel,Fashion
+1414,user_6084,Might try it later.,2024-04-27 15:37:00,331,Neutral,994,151,Reel,Health
+1415,user_8668,Not a fan of this. 👎,2024-07-22 10:56:00,81,Negative,249,498,Image,Food
+1416,user_9204,Not sure about this.,2024-08-20 06:02:00,299,Neutral,891,6,Video,Technology
+1417,user_2717,Worst experience ever!,2024-10-07 04:11:00,12,Negative,252,383,Story,Health
+1418,user_6193,Best experience ever! 😊,2024-08-07 11:18:00,171,Positive,459,481,Video,Fashion
+1419,user_5096,It's alright.,2024-06-17 06:32:00,399,Neutral,384,21,Story,Health
+1420,user_5649,Just another day.,2024-11-21 11:39:00,143,Neutral,982,48,Image,Technology
+1421,user_1558,Totally not worth it!,2024-02-19 12:21:00,203,Negative,130,268,Image,Sports
+1422,user_8867,Not sure about this.,2024-03-05 01:33:00,162,Neutral,812,38,Video,Education
+1423,user_3386,Such a beautiful place! 🌍,2024-10-14 02:06:00,304,Positive,676,459,Video,Health
+1424,user_2187,Disappointed with the service. 😡,2024-10-18 20:53:00,325,Negative,12,306,Video,Sports
+1425,user_1599,Disappointed with the service. 😡,2024-04-24 23:06:00,110,Negative,741,98,Image,Fashion
+1426,user_1275,Never buying this again.,2024-12-11 13:18:00,90,Negative,927,371,Reel,Education
+1427,user_5467,Best experience ever! 😊,2024-02-11 19:37:00,346,Positive,834,236,Image,Technology
+1428,user_4346,Just another day.,2024-10-06 23:58:00,165,Neutral,312,36,Reel,Animal
+1429,user_3915,Totally not worth it!,2024-08-02 06:03:00,346,Negative,146,141,Story,Education
+1430,user_3480,Not a fan of this. 👎,2024-06-10 05:43:00,298,Negative,639,344,Reel,Sports
+1431,user_6067,Decent enough.,2024-06-16 14:51:00,388,Neutral,214,479,Video,Food
+1432,user_5047,Disappointed with the service. 😡,2024-09-19 09:23:00,1,Negative,131,291,Story,Food
+1433,user_1179,This is amazing! 🔥,2024-11-03 09:50:00,184,Positive,66,398,Story,Fashion
+1434,user_8387,Not a fan of this. 👎,2024-12-01 18:04:00,59,Negative,377,76,Image,Technology
+1435,user_2080,Such a beautiful place! 🌍,2024-11-11 04:28:00,148,Positive,452,494,Image,Technology
+1436,user_9075,This is amazing! 🔥,2024-12-04 08:58:00,482,Positive,308,167,Image,Technology
+1437,user_6888,Love this product! ❤️,2024-09-13 23:49:00,389,Positive,709,261,Story,Health
+1438,user_5197,It's alright.,2024-11-22 12:26:00,80,Neutral,944,494,Reel,Food
+1439,user_7036,Best experience ever! 😊,2024-04-09 18:33:00,165,Positive,300,342,Image,Technology
+1440,user_9357,Not a fan of this. 👎,2024-10-17 22:06:00,306,Negative,453,205,Story,Health
+1441,user_1316,This is amazing! 🔥,2024-06-15 09:11:00,252,Positive,473,42,Story,Technology
+1442,user_3606,Decent enough.,2024-06-27 15:00:00,323,Neutral,481,346,Image,Sports
+1443,user_4642,It's alright.,2024-02-12 05:38:00,450,Neutral,836,65,Reel,Education
+1444,user_7502,Super excited about this! 🎉,2024-04-02 05:04:00,269,Positive,779,371,Image,Fashion
+1445,user_7808,Super excited about this! 🎉,2024-03-27 13:10:00,390,Positive,422,365,Reel,Sports
+1446,user_9588,Could be better.,2024-09-18 07:22:00,325,Negative,906,9,Reel,Animal
+1447,user_2841,Such a beautiful place! 🌍,2024-02-01 16:18:00,150,Positive,412,284,Reel,Fashion
+1448,user_3132,Could be better.,2024-08-21 20:31:00,341,Negative,47,150,Reel,Food
+1449,user_5997,Could be better.,2024-10-18 12:20:00,108,Negative,800,8,Image,Health
+1450,user_8653,This is amazing! 🔥,2024-08-11 06:53:00,215,Positive,159,270,Video,Food
+1451,user_5666,Such a beautiful place! 🌍,2024-01-10 08:46:00,401,Positive,956,79,Reel,Health
+1452,user_7251,Totally not worth it!,2024-11-15 14:24:00,165,Negative,145,260,Story,Travel
+1453,user_9742,Could be better.,2024-08-15 12:10:00,405,Negative,585,237,Reel,Technology
+1454,user_9258,Might try it later.,2024-04-01 22:00:00,364,Neutral,291,31,Story,Animal
+1455,user_1243,Super excited about this! 🎉,2024-12-03 21:30:00,87,Positive,929,460,Story,Fashion
+1456,user_1535,Might try it later.,2024-10-04 03:26:00,374,Neutral,201,467,Reel,Technology
+1457,user_8237,Love this product! ❤️,2024-04-27 14:53:00,50,Positive,750,157,Video,Sports
+1458,user_6189,Not sure about this.,2024-03-21 04:20:00,107,Neutral,499,321,Reel,Travel
+1459,user_4453,This looks okay.,2024-02-08 15:27:00,95,Neutral,804,226,Reel,Food
+1460,user_2387,Just another day.,2024-10-22 17:59:00,253,Neutral,184,352,Story,Sports
+1461,user_4762,Super excited about this! 🎉,2024-11-25 06:08:00,104,Positive,168,250,Video,Fashion
+1462,user_3106,Totally not worth it!,2024-07-22 04:56:00,279,Negative,450,107,Reel,Travel
+1463,user_9268,Could be better.,2024-02-20 08:13:00,240,Negative,64,27,Image,Sports
+1464,user_8049,Just another day.,2024-03-16 20:22:00,449,Neutral,664,216,Story,Health
+1465,user_6995,Never buying this again.,2024-12-27 00:56:00,454,Negative,71,108,Image,Health
+1466,user_6606,Could be better.,2024-03-07 13:10:00,53,Negative,497,283,Image,Animal
+1467,user_9026,Super excited about this! 🎉,2024-02-06 18:39:00,123,Positive,936,249,Story,Travel
+1468,user_1254,Decent enough.,2024-01-23 03:44:00,479,Neutral,166,171,Story,Technology
+1469,user_2445,Such a beautiful place! 🌍,2024-11-27 05:14:00,281,Positive,67,460,Story,Fashion
+1470,user_4650,Disappointed with the service. 😡,2024-06-27 18:14:00,323,Negative,628,487,Image,Sports
+1471,user_1923,Such a beautiful place! 🌍,2024-05-27 21:20:00,414,Positive,18,434,Video,Sports
+1472,user_7664,Could be better.,2024-04-04 05:29:00,215,Negative,112,75,Video,Animal
+1473,user_5068,Highly recommend this! 👍,2024-04-18 00:32:00,53,Positive,256,12,Video,Fashion
+1474,user_1650,Totally not worth it!,2024-08-21 22:46:00,397,Negative,855,232,Video,Animal
+1475,user_1586,Might try it later.,2024-06-19 22:04:00,29,Neutral,465,500,Story,Technology
+1476,user_5221,Super excited about this! 🎉,2024-10-10 17:34:00,175,Positive,689,226,Story,Health
+1477,user_9572,Never buying this again.,2024-02-19 21:51:00,31,Negative,511,424,Image,Fashion
+1478,user_2005,Never buying this again.,2024-09-06 10:20:00,347,Negative,493,60,Reel,Technology
+1479,user_3333,Totally not worth it!,2024-07-23 05:22:00,227,Negative,278,471,Story,Education
+1480,user_2430,Might try it later.,2024-11-07 09:10:00,434,Neutral,935,420,Reel,Food
+1481,user_6138,Disappointed with the service. 😡,2024-04-12 08:57:00,150,Negative,772,437,Video,Sports
+1482,user_5316,Not a fan of this. 👎,2024-08-28 08:08:00,192,Negative,617,85,Story,Food
+1483,user_3476,Never buying this again.,2024-01-15 09:25:00,372,Negative,892,412,Image,Technology
+1484,user_6762,Might try it later.,2024-07-16 23:54:00,408,Neutral,516,51,Story,Technology
+1485,user_5034,Totally not worth it!,2024-04-12 08:37:00,154,Negative,703,277,Image,Sports
+1486,user_6658,Super excited about this! 🎉,2024-09-17 11:05:00,152,Positive,879,10,Image,Health
+1487,user_8986,This looks okay.,2024-10-03 15:54:00,224,Neutral,628,8,Image,Food
+1488,user_5148,Decent enough.,2024-08-16 16:09:00,153,Neutral,306,295,Video,Sports
+1489,user_6948,Such a beautiful place! 🌍,2024-08-04 22:20:00,342,Positive,1000,441,Video,Sports
+1490,user_5790,Disappointed with the service. 😡,2024-11-11 20:12:00,178,Negative,213,322,Reel,Education
+1491,user_7269,Never buying this again.,2024-09-22 15:43:00,466,Negative,195,368,Story,Food
+1492,user_5640,This looks okay.,2024-07-20 10:55:00,68,Neutral,976,418,Story,Technology
+1493,user_6221,Highly recommend this! 👍,2024-11-14 08:42:00,452,Positive,694,415,Story,Fashion
+1494,user_5968,This looks okay.,2024-04-22 13:35:00,125,Neutral,892,393,Reel,Food
+1495,user_2731,Not sure about this.,2024-04-04 10:36:00,38,Neutral,179,181,Reel,Animal
+1496,user_2049,Totally not worth it!,2024-02-19 11:06:00,319,Negative,296,199,Reel,Technology
+1497,user_2366,Highly recommend this! 👍,2024-09-23 12:05:00,63,Positive,31,252,Reel,Health
+1498,user_9980,Such a beautiful place! 🌍,2024-01-22 09:16:00,253,Positive,593,199,Reel,Food
+1499,user_4166,Love this product! ❤️,2024-09-05 06:31:00,467,Positive,457,15,Image,Health
+1500,user_7936,This looks okay.,2024-06-19 04:12:00,205,Neutral,523,392,Video,Animal
+1501,user_4592,Such a beautiful place! 🌍,2024-09-18 10:18:00,111,Positive,665,397,Image,Animal
+1502,user_6191,Not sure about this.,2024-07-10 14:21:00,91,Neutral,297,365,Image,Technology
+1503,user_5223,Never buying this again.,2024-05-25 06:26:00,92,Negative,493,24,Image,Sports
+1504,user_3666,Such a beautiful place! 🌍,2024-12-14 15:24:00,66,Positive,63,356,Image,Health
+1505,user_6869,Not sure about this.,2024-05-08 19:18:00,488,Neutral,346,11,Video,Travel
+1506,user_8077,Might try it later.,2024-11-14 01:42:00,194,Neutral,719,65,Video,Travel
+1507,user_7902,Best experience ever! 😊,2024-05-15 18:00:00,2,Positive,668,80,Video,Sports
+1508,user_9002,Super excited about this! 🎉,2024-05-03 00:05:00,12,Positive,49,393,Reel,Sports
+1509,user_3249,Super excited about this! 🎉,2024-06-17 07:15:00,73,Positive,905,275,Image,Food
+1510,user_8848,Totally not worth it!,2024-10-11 06:05:00,400,Negative,560,459,Video,Health
+1511,user_4292,Totally not worth it!,2024-07-23 21:29:00,57,Negative,810,442,Video,Education
+1512,user_8191,Best experience ever! 😊,2024-02-23 00:46:00,473,Positive,896,263,Reel,Fashion
+1513,user_4200,This looks okay.,2024-02-12 23:15:00,17,Neutral,26,221,Video,Education
+1514,user_5733,Just another day.,2024-06-16 09:13:00,269,Neutral,336,75,Story,Technology
+1515,user_9187,Such a beautiful place! 🌍,2024-04-02 14:32:00,407,Positive,270,10,Image,Health
+1516,user_3393,Decent enough.,2024-12-17 22:48:00,41,Neutral,989,83,Reel,Health
+1517,user_3996,Never buying this again.,2024-12-20 15:04:00,198,Negative,944,97,Image,Travel
+1518,user_1907,Never buying this again.,2024-12-23 21:09:00,391,Negative,890,87,Story,Travel
+1519,user_1793,It's alright.,2024-05-07 09:55:00,272,Neutral,210,21,Story,Travel
+1520,user_6279,Love this product! ❤️,2024-09-17 07:31:00,87,Positive,804,450,Video,Technology
+1521,user_3359,Might try it later.,2024-11-01 04:47:00,119,Neutral,359,207,Story,Sports
+1522,user_2259,Never buying this again.,2024-11-09 17:03:00,143,Negative,895,315,Reel,Food
+1523,user_9051,It's alright.,2024-08-06 04:35:00,245,Neutral,739,171,Video,Fashion
+1524,user_6160,Disappointed with the service. 😡,2024-04-16 12:23:00,412,Negative,624,35,Image,Animal
+1525,user_2042,Never buying this again.,2024-02-04 01:30:00,99,Negative,332,18,Video,Food
+1526,user_9309,It's alright.,2024-08-23 04:30:00,175,Neutral,250,21,Story,Education
+1527,user_1133,Love this product! ❤️,2024-11-05 03:31:00,450,Positive,305,50,Reel,Fashion
+1528,user_6886,Totally not worth it!,2024-01-27 02:07:00,320,Negative,852,364,Reel,Food
+1529,user_8154,Totally not worth it!,2024-08-15 07:08:00,241,Negative,582,421,Story,Fashion
+1530,user_8499,Totally not worth it!,2024-06-26 07:58:00,95,Negative,202,394,Video,Food
+1531,user_8465,Could be better.,2024-05-06 11:30:00,248,Negative,250,426,Story,Animal
+1532,user_1001,Decent enough.,2024-06-17 01:26:00,376,Neutral,747,18,Story,Technology
+1533,user_7365,Not sure about this.,2024-08-02 02:45:00,323,Neutral,871,407,Video,Health
+1534,user_3045,Might try it later.,2024-09-08 15:21:00,120,Neutral,140,314,Image,Health
+1535,user_1098,Worst experience ever!,2024-07-19 10:47:00,217,Negative,149,385,Reel,Technology
+1536,user_4198,Could be better.,2024-09-10 18:44:00,33,Negative,469,436,Story,Travel
+1537,user_8446,Highly recommend this! 👍,2024-07-10 13:47:00,193,Positive,189,309,Video,Sports
+1538,user_8547,Super excited about this! 🎉,2024-03-05 14:31:00,31,Positive,46,10,Reel,Food
+1539,user_5744,Such a beautiful place! 🌍,2024-02-18 09:38:00,488,Positive,39,278,Reel,Technology
+1540,user_5673,This looks okay.,2024-10-10 03:57:00,459,Neutral,785,22,Image,Education
+1541,user_9750,Love this product! ❤️,2024-04-12 03:29:00,319,Positive,920,488,Image,Travel
+1542,user_1120,Not sure about this.,2024-05-13 11:13:00,150,Neutral,932,374,Video,Sports
+1543,user_9973,Never buying this again.,2024-05-13 00:44:00,262,Negative,55,220,Image,Health
+1544,user_1632,Disappointed with the service. 😡,2024-07-01 23:44:00,238,Negative,654,497,Image,Education
+1545,user_3182,Could be better.,2024-03-01 00:39:00,293,Negative,666,9,Reel,Travel
+1546,user_6230,Not sure about this.,2024-07-25 04:29:00,184,Neutral,535,84,Story,Food
+1547,user_5935,Not a fan of this. 👎,2024-06-22 09:01:00,119,Negative,806,392,Image,Sports
+1548,user_2188,Best experience ever! 😊,2024-08-15 05:59:00,442,Positive,453,131,Video,Sports
+1549,user_1136,Might try it later.,2024-09-24 05:57:00,15,Neutral,287,467,Reel,Education
+1550,user_3419,It's alright.,2024-07-16 03:12:00,32,Neutral,711,301,Reel,Health
+1551,user_3036,Worst experience ever!,2024-07-07 12:15:00,234,Negative,389,219,Reel,Food
+1552,user_2917,This is amazing! 🔥,2024-12-10 13:18:00,25,Positive,194,60,Video,Sports
+1553,user_1063,Best experience ever! 😊,2024-04-08 02:18:00,88,Positive,949,380,Story,Technology
+1554,user_8303,Best experience ever! 😊,2024-05-08 03:54:00,53,Positive,201,129,Story,Health
+1555,user_3411,Super excited about this! 🎉,2024-01-20 22:17:00,138,Positive,862,433,Image,Health
+1556,user_2016,Not sure about this.,2024-04-19 17:54:00,471,Neutral,271,290,Video,Health
+1557,user_5062,This is amazing! 🔥,2024-03-04 19:31:00,47,Positive,74,321,Video,Animal
+1558,user_6416,This looks okay.,2024-03-14 10:32:00,267,Neutral,141,485,Image,Health
+1559,user_7366,Not a fan of this. 👎,2024-07-18 21:06:00,427,Negative,891,186,Video,Education
+1560,user_6861,Disappointed with the service. 😡,2024-12-12 16:47:00,470,Negative,999,96,Video,Animal
+1561,user_2479,Disappointed with the service. 😡,2024-10-05 21:31:00,185,Negative,75,296,Video,Animal
+1562,user_3668,Worst experience ever!,2024-03-19 11:24:00,402,Negative,732,311,Video,Education
+1563,user_3986,Such a beautiful place! 🌍,2024-08-16 10:02:00,20,Positive,162,123,Story,Health
+1564,user_5916,This looks okay.,2024-05-06 21:25:00,495,Neutral,841,379,Story,Fashion
+1565,user_6528,It's alright.,2024-07-13 00:56:00,53,Neutral,630,438,Video,Education
+1566,user_7404,Decent enough.,2024-10-01 15:44:00,154,Neutral,785,231,Image,Education
+1567,user_4426,This is amazing! 🔥,2024-10-25 23:33:00,184,Positive,179,439,Image,Technology
+1568,user_7335,This looks okay.,2024-03-02 12:22:00,110,Neutral,833,141,Video,Education
+1569,user_8225,Totally not worth it!,2024-04-22 02:08:00,355,Negative,138,407,Story,Sports
+1570,user_4886,Not sure about this.,2024-05-07 19:30:00,94,Neutral,371,230,Video,Food
+1571,user_5637,Worst experience ever!,2024-06-28 03:18:00,389,Negative,772,52,Story,Technology
+1572,user_8605,Decent enough.,2024-12-11 05:35:00,325,Neutral,855,65,Video,Animal
+1573,user_5644,It's alright.,2024-09-15 21:06:00,189,Neutral,860,326,Video,Technology
+1574,user_1152,Could be better.,2024-03-19 00:49:00,237,Negative,161,103,Image,Fashion
+1575,user_4300,Such a beautiful place! 🌍,2024-01-14 23:22:00,392,Positive,803,167,Story,Education
+1576,user_3765,Super excited about this! 🎉,2024-10-20 03:19:00,41,Positive,892,117,Video,Technology
+1577,user_9290,Such a beautiful place! 🌍,2024-06-13 06:49:00,71,Positive,216,32,Story,Technology
+1578,user_3553,Highly recommend this! 👍,2024-06-10 21:55:00,3,Positive,73,112,Reel,Animal
+1579,user_4906,It's alright.,2024-08-26 09:18:00,254,Neutral,320,6,Reel,Food
+1580,user_9808,Totally not worth it!,2024-10-26 23:31:00,156,Negative,604,262,Image,Education
+1581,user_8648,Disappointed with the service. 😡,2024-06-13 04:55:00,365,Negative,228,327,Video,Technology
+1582,user_9058,Highly recommend this! 👍,2024-06-01 04:26:00,27,Positive,240,180,Reel,Animal
+1583,user_1311,Just another day.,2024-10-25 17:05:00,429,Neutral,565,294,Video,Travel
+1584,user_1753,Not a fan of this. 👎,2024-11-25 15:13:00,1,Negative,756,324,Video,Food
+1585,user_3048,Never buying this again.,2024-05-14 16:27:00,31,Negative,922,74,Video,Travel
+1586,user_2705,Highly recommend this! 👍,2024-09-12 03:39:00,257,Positive,439,39,Video,Technology
+1587,user_3990,Not a fan of this. 👎,2024-06-05 06:09:00,88,Negative,722,455,Image,Education
+1588,user_8282,Super excited about this! 🎉,2024-05-07 19:24:00,97,Positive,761,498,Image,Sports
+1589,user_7688,Disappointed with the service. 😡,2024-10-01 08:46:00,207,Negative,826,170,Story,Technology
+1590,user_9218,Worst experience ever!,2024-12-09 21:35:00,93,Negative,437,451,Reel,Animal
+1591,user_9029,Might try it later.,2024-04-15 01:47:00,275,Neutral,737,193,Reel,Travel
+1592,user_9611,This is amazing! 🔥,2024-04-24 14:15:00,459,Positive,959,429,Reel,Health
+1593,user_3812,Best experience ever! 😊,2024-02-12 09:42:00,277,Positive,373,477,Video,Animal
+1594,user_6820,Totally not worth it!,2024-10-27 11:53:00,51,Negative,347,459,Video,Animal
+1595,user_4573,Super excited about this! 🎉,2024-02-11 20:07:00,251,Positive,470,270,Video,Travel
+1596,user_3593,Highly recommend this! 👍,2024-04-28 01:46:00,93,Positive,447,300,Image,Education
+1597,user_7962,This looks okay.,2024-08-15 09:10:00,97,Neutral,984,134,Story,Health
+1598,user_6346,Just another day.,2024-02-09 03:05:00,367,Neutral,308,463,Reel,Health
+1599,user_1857,Best experience ever! 😊,2024-04-06 03:05:00,360,Positive,931,117,Video,Education
+1600,user_5973,Totally not worth it!,2024-08-25 00:50:00,477,Negative,724,305,Story,Health
+1601,user_9916,Such a beautiful place! 🌍,2024-09-02 21:38:00,134,Positive,80,71,Reel,Travel
+1602,user_6824,Could be better.,2024-01-23 20:34:00,150,Negative,347,107,Image,Technology
+1603,user_9805,This looks okay.,2024-04-04 09:40:00,135,Neutral,987,312,Video,Sports
+1604,user_8870,Best experience ever! 😊,2024-07-20 16:29:00,23,Positive,781,163,Reel,Health
+1605,user_1665,Not sure about this.,2024-05-25 04:05:00,127,Neutral,514,306,Image,Health
+1606,user_7321,Could be better.,2024-08-28 08:12:00,329,Negative,190,404,Image,Health
+1607,user_6450,Totally not worth it!,2024-12-17 10:10:00,181,Negative,680,69,Image,Technology
+1608,user_8505,Not a fan of this. 👎,2024-06-03 19:58:00,303,Negative,817,424,Story,Travel
+1609,user_9737,Super excited about this! 🎉,2024-02-05 08:48:00,442,Positive,36,187,Reel,Fashion
+1610,user_8642,It's alright.,2024-10-07 22:38:00,5,Neutral,759,322,Video,Travel
+1611,user_8460,Love this product! ❤️,2024-08-22 05:45:00,287,Positive,196,297,Reel,Sports
+1612,user_7889,Super excited about this! 🎉,2024-05-09 23:38:00,71,Positive,572,237,Story,Technology
+1613,user_6586,Never buying this again.,2024-06-26 13:20:00,20,Negative,197,307,Image,Technology
+1614,user_1523,Never buying this again.,2024-07-14 11:46:00,260,Negative,826,216,Video,Travel
+1615,user_7944,Never buying this again.,2024-09-21 04:49:00,11,Negative,837,435,Story,Sports
+1616,user_2684,Love this product! ❤️,2024-07-17 02:06:00,327,Positive,495,148,Story,Fashion
+1617,user_6840,Best experience ever! 😊,2024-03-28 12:00:00,84,Positive,186,294,Story,Health
+1618,user_2870,This looks okay.,2024-08-20 10:15:00,455,Neutral,716,279,Reel,Animal
+1619,user_9774,It's alright.,2024-06-08 08:37:00,141,Neutral,110,101,Story,Animal
+1620,user_7933,Worst experience ever!,2024-02-15 11:53:00,486,Negative,255,308,Story,Travel
+1621,user_4447,It's alright.,2024-09-09 05:43:00,454,Neutral,399,56,Image,Health
+1622,user_3704,Highly recommend this! 👍,2024-08-07 10:28:00,286,Positive,582,477,Story,Education
+1623,user_9297,Love this product! ❤️,2024-09-21 16:25:00,327,Positive,672,241,Video,Education
+1624,user_1872,This looks okay.,2024-12-05 04:09:00,119,Neutral,111,72,Image,Technology
+1625,user_1980,This looks okay.,2024-09-16 04:48:00,440,Neutral,734,110,Reel,Travel
+1626,user_7004,Super excited about this! 🎉,2024-11-20 16:54:00,284,Positive,542,123,Story,Health
+1627,user_2928,Just another day.,2024-01-18 12:15:00,110,Neutral,13,417,Video,Travel
+1628,user_2951,Super excited about this! 🎉,2024-06-17 17:22:00,11,Positive,977,170,Story,Sports
+1629,user_9176,Totally not worth it!,2024-11-02 14:46:00,4,Negative,558,273,Video,Travel
+1630,user_7747,Not a fan of this. 👎,2024-11-18 15:54:00,364,Negative,489,424,Reel,Education
+1631,user_3947,Best experience ever! 😊,2024-12-01 12:08:00,198,Positive,954,162,Reel,Fashion
+1632,user_8928,Disappointed with the service. 😡,2024-11-21 17:28:00,245,Negative,53,137,Reel,Travel
+1633,user_2525,Could be better.,2024-11-16 05:17:00,68,Negative,931,5,Image,Animal
+1634,user_4282,Just another day.,2024-01-13 04:02:00,76,Neutral,225,349,Story,Travel
+1635,user_8328,Decent enough.,2024-11-13 08:20:00,461,Neutral,44,12,Story,Technology
+1636,user_9306,Not sure about this.,2024-12-12 21:01:00,293,Neutral,192,292,Image,Animal
+1637,user_3972,Such a beautiful place! 🌍,2024-07-01 14:17:00,3,Positive,521,58,Story,Health
+1638,user_1322,This looks okay.,2024-05-22 06:03:00,328,Neutral,865,384,Reel,Fashion
+1639,user_4686,Might try it later.,2024-06-05 09:02:00,12,Neutral,945,70,Image,Food
+1640,user_8462,Worst experience ever!,2024-09-10 13:00:00,99,Negative,263,472,Story,Technology
+1641,user_6769,Just another day.,2024-05-12 11:59:00,266,Neutral,339,56,Video,Travel
+1642,user_8755,Could be better.,2024-07-24 02:08:00,343,Negative,939,240,Reel,Travel
+1643,user_8459,This is amazing! 🔥,2024-07-18 19:45:00,56,Positive,177,479,Story,Education
+1644,user_9129,Super excited about this! 🎉,2024-06-06 01:48:00,25,Positive,888,473,Image,Animal
+1645,user_1664,Totally not worth it!,2024-06-19 03:23:00,381,Negative,945,425,Image,Fashion
+1646,user_5844,This looks okay.,2024-09-15 10:46:00,132,Neutral,769,403,Image,Travel
+1647,user_6138,This looks okay.,2024-07-19 18:21:00,69,Neutral,485,50,Image,Health
+1648,user_6322,It's alright.,2024-08-09 14:26:00,18,Neutral,709,149,Image,Health
+1649,user_2376,Might try it later.,2024-05-02 13:44:00,439,Neutral,382,7,Image,Health
+1650,user_8104,Not a fan of this. 👎,2024-09-05 23:20:00,213,Negative,653,271,Image,Technology
+1651,user_1603,Not a fan of this. 👎,2024-11-02 13:19:00,413,Negative,1000,319,Reel,Animal
+1652,user_2761,This is amazing! 🔥,2024-05-25 14:16:00,288,Positive,110,92,Story,Technology
+1653,user_5247,Disappointed with the service. 😡,2024-07-10 14:04:00,36,Negative,370,186,Video,Food
+1654,user_7890,Super excited about this! 🎉,2024-02-01 09:26:00,236,Positive,386,430,Reel,Fashion
+1655,user_2334,It's alright.,2024-08-03 20:30:00,222,Neutral,670,78,Story,Education
+1656,user_7760,Might try it later.,2024-01-21 07:17:00,489,Neutral,24,252,Image,Technology
+1657,user_4082,Totally not worth it!,2024-03-09 01:57:00,128,Negative,352,305,Image,Technology
+1658,user_2413,Totally not worth it!,2024-02-06 10:17:00,335,Negative,321,401,Image,Health
+1659,user_4844,Could be better.,2024-03-01 15:19:00,125,Negative,674,292,Video,Food
+1660,user_4350,Never buying this again.,2024-09-25 11:15:00,124,Negative,987,73,Image,Animal
+1661,user_6984,Highly recommend this! 👍,2024-05-15 08:04:00,211,Positive,433,358,Story,Fashion
+1662,user_1220,Might try it later.,2024-08-07 02:35:00,470,Neutral,624,43,Reel,Technology
+1663,user_5837,Worst experience ever!,2024-10-01 15:46:00,139,Negative,634,165,Story,Education
+1664,user_6646,Super excited about this! 🎉,2024-08-13 22:18:00,293,Positive,442,71,Story,Fashion
+1665,user_7080,Not a fan of this. 👎,2024-11-14 01:42:00,478,Negative,435,330,Reel,Travel
+1666,user_6422,Not a fan of this. 👎,2024-07-26 15:45:00,57,Negative,632,397,Reel,Health
+1667,user_7686,Disappointed with the service. 😡,2024-02-07 12:29:00,111,Negative,969,128,Image,Health
+1668,user_1895,It's alright.,2024-06-02 17:39:00,269,Neutral,855,319,Reel,Sports
+1669,user_1444,Best experience ever! 😊,2024-08-03 11:54:00,27,Positive,508,79,Video,Travel
+1670,user_9101,It's alright.,2024-06-25 11:02:00,125,Neutral,787,306,Story,Travel
+1671,user_9180,Highly recommend this! 👍,2024-07-05 10:10:00,73,Positive,510,435,Image,Education
+1672,user_2208,This is amazing! 🔥,2024-05-15 12:40:00,244,Positive,337,365,Image,Education
+1673,user_4435,Just another day.,2024-08-27 18:46:00,283,Neutral,437,399,Video,Health
+1674,user_3327,Disappointed with the service. 😡,2024-05-01 01:50:00,330,Negative,81,234,Video,Fashion
+1675,user_3406,Decent enough.,2024-11-11 02:52:00,65,Neutral,239,145,Video,Travel
+1676,user_5025,Such a beautiful place! 🌍,2024-02-13 11:23:00,20,Positive,94,112,Story,Animal
+1677,user_2328,Not sure about this.,2024-06-08 10:54:00,456,Neutral,638,222,Story,Health
+1678,user_7141,Never buying this again.,2024-06-24 04:26:00,281,Negative,349,290,Image,Travel
+1679,user_3161,Love this product! ❤️,2024-11-16 03:36:00,225,Positive,579,98,Video,Animal
+1680,user_1298,Might try it later.,2024-03-10 11:13:00,482,Neutral,638,270,Reel,Travel
+1681,user_6575,Super excited about this! 🎉,2024-01-18 22:36:00,411,Positive,81,404,Story,Animal
+1682,user_9487,Disappointed with the service. 😡,2024-06-15 03:17:00,236,Negative,360,289,Reel,Fashion
+1683,user_4951,Love this product! ❤️,2024-01-11 13:22:00,101,Positive,522,242,Reel,Animal
+1684,user_8575,Such a beautiful place! 🌍,2024-03-01 04:58:00,4,Positive,134,437,Video,Sports
+1685,user_8995,Highly recommend this! 👍,2024-09-24 14:43:00,254,Positive,361,178,Reel,Health
+1686,user_4579,Might try it later.,2024-06-03 18:49:00,8,Neutral,806,333,Story,Travel
+1687,user_6992,Might try it later.,2024-03-15 05:58:00,433,Neutral,514,104,Image,Food
+1688,user_7347,Decent enough.,2024-05-26 10:52:00,343,Neutral,30,301,Reel,Health
+1689,user_7562,Not a fan of this. 👎,2024-10-14 12:38:00,444,Negative,725,353,Image,Sports
+1690,user_6459,Disappointed with the service. 😡,2024-01-27 17:20:00,118,Negative,489,358,Image,Fashion
+1691,user_2107,This is amazing! 🔥,2024-09-03 13:34:00,405,Positive,772,163,Story,Technology
+1692,user_1228,Worst experience ever!,2024-08-03 14:29:00,42,Negative,718,190,Story,Food
+1693,user_4280,Not a fan of this. 👎,2024-01-18 12:21:00,81,Negative,287,401,Reel,Food
+1694,user_4854,Just another day.,2024-02-24 10:41:00,252,Neutral,537,147,Reel,Travel
+1695,user_9081,Not sure about this.,2024-08-13 14:12:00,124,Neutral,613,119,Story,Fashion
+1696,user_4969,Could be better.,2024-06-07 15:05:00,480,Negative,567,231,Reel,Health
+1697,user_4960,Worst experience ever!,2024-06-08 20:04:00,478,Negative,18,125,Story,Sports
+1698,user_6704,Such a beautiful place! 🌍,2024-08-11 18:55:00,363,Positive,795,105,Image,Health
+1699,user_1773,Love this product! ❤️,2024-09-02 08:02:00,469,Positive,14,302,Story,Technology
+1700,user_4804,Disappointed with the service. 😡,2024-06-20 12:12:00,95,Negative,152,77,Video,Food
+1701,user_2916,Just another day.,2024-07-23 08:57:00,75,Neutral,710,177,Video,Food
+1702,user_2812,Not a fan of this. 👎,2024-08-07 18:00:00,275,Negative,69,264,Image,Food
+1703,user_7934,This is amazing! 🔥,2024-07-20 22:22:00,224,Positive,841,107,Video,Technology
+1704,user_6400,It's alright.,2024-06-01 21:59:00,84,Neutral,999,221,Image,Fashion
+1705,user_1936,Decent enough.,2024-06-23 19:25:00,284,Neutral,472,354,Story,Health
+1706,user_9793,This looks okay.,2024-10-20 21:32:00,209,Neutral,701,397,Reel,Food
+1707,user_4813,Could be better.,2024-08-25 18:33:00,231,Negative,973,420,Story,Sports
+1708,user_8744,Could be better.,2024-11-11 21:10:00,83,Negative,307,70,Image,Travel
+1709,user_4673,Such a beautiful place! 🌍,2024-02-05 09:54:00,296,Positive,154,162,Reel,Fashion
+1710,user_5601,Not sure about this.,2024-12-08 22:26:00,102,Neutral,238,134,Video,Education
+1711,user_9519,This is amazing! 🔥,2024-04-07 16:38:00,171,Positive,452,223,Reel,Education
+1712,user_3898,It's alright.,2024-10-19 07:05:00,380,Neutral,629,147,Image,Health
+1713,user_3735,Might try it later.,2024-08-26 23:40:00,11,Neutral,66,309,Video,Travel
+1714,user_3308,Never buying this again.,2024-06-21 09:10:00,154,Negative,487,208,Video,Travel
+1715,user_1656,This looks okay.,2024-11-02 11:07:00,290,Neutral,410,123,Video,Health
+1716,user_7250,Disappointed with the service. 😡,2024-12-12 03:10:00,300,Negative,845,29,Reel,Animal
+1717,user_8183,It's alright.,2024-08-06 08:01:00,220,Neutral,223,22,Reel,Education
+1718,user_5791,Just another day.,2024-12-01 21:16:00,111,Neutral,226,229,Image,Technology
+1719,user_4241,Just another day.,2024-06-15 20:16:00,388,Neutral,751,11,Story,Education
+1720,user_5883,This looks okay.,2024-02-04 20:07:00,378,Neutral,820,133,Reel,Travel
+1721,user_3970,It's alright.,2024-05-14 03:25:00,224,Neutral,904,106,Video,Fashion
+1722,user_2231,Never buying this again.,2024-07-02 07:18:00,235,Negative,536,43,Reel,Technology
+1723,user_4902,Love this product! ❤️,2024-02-26 15:39:00,335,Positive,637,161,Reel,Travel
+1724,user_3589,Not sure about this.,2024-04-12 11:52:00,18,Neutral,325,446,Video,Health
+1725,user_3501,Such a beautiful place! 🌍,2024-08-10 06:40:00,237,Positive,515,283,Image,Animal
+1726,user_1929,Such a beautiful place! 🌍,2024-10-10 11:54:00,193,Positive,584,324,Video,Travel
+1727,user_8991,Not sure about this.,2024-06-23 19:27:00,296,Neutral,784,107,Image,Travel
+1728,user_5402,Love this product! ❤️,2024-01-13 02:16:00,230,Positive,168,219,Image,Fashion
+1729,user_4957,Might try it later.,2024-04-01 10:42:00,210,Neutral,266,150,Video,Food
+1730,user_5354,Might try it later.,2024-05-22 08:30:00,324,Neutral,200,431,Story,Education
+1731,user_2597,Highly recommend this! 👍,2024-04-01 10:13:00,296,Positive,260,309,Image,Food
+1732,user_8322,This is amazing! 🔥,2024-01-28 20:43:00,45,Positive,862,140,Video,Fashion
+1733,user_3169,Disappointed with the service. 😡,2024-10-08 03:42:00,253,Negative,685,189,Story,Sports
+1734,user_9482,Best experience ever! 😊,2024-09-23 03:46:00,290,Positive,902,434,Story,Animal
+1735,user_2497,This looks okay.,2024-12-26 22:24:00,215,Neutral,290,444,Reel,Fashion
+1736,user_3691,Worst experience ever!,2024-12-05 09:54:00,452,Negative,671,194,Reel,Travel
+1737,user_5721,Best experience ever! 😊,2024-05-04 10:03:00,351,Positive,444,108,Story,Sports
+1738,user_6703,Might try it later.,2024-10-21 08:47:00,338,Neutral,296,480,Image,Education
+1739,user_9799,Might try it later.,2024-04-11 00:39:00,448,Neutral,612,406,Image,Food
+1740,user_7859,Love this product! ❤️,2024-11-26 08:23:00,358,Positive,444,63,Reel,Health
+1741,user_8348,Decent enough.,2024-07-25 14:04:00,16,Neutral,388,95,Story,Technology
+1742,user_3514,This looks okay.,2024-11-11 21:22:00,255,Neutral,760,53,Image,Education
+1743,user_7397,This is amazing! 🔥,2024-04-08 22:26:00,191,Positive,889,400,Reel,Technology
+1744,user_1400,Best experience ever! 😊,2024-12-16 03:13:00,220,Positive,377,212,Reel,Fashion
+1745,user_1051,Never buying this again.,2024-08-10 04:55:00,152,Negative,521,480,Video,Travel
+1746,user_9230,Super excited about this! 🎉,2024-05-25 06:24:00,149,Positive,1000,368,Video,Sports
+1747,user_6055,Might try it later.,2024-02-15 21:05:00,210,Neutral,428,12,Reel,Fashion
+1748,user_9766,Not sure about this.,2024-08-18 15:51:00,141,Neutral,253,235,Video,Health
+1749,user_4939,This is amazing! 🔥,2024-03-27 22:20:00,171,Positive,365,56,Story,Animal
+1750,user_8957,It's alright.,2024-12-09 14:44:00,343,Neutral,404,158,Image,Fashion
+1751,user_1129,Love this product! ❤️,2024-07-25 01:46:00,320,Positive,885,445,Image,Animal
+1752,user_9095,Might try it later.,2024-01-18 12:53:00,205,Neutral,368,40,Video,Animal
+1753,user_1280,Not a fan of this. 👎,2024-06-21 14:36:00,226,Negative,131,464,Video,Education
+1754,user_7804,Not a fan of this. 👎,2024-11-12 03:23:00,446,Negative,706,445,Reel,Education
+1755,user_7562,Such a beautiful place! 🌍,2024-04-24 17:50:00,206,Positive,744,317,Image,Animal
+1756,user_5116,It's alright.,2024-11-12 22:37:00,6,Neutral,753,67,Reel,Food
+1757,user_8884,Such a beautiful place! 🌍,2024-01-11 17:25:00,478,Positive,872,138,Story,Health
+1758,user_9187,Not sure about this.,2024-11-26 01:41:00,268,Neutral,464,201,Image,Health
+1759,user_5867,Best experience ever! 😊,2024-02-11 09:18:00,441,Positive,301,448,Story,Food
+1760,user_5375,Disappointed with the service. 😡,2024-12-20 11:40:00,39,Negative,960,494,Reel,Health
+1761,user_2871,This looks okay.,2024-02-18 15:21:00,469,Neutral,924,27,Story,Animal
+1762,user_8278,Decent enough.,2024-06-16 07:15:00,71,Neutral,87,328,Image,Technology
+1763,user_7223,Decent enough.,2024-11-13 07:52:00,238,Neutral,432,39,Story,Education
+1764,user_5955,Decent enough.,2024-01-16 21:45:00,448,Neutral,699,382,Video,Travel
+1765,user_1116,Might try it later.,2024-05-11 04:31:00,499,Neutral,995,113,Image,Technology
+1766,user_1507,This looks okay.,2024-07-05 05:04:00,218,Neutral,452,500,Image,Sports
+1767,user_4137,Totally not worth it!,2024-01-21 02:51:00,46,Negative,450,414,Image,Health
+1768,user_6500,Disappointed with the service. 😡,2024-10-25 16:22:00,139,Negative,18,310,Reel,Technology
+1769,user_4515,Not sure about this.,2024-08-23 06:51:00,219,Neutral,836,156,Video,Health
+1770,user_1482,Totally not worth it!,2024-01-07 21:06:00,26,Negative,554,312,Image,Fashion
+1771,user_9628,Totally not worth it!,2024-12-24 20:14:00,277,Negative,279,6,Story,Health
+1772,user_9557,Best experience ever! 😊,2024-05-08 15:44:00,270,Positive,685,381,Video,Food
+1773,user_8913,Best experience ever! 😊,2024-05-06 15:04:00,388,Positive,271,204,Story,Health
+1774,user_9659,Not sure about this.,2024-03-25 23:45:00,250,Neutral,99,465,Image,Health
+1775,user_2543,Decent enough.,2024-08-05 20:38:00,7,Neutral,588,250,Image,Sports
+1776,user_4138,Highly recommend this! 👍,2024-01-04 02:32:00,264,Positive,838,276,Video,Sports
+1777,user_8674,Not sure about this.,2024-07-08 04:34:00,474,Neutral,901,57,Video,Travel
+1778,user_8861,This looks okay.,2024-11-22 00:53:00,16,Neutral,696,359,Story,Food
+1779,user_2212,Disappointed with the service. 😡,2024-03-08 06:52:00,227,Negative,959,67,Video,Food
+1780,user_3678,Disappointed with the service. 😡,2024-12-04 12:34:00,443,Negative,736,459,Reel,Travel
+1781,user_1271,Never buying this again.,2024-02-21 22:17:00,358,Negative,947,258,Video,Animal
+1782,user_8650,Never buying this again.,2024-10-13 05:29:00,191,Negative,610,151,Reel,Education
+1783,user_1186,Super excited about this! 🎉,2024-08-02 21:27:00,132,Positive,42,27,Story,Fashion
+1784,user_1114,Super excited about this! 🎉,2024-07-24 21:08:00,195,Positive,538,17,Video,Sports
+1785,user_2516,Highly recommend this! 👍,2024-10-27 09:05:00,211,Positive,74,188,Reel,Technology
+1786,user_3027,This is amazing! 🔥,2024-08-26 08:47:00,6,Positive,463,5,Reel,Food
+1787,user_2733,This looks okay.,2024-06-21 01:05:00,61,Neutral,814,333,Story,Food
+1788,user_7055,Could be better.,2024-10-27 00:49:00,477,Negative,475,270,Image,Fashion
+1789,user_4675,Disappointed with the service. 😡,2024-04-03 19:36:00,221,Negative,651,220,Video,Sports
+1790,user_4107,Super excited about this! 🎉,2024-01-25 13:37:00,86,Positive,258,250,Reel,Fashion
+1791,user_5605,Best experience ever! 😊,2024-07-09 08:09:00,471,Positive,392,266,Image,Food
+1792,user_5270,Might try it later.,2024-02-04 16:20:00,372,Neutral,318,126,Reel,Sports
+1793,user_4743,Such a beautiful place! 🌍,2024-03-08 08:12:00,418,Positive,874,161,Image,Education
+1794,user_9927,This is amazing! 🔥,2024-10-16 06:17:00,364,Positive,717,5,Image,Education
+1795,user_2183,Disappointed with the service. 😡,2024-03-28 18:52:00,305,Negative,512,340,Video,Travel
+1796,user_4808,Totally not worth it!,2024-12-12 20:05:00,284,Negative,68,202,Reel,Sports
+1797,user_9495,Not a fan of this. 👎,2024-12-18 09:58:00,34,Negative,667,65,Video,Fashion
+1798,user_3767,Such a beautiful place! 🌍,2024-11-04 17:45:00,238,Positive,173,376,Reel,Technology
+1799,user_1029,Highly recommend this! 👍,2024-06-09 06:35:00,454,Positive,717,184,Image,Sports
+1800,user_1928,This looks okay.,2024-02-14 20:46:00,71,Neutral,762,415,Reel,Technology
+1801,user_8114,This looks okay.,2024-03-17 10:59:00,399,Neutral,659,123,Reel,Technology
+1802,user_9785,Not a fan of this. 👎,2024-12-20 01:20:00,313,Negative,128,320,Image,Fashion
+1803,user_2735,This is amazing! 🔥,2024-09-14 21:34:00,422,Positive,379,361,Video,Animal
+1804,user_4243,Just another day.,2024-01-27 18:24:00,477,Neutral,216,273,Image,Technology
+1805,user_5369,Just another day.,2024-07-13 07:06:00,82,Neutral,98,261,Image,Fashion
+1806,user_8902,Best experience ever! 😊,2024-12-23 12:23:00,382,Positive,363,243,Image,Animal
+1807,user_6386,It's alright.,2024-12-25 14:52:00,153,Neutral,328,273,Video,Animal
+1808,user_7668,Might try it later.,2024-08-01 22:25:00,118,Neutral,238,385,Reel,Technology
+1809,user_4318,It's alright.,2024-06-06 18:43:00,67,Neutral,934,27,Video,Technology
+1810,user_3466,Love this product! ❤️,2024-11-28 05:09:00,206,Positive,389,259,Reel,Fashion
+1811,user_4072,Might try it later.,2024-05-17 02:38:00,372,Neutral,764,47,Video,Sports
+1812,user_3775,It's alright.,2024-10-21 16:21:00,38,Neutral,32,73,Reel,Sports
+1813,user_1331,Love this product! ❤️,2024-06-17 09:03:00,333,Positive,589,44,Image,Health
+1814,user_4963,Could be better.,2024-09-19 15:39:00,110,Negative,768,61,Video,Food
+1815,user_2468,Worst experience ever!,2024-04-04 12:03:00,434,Negative,340,396,Video,Sports
+1816,user_2319,Love this product! ❤️,2024-08-16 07:56:00,321,Positive,59,176,Reel,Education
+1817,user_5269,Not sure about this.,2024-03-05 17:33:00,66,Neutral,632,459,Story,Travel
+1818,user_1491,Not sure about this.,2024-04-16 08:33:00,119,Neutral,674,149,Story,Technology
+1819,user_1962,Just another day.,2024-06-23 08:06:00,101,Neutral,971,456,Video,Education
+1820,user_3175,Just another day.,2024-08-09 09:05:00,155,Neutral,823,126,Story,Animal
+1821,user_7552,Not sure about this.,2024-10-12 02:44:00,42,Neutral,413,248,Reel,Health
+1822,user_3968,Such a beautiful place! 🌍,2024-08-05 12:56:00,448,Positive,324,94,Video,Technology
+1823,user_6969,Super excited about this! 🎉,2024-08-07 03:57:00,253,Positive,633,384,Image,Health
+1824,user_2491,Disappointed with the service. 😡,2024-11-16 16:25:00,253,Negative,180,255,Image,Animal
+1825,user_7809,Just another day.,2024-09-04 16:58:00,283,Neutral,639,182,Video,Animal
+1826,user_3204,Such a beautiful place! 🌍,2024-04-14 14:53:00,171,Positive,483,462,Story,Health
+1827,user_3525,Disappointed with the service. 😡,2024-03-24 13:54:00,336,Negative,876,242,Image,Animal
+1828,user_8087,Super excited about this! 🎉,2024-02-12 13:02:00,455,Positive,172,252,Reel,Food
+1829,user_6358,Just another day.,2024-11-03 05:56:00,63,Neutral,540,383,Video,Sports
+1830,user_9663,Highly recommend this! 👍,2024-05-21 08:50:00,484,Positive,160,440,Story,Animal
+1831,user_4269,It's alright.,2024-02-26 14:34:00,390,Neutral,890,463,Image,Education
+1832,user_2890,Highly recommend this! 👍,2024-10-23 22:15:00,203,Positive,386,187,Image,Sports
+1833,user_1899,Disappointed with the service. 😡,2024-01-25 01:44:00,452,Negative,415,478,Story,Technology
+1834,user_4533,Such a beautiful place! 🌍,2024-06-14 20:19:00,39,Positive,97,77,Story,Sports
+1835,user_8239,Just another day.,2024-06-21 16:59:00,168,Neutral,812,333,Video,Sports
+1836,user_5641,Decent enough.,2024-11-19 06:13:00,381,Neutral,714,189,Story,Food
+1837,user_8685,Never buying this again.,2024-08-27 23:04:00,276,Negative,512,368,Image,Health
+1838,user_2592,This looks okay.,2024-06-08 22:52:00,17,Neutral,811,439,Image,Animal
+1839,user_3532,Best experience ever! 😊,2024-10-22 00:25:00,435,Positive,589,219,Image,Fashion
+1840,user_1561,Such a beautiful place! 🌍,2024-10-28 04:52:00,207,Positive,19,203,Video,Education
+1841,user_4811,Never buying this again.,2024-10-09 19:02:00,126,Negative,587,473,Video,Technology
+1842,user_1659,Disappointed with the service. 😡,2024-08-06 20:05:00,372,Negative,603,159,Image,Fashion
+1843,user_3498,Worst experience ever!,2024-12-12 18:17:00,444,Negative,501,27,Reel,Fashion
+1844,user_2415,Might try it later.,2024-07-20 01:25:00,465,Neutral,987,212,Image,Sports
+1845,user_5746,Disappointed with the service. 😡,2024-08-20 00:50:00,75,Negative,240,492,Story,Food
+1846,user_8166,This is amazing! 🔥,2024-07-17 15:44:00,105,Positive,105,334,Image,Fashion
+1847,user_5589,This is amazing! 🔥,2024-01-25 06:42:00,491,Positive,494,52,Video,Animal
+1848,user_1535,This is amazing! 🔥,2024-07-02 05:16:00,392,Positive,781,18,Reel,Travel
+1849,user_6349,Totally not worth it!,2024-09-26 20:09:00,394,Negative,831,361,Reel,Health
+1850,user_9732,Best experience ever! 😊,2024-04-16 14:10:00,50,Positive,107,230,Image,Education
+1851,user_3176,Not a fan of this. 👎,2024-07-12 08:21:00,482,Negative,507,262,Reel,Sports
+1852,user_9649,It's alright.,2024-02-20 23:17:00,251,Neutral,633,462,Image,Technology
+1853,user_8681,Super excited about this! 🎉,2024-09-22 07:43:00,4,Positive,22,44,Image,Food
+1854,user_1829,Super excited about this! 🎉,2024-09-16 06:20:00,216,Positive,404,328,Video,Fashion
+1855,user_6909,Not sure about this.,2024-11-21 10:59:00,412,Neutral,197,127,Reel,Fashion
+1856,user_9001,Never buying this again.,2024-03-24 13:52:00,69,Negative,483,174,Image,Animal
+1857,user_2625,Totally not worth it!,2024-10-13 15:50:00,358,Negative,562,379,Story,Technology
+1858,user_9772,Disappointed with the service. 😡,2024-04-03 08:38:00,120,Negative,450,105,Video,Travel
+1859,user_1512,Never buying this again.,2024-11-16 07:24:00,273,Negative,706,74,Video,Fashion
+1860,user_3902,Super excited about this! 🎉,2024-06-14 15:16:00,397,Positive,18,468,Video,Education
+1861,user_8110,Could be better.,2024-11-17 11:13:00,172,Negative,169,212,Video,Food
+1862,user_9108,Love this product! ❤️,2024-09-01 09:54:00,70,Positive,119,384,Image,Sports
+1863,user_8135,Just another day.,2024-01-26 04:35:00,421,Neutral,582,268,Story,Education
+1864,user_8534,Decent enough.,2024-05-07 00:03:00,302,Neutral,412,60,Image,Technology
+1865,user_1371,Not a fan of this. 👎,2024-01-18 06:50:00,336,Negative,566,491,Image,Sports
+1866,user_5584,Could be better.,2024-01-03 11:26:00,213,Negative,578,86,Image,Education
+1867,user_1556,Totally not worth it!,2024-08-22 02:11:00,200,Negative,159,281,Story,Technology
+1868,user_1933,Never buying this again.,2024-03-10 07:24:00,182,Negative,303,96,Video,Fashion
+1869,user_1407,Love this product! ❤️,2024-05-03 14:05:00,411,Positive,580,35,Video,Health
+1870,user_6797,Best experience ever! 😊,2024-08-09 11:35:00,17,Positive,84,67,Reel,Animal
+1871,user_9574,Worst experience ever!,2024-01-03 12:48:00,471,Negative,770,375,Image,Sports
+1872,user_4124,Not sure about this.,2024-02-18 00:51:00,339,Neutral,945,211,Image,Education
+1873,user_9553,Love this product! ❤️,2024-08-04 21:32:00,285,Positive,697,279,Story,Fashion
+1874,user_3461,Might try it later.,2024-08-25 07:26:00,82,Neutral,255,149,Image,Food
+1875,user_6460,This is amazing! 🔥,2024-11-09 23:14:00,224,Positive,189,400,Story,Fashion
+1876,user_4241,This looks okay.,2024-02-07 05:13:00,184,Neutral,251,127,Image,Fashion
+1877,user_2230,Worst experience ever!,2024-06-13 02:47:00,484,Negative,702,75,Reel,Travel
+1878,user_5347,Super excited about this! 🎉,2024-01-14 00:12:00,65,Positive,556,379,Story,Animal
+1879,user_2756,Decent enough.,2024-08-03 16:40:00,261,Neutral,571,108,Reel,Health
+1880,user_5797,Highly recommend this! 👍,2024-07-15 01:19:00,335,Positive,838,410,Reel,Food
+1881,user_4135,Just another day.,2024-12-08 06:58:00,130,Neutral,956,444,Image,Technology
+1882,user_3427,Totally not worth it!,2024-10-26 23:00:00,231,Negative,276,82,Image,Travel
+1883,user_6724,Worst experience ever!,2024-01-19 14:05:00,373,Negative,592,25,Image,Animal
+1884,user_1285,Disappointed with the service. 😡,2024-01-16 00:45:00,395,Negative,13,447,Reel,Food
+1885,user_3561,Disappointed with the service. 😡,2024-02-11 01:22:00,98,Negative,139,124,Video,Technology
+1886,user_2952,Highly recommend this! 👍,2024-11-03 11:03:00,211,Positive,222,177,Reel,Food
+1887,user_3682,Not sure about this.,2024-05-03 22:03:00,480,Neutral,356,38,Video,Education
+1888,user_9687,Such a beautiful place! 🌍,2024-11-24 03:38:00,52,Positive,488,490,Image,Fashion
+1889,user_7448,Worst experience ever!,2024-09-02 03:36:00,484,Negative,52,292,Image,Technology
+1890,user_1249,This is amazing! 🔥,2024-01-24 07:58:00,277,Positive,946,473,Reel,Animal
+1891,user_9258,Disappointed with the service. 😡,2024-07-01 10:33:00,273,Negative,964,130,Reel,Technology
+1892,user_3303,Love this product! ❤️,2024-06-16 07:52:00,380,Positive,53,104,Reel,Health
+1893,user_9825,Decent enough.,2024-11-21 06:21:00,406,Neutral,281,428,Video,Food
+1894,user_7069,Worst experience ever!,2024-10-24 03:26:00,138,Negative,450,354,Story,Food
+1895,user_7794,Not sure about this.,2024-09-09 23:50:00,201,Neutral,161,444,Image,Education
+1896,user_1645,This looks okay.,2024-01-03 21:03:00,481,Neutral,536,100,Story,Food
+1897,user_1726,Might try it later.,2024-01-09 11:45:00,210,Neutral,455,76,Story,Animal
+1898,user_1697,Decent enough.,2024-09-08 16:15:00,61,Neutral,39,146,Image,Animal
+1899,user_2602,Disappointed with the service. 😡,2024-12-22 23:17:00,363,Negative,49,449,Image,Animal
+1900,user_5884,Highly recommend this! 👍,2024-05-13 04:27:00,20,Positive,728,95,Video,Education
+1901,user_3619,Just another day.,2024-06-02 12:21:00,158,Neutral,793,120,Reel,Fashion
+1902,user_1079,Such a beautiful place! 🌍,2024-11-06 19:03:00,34,Positive,423,13,Story,Fashion
+1903,user_4008,Decent enough.,2024-08-05 12:35:00,106,Neutral,304,475,Story,Education
+1904,user_9703,Not sure about this.,2024-06-01 08:47:00,241,Neutral,323,485,Video,Education
+1905,user_3337,Could be better.,2024-02-20 10:32:00,334,Negative,382,216,Image,Food
+1906,user_2655,Totally not worth it!,2024-09-24 15:03:00,196,Negative,650,265,Image,Health
+1907,user_3703,Super excited about this! 🎉,2024-10-07 02:56:00,438,Positive,269,415,Story,Health
+1908,user_1215,It's alright.,2024-12-08 19:59:00,194,Neutral,466,427,Story,Fashion
+1909,user_5301,Disappointed with the service. 😡,2024-07-12 16:22:00,178,Negative,863,307,Video,Animal
+1910,user_8249,Might try it later.,2024-07-01 11:12:00,295,Neutral,237,373,Reel,Health
+1911,user_2056,Such a beautiful place! 🌍,2024-01-02 04:29:00,321,Positive,906,41,Reel,Health
+1912,user_3694,Highly recommend this! 👍,2024-10-18 10:18:00,313,Positive,648,306,Story,Travel
+1913,user_4539,Super excited about this! 🎉,2024-09-24 11:46:00,306,Positive,166,146,Story,Technology
+1914,user_1715,This looks okay.,2024-01-14 04:10:00,150,Neutral,63,283,Story,Health
+1915,user_4307,Disappointed with the service. 😡,2024-04-08 17:02:00,484,Negative,943,293,Reel,Education
+1916,user_6354,Totally not worth it!,2024-04-23 20:50:00,260,Negative,102,361,Image,Sports
+1917,user_2783,Highly recommend this! 👍,2024-08-11 20:42:00,49,Positive,406,329,Reel,Health
+1918,user_7984,Worst experience ever!,2024-08-06 06:25:00,325,Negative,683,126,Reel,Sports
+1919,user_8742,Totally not worth it!,2024-02-10 22:37:00,409,Negative,845,280,Story,Animal
+1920,user_7232,Disappointed with the service. 😡,2024-11-08 21:14:00,63,Negative,833,403,Story,Health
+1921,user_4609,Such a beautiful place! 🌍,2024-02-15 23:19:00,256,Positive,247,339,Reel,Food
+1922,user_1940,Disappointed with the service. 😡,2024-01-03 04:47:00,165,Negative,214,165,Story,Animal
+1923,user_8596,Highly recommend this! 👍,2024-09-06 02:57:00,276,Positive,20,171,Image,Animal
+1924,user_5617,Just another day.,2024-01-17 14:31:00,227,Neutral,533,416,Story,Food
+1925,user_5557,Never buying this again.,2024-01-02 08:39:00,238,Negative,294,100,Reel,Animal
+1926,user_6676,Decent enough.,2024-05-20 15:46:00,357,Neutral,471,401,Reel,Health
+1927,user_7622,Never buying this again.,2024-09-20 23:40:00,459,Negative,954,225,Image,Education
+1928,user_1432,Best experience ever! 😊,2024-08-17 06:00:00,117,Positive,27,475,Image,Animal
+1929,user_7895,Love this product! ❤️,2024-02-14 22:25:00,72,Positive,525,164,Story,Food
+1930,user_3487,Worst experience ever!,2024-12-04 23:54:00,434,Negative,673,77,Story,Technology
+1931,user_5497,Not sure about this.,2024-08-17 06:46:00,203,Neutral,279,356,Story,Fashion
+1932,user_7343,Love this product! ❤️,2024-08-13 00:51:00,425,Positive,773,101,Story,Travel
+1933,user_5843,Not a fan of this. 👎,2024-12-25 22:19:00,497,Negative,160,295,Video,Travel
+1934,user_9118,Such a beautiful place! 🌍,2024-07-06 07:09:00,156,Positive,570,371,Story,Health
+1935,user_6138,Might try it later.,2024-08-11 16:10:00,340,Neutral,29,77,Video,Fashion
+1936,user_6916,Disappointed with the service. 😡,2024-04-22 22:07:00,327,Negative,631,30,Image,Sports
+1937,user_6459,Not a fan of this. 👎,2024-04-28 12:00:00,265,Negative,596,169,Story,Fashion
+1938,user_9003,Love this product! ❤️,2024-03-28 22:14:00,219,Positive,630,382,Image,Animal
+1939,user_1640,Such a beautiful place! 🌍,2024-01-02 12:21:00,493,Positive,714,18,Reel,Food
+1940,user_7904,This is amazing! 🔥,2024-05-07 05:13:00,202,Positive,832,313,Image,Fashion
+1941,user_6886,Not a fan of this. 👎,2024-08-06 23:45:00,164,Negative,278,499,Story,Technology
+1942,user_1060,Love this product! ❤️,2024-09-17 01:00:00,249,Positive,924,411,Video,Sports
+1943,user_7953,This looks okay.,2024-04-24 07:57:00,59,Neutral,923,189,Story,Food
+1944,user_7849,Super excited about this! 🎉,2024-12-25 16:17:00,180,Positive,718,453,Story,Education
+1945,user_8874,Not sure about this.,2024-04-21 21:46:00,119,Neutral,998,417,Video,Technology
+1946,user_1668,Disappointed with the service. 😡,2024-12-14 20:51:00,170,Negative,364,253,Image,Food
+1947,user_2671,Could be better.,2024-08-05 03:06:00,231,Negative,801,424,Video,Travel
+1948,user_6814,Might try it later.,2024-10-04 19:34:00,127,Neutral,80,11,Reel,Technology
+1949,user_1549,Super excited about this! 🎉,2024-01-01 11:24:00,327,Positive,368,317,Video,Travel
+1950,user_9999,Disappointed with the service. 😡,2024-02-17 13:20:00,214,Negative,897,255,Video,Technology
+1951,user_4035,This is amazing! 🔥,2024-01-16 11:18:00,158,Positive,885,5,Video,Technology
+1952,user_9510,It's alright.,2024-06-21 09:36:00,69,Neutral,747,383,Story,Health
+1953,user_7907,Might try it later.,2024-11-16 20:28:00,421,Neutral,940,317,Reel,Health
+1954,user_7181,This looks okay.,2024-12-19 23:54:00,277,Neutral,618,401,Image,Food
+1955,user_9776,Might try it later.,2024-10-03 05:48:00,498,Neutral,258,43,Reel,Travel
+1956,user_6794,Best experience ever! 😊,2024-10-16 06:18:00,484,Positive,651,491,Video,Sports
+1957,user_7958,Super excited about this! 🎉,2024-11-21 08:48:00,485,Positive,945,415,Image,Fashion
+1958,user_8402,Such a beautiful place! 🌍,2024-05-06 06:04:00,206,Positive,658,309,Image,Fashion
+1959,user_7444,Not a fan of this. 👎,2024-03-09 14:12:00,345,Negative,937,277,Reel,Food
+1960,user_8143,Just another day.,2024-09-25 09:31:00,140,Neutral,812,273,Video,Education
+1961,user_9349,This is amazing! 🔥,2024-07-06 14:44:00,435,Positive,52,429,Story,Health
+1962,user_2778,Best experience ever! 😊,2024-05-13 08:01:00,177,Positive,871,386,Video,Technology
+1963,user_6053,Might try it later.,2024-12-02 20:40:00,24,Neutral,883,180,Story,Education
+1964,user_5535,This looks okay.,2024-02-20 17:10:00,37,Neutral,409,344,Story,Sports
+1965,user_6564,Decent enough.,2024-05-01 01:52:00,97,Neutral,860,177,Story,Technology
+1966,user_9111,This is amazing! 🔥,2024-04-04 23:42:00,256,Positive,939,18,Video,Food
+1967,user_4026,Could be better.,2024-05-05 19:54:00,74,Negative,478,65,Story,Health
+1968,user_3512,Decent enough.,2024-08-24 04:31:00,265,Neutral,276,459,Reel,Education
+1969,user_7584,Disappointed with the service. 😡,2024-01-24 14:25:00,111,Negative,281,215,Reel,Education
+1970,user_5252,Totally not worth it!,2024-06-16 20:22:00,2,Negative,685,459,Image,Technology
+1971,user_8122,Totally not worth it!,2024-04-22 07:05:00,92,Negative,234,188,Video,Sports
+1972,user_4896,Totally not worth it!,2024-04-14 14:00:00,307,Negative,968,100,Reel,Food
+1973,user_3488,Best experience ever! 😊,2024-07-24 01:53:00,364,Positive,840,117,Video,Technology
+1974,user_8291,It's alright.,2024-05-14 09:05:00,168,Neutral,638,366,Image,Fashion
+1975,user_6857,Might try it later.,2024-11-02 03:06:00,318,Neutral,955,13,Video,Sports
+1976,user_3437,Worst experience ever!,2024-07-05 21:53:00,216,Negative,972,18,Image,Food
+1977,user_1905,Could be better.,2024-11-12 21:27:00,414,Negative,195,43,Image,Education
+1978,user_1418,It's alright.,2024-12-15 02:47:00,76,Neutral,886,277,Story,Animal
+1979,user_4727,Disappointed with the service. 😡,2024-10-22 15:40:00,123,Negative,613,5,Reel,Sports
+1980,user_7550,Disappointed with the service. 😡,2024-01-09 04:27:00,84,Negative,841,184,Story,Animal
+1981,user_5691,Totally not worth it!,2024-03-25 22:01:00,26,Negative,308,442,Image,Sports
+1982,user_4187,Super excited about this! 🎉,2024-02-18 07:12:00,148,Positive,386,18,Image,Sports
+1983,user_2118,Such a beautiful place! 🌍,2024-01-05 02:06:00,461,Positive,410,105,Reel,Technology
+1984,user_1945,This looks okay.,2024-08-26 07:48:00,104,Neutral,982,123,Reel,Fashion
+1985,user_8366,Love this product! ❤️,2024-02-10 08:39:00,260,Positive,681,415,Story,Fashion
+1986,user_7543,Super excited about this! 🎉,2024-05-08 01:54:00,335,Positive,13,372,Story,Sports
+1987,user_1142,Not sure about this.,2024-12-19 07:30:00,275,Neutral,669,248,Reel,Fashion
+1988,user_2227,Never buying this again.,2024-08-05 20:24:00,147,Negative,553,248,Story,Education
+1989,user_7568,Just another day.,2024-06-01 19:42:00,366,Neutral,83,209,Image,Animal
+1990,user_1827,Love this product! ❤️,2024-12-17 04:15:00,59,Positive,149,343,Image,Sports
+1991,user_8800,Not sure about this.,2024-03-14 04:45:00,241,Neutral,384,6,Reel,Technology
+1992,user_3639,Such a beautiful place! 🌍,2024-05-19 03:29:00,9,Positive,916,335,Story,Animal
+1993,user_8516,Not sure about this.,2024-01-10 09:39:00,214,Neutral,203,271,Image,Health
+1994,user_3312,This is amazing! 🔥,2024-06-22 08:02:00,426,Positive,844,203,Image,Fashion
+1995,user_4245,Highly recommend this! 👍,2024-09-12 16:39:00,126,Positive,480,234,Story,Food
+1996,user_2267,Love this product! ❤️,2024-12-28 11:58:00,491,Positive,359,432,Reel,Travel
+1997,user_6311,Not sure about this.,2024-07-03 01:52:00,471,Neutral,565,59,Image,Health
+1998,user_7532,Not a fan of this. 👎,2024-05-24 18:52:00,253,Negative,179,137,Video,Technology
+1999,user_1338,Best experience ever! 😊,2024-10-23 18:44:00,491,Positive,236,456,Video,Animal
+2000,user_7358,Disappointed with the service. 😡,2024-05-02 20:40:00,111,Negative,632,371,Image,Health
